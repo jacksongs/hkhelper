@@ -1,0 +1,402 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,202012,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,202012,,issue,202012,期號：2020年12月,Issue : December 2020
+HKMDS,202012,T1001,table,T1001,表10.1：進出香港的飛機、船隻、車輛及火車,"Table 10.1 : Inward and outward movements of aircraft, vessels, motor vehicles and trains"
+HKMDS,202012,T1001,stat,M100101,進出香港的飛機[架次]、船隻[船次]、車輛[架次]及火車[班次],"Inward and outward movements of aircraft, vessels, motor vehicles and trains [numbers]"
+HKMDS,202012,T1001,stat,M100102,進出香港的船隻[千淨噸位],Inward and outward movements of vessels [thousand NT]
+HKMDS,202012,T1001,class1,transpor,運輸工具,Transportation
+HKMDS,202012,T1001,class1_code,transpor_01,飛機 [架次],Aircraft [numbers]
+HKMDS,202012,T1001,class1_code,transpor_02,遠洋輪船,Ocean vessels
+HKMDS,202012,T1001,class1_code,transpor_0301,內河船隻 (註釋 1) - 來往珠江口岸 (澳門除外) 的客船,River vessels (note 1) - Passenger vessels to/from Pearl River ports (other than Macao)
+HKMDS,202012,T1001,class1_code,transpor_0302,內河船隻 (註釋 1) - 來往澳門的客船,River vessels (note 1) - Passenger vessels to/from Macao
+HKMDS,202012,T1001,class1_code,transpor_0303,內河船隻 (註釋 1) - 貨船,River vessels (note 1) - Cargo vessels
+HKMDS,202012,T1001,class1_code,transpor_0401,車輛 [架次] (註釋 2) - 貨運車輛,Motor vehicles [numbers] (note 2) - Goods vehicles
+HKMDS,202012,T1001,class1_code,transpor_0402,車輛 [架次] (註釋 2) - 客運車輛,Motor vehicles [numbers] (note 2) - Passenger vehicles
+HKMDS,202012,T1001,class1_code,transpor_05,火車 - 客運火車 [班次] (註釋 3),Trains - Passenger trains [numbers] (note 3)
+HKMDS,202012,T1001,class2,movement,抵港、離港,"Arrivals, Departures"
+HKMDS,202012,T1001,class2_code,movement_01,抵港,Arrivals
+HKMDS,202012,T1001,class2_code,movement_02,離港,Departures
+HKMDS,202012,T1001,class2_code,movement_tt,總計,Total
+HKMDS,202012,T1001,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202012,T1001,figure,N.A.,暫時沒有數字,Not yet available
+HKMDS,202012,T1001,other_info,note_G1,NT = 淨噸位,NT = Net tonnage
+HKMDS,202012,T1001,other_info,note_G2,自2020年1月30日起，高鐵西九龍、紅磡、文錦渡、沙頭角、中國客運碼頭和屯門客運碼頭等管制站暫停提供客運通關服務。自2020年2月4日起，羅湖、落馬洲支線、落馬洲和港澳客輪碼頭等管制站暫停提供客運通關服務。自2020年2月5日下午起，啟德郵輪碼頭暫停提供客運通關服務。除包租快船轉駁服務之外，在海天客運碼頭來往香港國際機場與內地及澳門的定期快船轉駁服務自2020年4月起經已暫停，直至另行通知。,"The passenger clearance services at the control points of Express Rail Link West Kowloon, Hung Hom, Man Kam To, Sha Tau Kok, China Ferry Terminal and Tuen Mun Ferry Terminal have been temporarily suspended starting from 30 January 2020.  The passenger clearance services at the control points of Lo Wu, Lok Ma Chau Spur Line, Lok Ma Chau and Macau Ferry Terminal have been temporarily suspended starting from 4 February 2020.  The passenger clearance services at Kai Tak Cruise Terminal have been temporarily suspended starting from PM of 5 February 2020.  Except for the chartered ferry transfer services, the scheduled ferry transfer services at SkyPier between Hong Kong International Airport (HKIA) and the Mainland China and Macao have been suspended since April 2020 until further notice."
+HKMDS,202012,T1001,other_info,note_1,(註釋 1) 由於不能準確地統計本地領牌遊樂船和漁船來往香港及內河航限內的船次，故這兩類船隻沒有包括在內河船隻統計範圍內。由2017年開始，內河客船包括在內河航限行駛的郵船。,"(note 1) As accurate number of trips of locally licensed pleasure vessels and fishing vessels plying between Hong Kong and the river trade limits is not available, these two categories of vessels are not included in the river vessel statistics.  As from 2017, river passenger vessels include cruises plying within the river trade limits."
+HKMDS,202012,T1001,other_info,note_2,(註釋 2) 港珠澳大橋於2018年10月24日開始通車營運。由2018年10月開始，數字亦包括使用港珠澳大橋的車輛。香園圍管制站於2020年8月26日開始提供貨車通關服務。由2020年8月開始，數字亦包括使用香園圍管制站的貨運車輛。,(note 2) The Hong Kong-Zhuhai-Macao Bridge commenced operation on 24 October 2018.  Figures as from October 2018 also include those vehicles using the Hong Kong-Zhuhai-Macao Bridge.  Cargo clearance service at Heung Yuen Wai Control Point commenced operation on 26 August 2020.  Figures as from August 2020 also include those goods vehicles using Heung Yuen Wai Control Point.
+HKMDS,202012,T1001,other_info,note_3,(註釋 3) 高速鐵路 (香港段) 於2018年9月23日開始投入服務。由2018年9月開始，數字除包括城際直通車服務外，亦包括高速鐵路 (香港段) 服務。,"(note 3) The High Speed Rail (Hong Kong Section) commenced service on 23 September 2018.  Figures as from September 2018 also include the High Speed Rail (Hong Kong Section) service, in addition to the Intercity Through Train service."
+HKMDS,202012,T1001,other_info,source,民航處；香港海關；海事處；香港鐵路有限公司,Civil Aviation Department; Customs and Excise Department; Marine Department; MTR Corporation Limited
+HKMDS,202012,T1002,table,T1002,表10.2：進出香港的貨物,Table 10.2 : Inward and outward movements of cargo
+HKMDS,202012,T1002,stat,M100201,進出香港的貨物 [千公噸],Inward and outward movements of cargo [Thousand tonnes]
+HKMDS,202012,T1002,class1,mode,運輸方式,Mode of transport
+HKMDS,202012,T1002,class1_code,mode_01,空運,By air
+HKMDS,202012,T1002,class1_code,mode_02,海運,By ocean
+HKMDS,202012,T1002,class1_code,mode_03,河運,By river
+HKMDS,202012,T1002,class1_code,mode_04,道路運輸 (註釋 1),By road (note 1)
+HKMDS,202012,T1002,class1_code,mode_tt,總計,Total
+HKMDS,202012,T1002,class2,cargomove,卸下、裝上,"Discharged, Loaded"
+HKMDS,202012,T1002,class2_code,cargomove_01,卸下,Discharged
+HKMDS,202012,T1002,class2_code,cargomove_02,裝上,Loaded
+HKMDS,202012,T1002,class2_code,cargomove_tt,總計,Total
+HKMDS,202012,T1002,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202012,T1002,figure,N.A.,暫時沒有數字,Not yet available
+HKMDS,202012,T1002,other_info,note_1,(註釋 1) 港珠澳大橋於2018年10月24日開始通車營運。由2018年10月開始，道路貨物數字亦包括港珠澳大橋。香園圍管制站於2020年8月26日開始通車營運。由於缺乏數據，道路貨物數字未能包括香園圍管制站的相關數字。,"(note 1) The Hong Kong-Zhuhai-Macao Bridge commenced operation on 24 October 2018.  The road cargo figures as from October 2018 include those of the Hong Kong-Zhuhai-Macao Bridge.  Heung Yuen Wai Control Point commenced operation on 26 August 2020.  Owing to the lack of data, the road cargo figures do not include those of Heung Yuen Wai Control Point."
+HKMDS,202012,T1002,other_info,source,民航處；香港海關；政府統計處外發加工貿易及船務統計組,"Civil Aviation Department; Customs and Excise Department; Outward Processing and Shipping Statistics Section, Census and Statistics Department"
+HKMDS,202012,T1003,table,T1003,表10.3：按主要貨物裝卸地點劃分的港口貨櫃吞吐量,Table 10.3：Port container throughput by main cargo handling location
+HKMDS,202012,T1003,stat,M100301,港口貨櫃吞吐量 [千個標準貨櫃單位],Port container throughput [Thousand TEUs]
+HKMDS,202012,T1003,class1,location,主要貨物裝卸地點,Main cargo handling location
+HKMDS,202012,T1003,class1_code,location_01,葵青貨櫃碼頭,Kwai Tsing Container Terminals
+HKMDS,202012,T1003,class1_code,location_02,葵青貨櫃碼頭以外,Other than Kwai Tsing Container Terminals
+HKMDS,202012,T1003,class1_code,location_tt,總吞吐量,Total throughput
+HKMDS,202012,T1003,class2,contmove,抵港、離港,"Inward, Outward "
+HKMDS,202012,T1003,class2_code,contmove_01,抵港,Inward
+HKMDS,202012,T1003,class2_code,contmove_02,離港,Outward
+HKMDS,202012,T1003,class2_code,contmove_tt,總計,Total
+HKMDS,202012,T1003,class3,conttype,貨櫃種類,Type of container
+HKMDS,202012,T1003,class3_code,conttype_01,載貨貨櫃,Laden
+HKMDS,202012,T1003,class3_code,conttype_02,空貨櫃,Empty
+HKMDS,202012,T1003,class3_code,conttype_tt,總計,Total
+HKMDS,202012,T1003,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202012,T1003,figure,N.A.,暫時沒有數字,Not yet available
+HKMDS,202012,T1003,other_info,note_G1,一個標準貨櫃單位等同一個20呎貨櫃的容量。,TEU refers to a 20-foot equivalent unit.
+HKMDS,202012,T1003,other_info,source,海事處；政府統計處外發加工貿易及船務統計組,"Marine Department; Outward Processing and Shipping Statistics Section, Census and Statistics Department"
+HKMDS,202012,T1004,table,T1004,表10.4：按公共交通營辦商劃分的公共交通平均每日乘客人次,Table 10.4 : Average daily public transport passenger journeys by public transport operator
+HKMDS,202012,T1004,stat,M100401,公共交通平均每日乘客人次 [千人次],Average daily public transport passenger journeys [Thousands]
+HKMDS,202012,T1004,class1,operator,公共交通營辦商,Public transport operator
+HKMDS,202012,T1004,class1_code,operator_0101,專營巴士 - 九巴,Franchised buses - Kowloon Motor Bus
+HKMDS,202012,T1004,class1_code,operator_0102,專營巴士 - 城巴,Franchised buses - Citybus
+HKMDS,202012,T1004,class1_code,operator_0103,專營巴士 - 新巴,Franchised buses - New World First Bus
+HKMDS,202012,T1004,class1_code,operator_0104,專營巴士 - 龍運巴士,Franchised buses - Long Win Bus
+HKMDS,202012,T1004,class1_code,operator_0105,專營巴士 - 新大嶼山巴士,Franchised buses - New Lantao Bus
+HKMDS,202012,T1004,class1_code,operator_01tt,專營巴士 - 總計,Franchised buses - Total
+HKMDS,202012,T1004,class1_code,operator_02,居民巴士 (註釋 1),Residents' services (note 1)
+HKMDS,202012,T1004,class1_code,operator_03,港鐵巴士 (新界西北),MTR buses (Northwest New Territories)
+HKMDS,202012,T1004,class1_code,operator_0401,鐵路 - 港鐵線路 (註釋 2),Railways - MTR Lines (note 2)
+HKMDS,202012,T1004,class1_code,operator_0402,鐵路 - 機場快線,Railways - Airport Express Line
+HKMDS,202012,T1004,class1_code,operator_0403,鐵路 - 輕鐵,Railways - Light Rail
+HKMDS,202012,T1004,class1_code,operator_0404,鐵路 - 香港電車 (註釋 3),Railways - Hongkong Tramways (note 3)
+HKMDS,202012,T1004,class1_code,operator_04tt,鐵路 - 總計,Railways - Total
+HKMDS,202012,T1004,class1_code,operator_0501,公共小巴 - 專線小巴,Public light buses - Green minibus
+HKMDS,202012,T1004,class1_code,operator_0502,公共小巴 - 紅色小巴,Public light buses - Red minibus
+HKMDS,202012,T1004,class1_code,operator_05tt,公共小巴 - 總計,Public light buses - Total
+HKMDS,202012,T1004,class1_code,operator_06,的士,Taxi
+HKMDS,202012,T1004,class1_code,operator_0701,渡輪 (註釋 4) - 新世界第一渡輪,Ferries (note 4) - New World First Ferry
+HKMDS,202012,T1004,class1_code,operator_0702,渡輪 (註釋 4) - 天星小輪,Ferries (note 4) - Star Ferry
+HKMDS,202012,T1004,class1_code,operator_0703,渡輪 (註釋 4) - 其他持牌渡輪,Ferries (note 4) - Other licensed ferries
+HKMDS,202012,T1004,class1_code,operator_07tt,渡輪 (註釋 4) - 總計,Ferries (note 4) - Total
+HKMDS,202012,T1004,class1_code,operator_tt,總計,Total
+HKMDS,202012,T1004,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202012,T1004,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202012,T1004,other_info,note_1,(註釋 1) 居民巴士服務是由或代任何住宅發展的管理機構、住客或擁有人提供，以運載乘客往返該住宅發展的服務。居民巴士服務是非專營公共巴士服務的其中一種。非專營公共巴士亦提供遊覽服務、酒店服務、學生服務、僱員服務、國際乘客服務及合約式出租服務，但因沒有相關資料，這些服務的乘客人次數字未能提供。,"(note 1) Residents' services are services provided by or on behalf of the management, residents or owners of any residential development for the carriage of passengers to or from the residential development.  Residents' services are a type of non-franchised public bus services.  Non-franchised public buses also provide tour service, hotel service, student service, employees' service, international passenger service and contract hire service.  However, since relevant data are not available, the patronage figures for these services cannot be provided."
+HKMDS,202012,T1004,other_info,note_2,(註釋 2) 港鐵線路包括觀塘線、荃灣線、港島線、東涌線、迪士尼線、將軍澳線、東鐵線、西鐵線、南港島線、屯馬線一期、城際客運及高速鐵路（香港段）。,"(note 2) MTR Lines include Kwun Tong Line, Tsuen Wan Line, Island Line, Tung Chung Line, Disneyland Resort Line, Tseung Kwan O Line, East Rail Line, West Rail Line, South Island Line, Tuen Ma Line Phase 1, Intercity Through Train and the High Speed Rail (Hong Kong Section)."
+HKMDS,202012,T1004,other_info,note_3,(註釋 3) 不包括免費乘搭日的乘客及在選定日期可免費乘坐電車的特定乘客。,(note 3) Excluding passengers on free ride days and specific groups of passengers enjoying free rides on selected days.
+HKMDS,202012,T1004,other_info,note_4,(註釋 4) 「渡輪」包括專營及持牌渡輪服務，但不包括街渡。,"(note 4) ""Ferries"" includes franchised and licensed services but excludes kaitos."
+HKMDS,202012,T1004,other_info,source,運輸署,Transport Department
+HKMDS,202012,T1005,table,T1005,表10.5：領牌及新登記車輛數字,Table 10.5 : Motor vehicles licensed and newly registered
+HKMDS,202012,T1005,stat,M100501,領牌總數,Total licensed
+HKMDS,202012,T1005,stat,M100502,新登記,New registration 
+HKMDS,202012,T1005,stat,M100503,已登記所有車輛總數,Total registered of all vehicles
+HKMDS,202012,T1005,stat,M100504,已登記私家車總數,Total registered of private cars
+HKMDS,202012,T1005,class1,vehicles,車輛,Motor vehicles
+HKMDS,202012,T1005,class1_code,vehicles_01,電單車 (註釋 1),Motorcycles (note 1)
+HKMDS,202012,T1005,class1_code,vehicles_02,私家車,Private cars 
+HKMDS,202012,T1005,class1_code,vehicles_0301,的士 - 市區,Taxis - Urban
+HKMDS,202012,T1005,class1_code,vehicles_0302,的士 - 新界,Taxis - New Territories
+HKMDS,202012,T1005,class1_code,vehicles_0303,的士 - 大嶼山,Taxis - Lantau
+HKMDS,202012,T1005,class1_code,vehicles_03tt,的士 - 總計,Taxis - Total
+HKMDS,202012,T1005,class1_code,vehicles_0401,公共巴士 - 新巴,Public buses - New World First Bus
+HKMDS,202012,T1005,class1_code,vehicles_0402,公共巴士 - 九巴,Public buses - Kowloon Motor Bus
+HKMDS,202012,T1005,class1_code,vehicles_0403,公共巴士 - 城巴 (註釋 2),Public buses - Citybus (note 2)
+HKMDS,202012,T1005,class1_code,vehicles_0404,公共巴士 - 新大嶼山巴士,Public buses - New Lantao Bus
+HKMDS,202012,T1005,class1_code,vehicles_0405,公共巴士 - 龍運巴士,Public buses - Long Win Bus
+HKMDS,202012,T1005,class1_code,vehicles_0406,公共巴士 - 其他 (註釋 3),Public buses - Others (note 3)
+HKMDS,202012,T1005,class1_code,vehicles_04tt,公共巴士 - 總計,Public buses - Total
+HKMDS,202012,T1005,class1_code,vehicles_05,私家巴士,Private buses
+HKMDS,202012,T1005,class1_code,vehicles_06,公共小型巴士,Public light buses
+HKMDS,202012,T1005,class1_code,vehicles_07,私家小型巴士,Private light buses
+HKMDS,202012,T1005,class1_code,vehicles_0801,貨車 - 輕型貨車,Goods vehicles - Light goods vehicles
+HKMDS,202012,T1005,class1_code,vehicles_0802,貨車 - 中型貨車,Goods vehicles - Medium goods vehicles
+HKMDS,202012,T1005,class1_code,vehicles_0803,貨車 - 重型貨車,Goods vehicles - Heavy goods vehicles
+HKMDS,202012,T1005,class1_code,vehicles_08tt,貨車 - 總計,Goods vehicles - Total
+HKMDS,202012,T1005,class1_code,vehicles_09,特別用途車輛,Special purpose vehicles
+HKMDS,202012,T1005,class1_code,vehicles_1001,政府車輛 (不包括軍用車輛) - 電單車,Government vehicles (excluding military vehicles) - Motor cycles
+HKMDS,202012,T1005,class1_code,vehicles_1002,政府車輛 (不包括軍用車輛) - 其他車輛,Government vehicles (excluding military vehicles) - Other vehicles
+HKMDS,202012,T1005,class1_code,vehicles_10tt,政府車輛 (不包括軍用車輛) - 總計,Government vehicles (excluding military vehicles) - Total
+HKMDS,202012,T1005,class1_code,vehicles_tt,總計,Grand total
+HKMDS,202012,T1005,other_info,note_G1,2019年2月前的「新登記」車輛數字是指新登記的全新車輛。2019年2月開始，該數字是指新登記的所有車輛。,"Figures for ""New registration"" before February 2019 refer to new registration of brand new vehicles.  As from February 2019, the figures refer to new registration of all vehicles."
+HKMDS,202012,T1005,other_info,note_G2,車輛領牌及登記總數指期末數字，新登記指該期間所登記的車輛數字。,Total vehicles licensed and registered figures refer to end of period position whereas new registration figures refer to registrations during the period.
+HKMDS,202012,T1005,other_info,note_1,(註釋 1) 包括機動三輪車。,(note 1) Including motor tricycles.
+HKMDS,202012,T1005,other_info,note_2,(註釋 2) 包括城巴專營一及專營二的公共巴士。,(note 2) Including public buses of Citybus Franchise 1 and 2.
+HKMDS,202012,T1005,other_info,note_3,(註釋 3) 指可以提供遊覽服務、酒店服務、學生服務、僱員服務、國際乘客服務、居民服務、複合交通服務及／或合約式出租服務的非專營公共巴士。,"(note 3) Referring to non-franchised public buses which can provide tour service, hotel service, student service, employees' service, international passenger service, residents' service, multiple transport service and/or contract hire service."
+HKMDS,202012,T1005,other_info,source,運輸署,Transport Department
+HKMDS,202012,T1006,table,T1006,表10.6：隧道汽車流量、青嶼幹線汽車流量及汽車渡輪服務,"Table 10.6 : Vehicular flow through tunnels, Lantau Link and vehicular ferry services"
+HKMDS,202012,T1006,stat,M100601,汽車流量 [千次],Vehicular flow [Thousands]
+HKMDS,202012,T1006,class1,road,道路,Road
+HKMDS,202012,T1006,class1_code,road_01,海底隧道,Cross Harbour Tunnel
+HKMDS,202012,T1006,class1_code,road_02,東區海底隧道,Eastern Harbour Crossing
+HKMDS,202012,T1006,class1_code,road_03,西區海底隧道,Western Harbour Crossing
+HKMDS,202012,T1006,class1_code,road_04,獅子山隧道,Lion Rock Tunnel
+HKMDS,202012,T1006,class1_code,road_05,香港仔隧道,Aberdeen Tunnel
+HKMDS,202012,T1006,class1_code,road_06,城門隧道,Shing Mun Tunnels
+HKMDS,202012,T1006,class1_code,road_07,將軍澳隧道,Tseung Kwan O Tunnel
+HKMDS,202012,T1006,class1_code,road_08,大老山隧道,Tate's Cairn Tunnel
+HKMDS,202012,T1006,class1_code,road_09,啟德隧道,Kai Tak Tunnel
+HKMDS,202012,T1006,class1_code,road_10,大欖隧道,Tai Lam Tunnel
+HKMDS,202012,T1006,class1_code,road_11,青嶼幹線,Lantau Link
+HKMDS,202012,T1006,class1_code,road_12,愉景灣隧道及連接道路,Discovery Bay Tunnel Link
+HKMDS,202012,T1006,class1_code,road_13,尖山隧道及沙田嶺隧道,Eagle's Nest Tunnel and Sha Tin Heights Tunnel
+HKMDS,202012,T1006,class1_code,road_14,汽車渡輪服務,Vehicular ferry services
+HKMDS,202012,T1006,class2,vehicle,車輛,Vehicle
+HKMDS,202012,T1006,class2_code,vehicle_01,私家車、的士及電單車,"Private cars, taxis and motor cycles"
+HKMDS,202012,T1006,class2_code,vehicle_02,巴士及小型巴士,Buses and light buses
+HKMDS,202012,T1006,class2_code,vehicle_03,貨車及其他,Goods vehicles and others
+HKMDS,202012,T1006,class2_code,vehicle_tt,總計,Total
+HKMDS,202012,T1006,other_info,source,運輸署,Transport Department
+HKMDS,202012,T1007,table,T1007,表10.7：交通意外及傷亡,Table 10.7 : Traffic accidents and casualties
+HKMDS,202012,T1007,stat,M100701,交通意外數目,Number of traffic accidents
+HKMDS,202012,T1007,stat,M100702,交通意外造成的傷亡人數,Number of casualties caused by traffic accidents
+HKMDS,202012,T1007,class1,region,地區,Region
+HKMDS,202012,T1007,class1_code,region_01,港島,Hong Kong Island
+HKMDS,202012,T1007,class1_code,region_02,九龍,Kowloon
+HKMDS,202012,T1007,class1_code,region_03,新界,New Territories
+HKMDS,202012,T1007,class1_code,region_tt,總計,Total
+HKMDS,202012,T1007,class2,situation,情況,Situation
+HKMDS,202012,T1007,class2_code,situation_01,致命,Fatal
+HKMDS,202012,T1007,class2_code,situation_02,嚴重,Serious
+HKMDS,202012,T1007,class2_code,situation_03,輕微,Slight
+HKMDS,202012,T1007,other_info,note_G1,2020年的數字乃臨時數字，並會不時作出修訂。,Figures for 2020 are provisional and will be revised from time to time.
+HKMDS,202012,T1007,other_info,source,香港警務處,Hong Kong Police Force
+HKMDS,202012,T1008,table,T1008,表10.8：按出入境管制站劃分的抵港旅客,Table 10.8 : Passenger arrivals by control point
+HKMDS,202012,T1008,stat,M100801,抵港旅客,Passenger arrivals
+HKMDS,202012,T1008,class1,controlp,出入境管制站,Control point
+HKMDS,202012,T1008,class1_code,controlp_01,機場,Airport
+HKMDS,202012,T1008,class1_code,controlp_02,港口管制,Harbour Control
+HKMDS,202012,T1008,class1_code,controlp_03,港澳客輪碼頭 (註釋 7),Macau Ferry Terminal (note 7)
+HKMDS,202012,T1008,class1_code,controlp_0301,港澳客輪碼頭 - 輪船,Macau Ferry Terminal - Ferry
+HKMDS,202012,T1008,class1_code,controlp_0302,港澳客輪碼頭 - 直升機,Macau Ferry Terminal - Helicopters
+HKMDS,202012,T1008,class1_code,controlp_04,中國客運碼頭 (註釋 1) (註釋 2) (註釋 6),China Ferry Terminal (note 1) (note 2) (note 6)
+HKMDS,202012,T1008,class1_code,controlp_05,屯門客運碼頭 (註釋 6),Tuen Mun Ferry Terminal (note 6)
+HKMDS,202012,T1008,class1_code,controlp_06,內河碼頭,River Trade Terminal
+HKMDS,202012,T1008,class1_code,controlp_07,啟德郵輪碼頭 (註釋 2) (註釋 3) (註釋 8),Kai Tak Cruise Terminal (note 2) (note 3) (note 8)
+HKMDS,202012,T1008,class1_code,controlp_08,紅磡管制站 (註釋 6),Hung Hom Control Point (note 6)
+HKMDS,202012,T1008,class1_code,controlp_09,羅湖管制站 (註釋 7),Lo Wu Control Point (note 7)
+HKMDS,202012,T1008,class1_code,controlp_10,落馬洲支線管制站 (註釋 7) (註釋 9),Lok Ma Chau Spur Line Control Point (note 7) (note 9)
+HKMDS,202012,T1008,class1_code,controlp_11,落馬洲管制站 (註釋 7),Lok Ma Chau Control Point (note 7)
+HKMDS,202012,T1008,class1_code,controlp_12,文錦渡管制站 (註釋 6),Man Kam To Control Point (note 6)
+HKMDS,202012,T1008,class1_code,controlp_13,沙頭角管制站 (註釋 6),Sha Tau Kok Control Point (note 6)
+HKMDS,202012,T1008,class1_code,controlp_14,深圳灣管制站,Shenzhen Bay Control Point
+HKMDS,202012,T1008,class1_code,controlp_15,高鐵西九龍管制站 (註釋 4) (註釋 6),Express Rail Link West Kowloon Control Point (note 4) (note 6)
+HKMDS,202012,T1008,class1_code,controlp_16,港珠澳大橋管制站 (註釋 5),Hong Kong-Zhuhai-Macao Bridge Control Point (note 5)
+HKMDS,202012,T1008,class1_code,controlp_17,香園圍邊境管制站 (註釋 10) ,Heung Yuen Wai Boundary Control Point (note 10)
+HKMDS,202012,T1008,class1_code,controlp_tt,總計,Total
+HKMDS,202012,T1008,other_info,note_G1,數字不包括被拒入境者及司機。,Figures exclude refused landing passengers and drivers.
+HKMDS,202012,T1008,other_info,note_1,(註釋 1) 數字是指由中國客運碼頭管制組為旅客提供出入境檢查服務的抵港旅客數目。,(note 1) Figures refer to passenger arrivals with immigration clearance handled by the China Ferry Terminal Section of the Immigration Department.
+HKMDS,202012,T1008,other_info,note_2,(註釋 2) 包括以公海為目的地的郵船旅客。,(note 2) Including passengers by cruises to high seas.
+HKMDS,202012,T1008,other_info,note_3,(註釋 3) 數字是指由啟德郵輪碼頭管制組為旅客提供出入境檢查服務的抵港旅客數目。,(note 3) Figures refer to passenger arrivals with immigration clearance handled by the Kai Tak Cruise Terminal Section of the Immigration Department.
+HKMDS,202012,T1008,other_info,note_4,(註釋 4) 高鐵西九龍管制站於2018年9月23日開始提供服務。,(note 4) Express Rail Link West Kowloon Control Point starts to provide service on 23 September 2018.
+HKMDS,202012,T1008,other_info,note_5,(註釋 5) 港珠澳大橋管制站於2018年10月24日開始提供服務。,(note 5) Hong Kong-Zhuhai-Macao Bridge Control Point starts to provide service on 24 October 2018.
+HKMDS,202012,T1008,other_info,note_6,(註釋 6) 自2020年1月30日起，高鐵西九龍、紅磡、文錦渡、沙頭角、中國客運碼頭和屯門客運碼頭等管制站暫停提供客運通關服務。,"(note 6) The passenger clearance services at the control points of Express Rail Link West Kowloon, Hung Hom, Man Kam To, Sha Tau Kok, China Ferry Terminal and Tuen Mun Ferry Terminal have been temporarily suspended starting from 30 January 2020."
+HKMDS,202012,T1008,other_info,note_7,(註釋 7) 自2020年2月4日起，羅湖、落馬洲支線、落馬洲和港澳客輪碼頭等管制站暫停提供客運通關服務。,"(note 7) The passenger clearance services at the control points of Lo Wu, Lok Ma Chau Spur Line, Lok Ma Chau and Macau Ferry Terminal have been temporarily suspended starting from 4 February 2020. "
+HKMDS,202012,T1008,other_info,note_8,(註釋 8) 自2020年2月5日下午起，啟德郵輪碼頭暫停提供客運通關服務。,(note 8) The passenger clearance services at Kai Tak Cruise Terminal have been temporarily suspended starting from PM of 5 February 2020.
+HKMDS,202012,T1008,other_info,note_9,(註釋 9) 自2020年6月15日起，落馬洲支線管制站恢復為跨境學生辦理出入境檢查。,(note 9) The immigration clearance service for cross-border students at the control point of Lok Ma Chau Spur Line has been resumed starting from 15 June 2020.
+HKMDS,202012,T1008,other_info,note_10,(註釋 10) 香園圍邊境管制站於2020年8月26日開始提供貨運通關服務，而暫時未提供客運通關服務。,(note 10) Heung Yuen Wai Boundary Control Point starts to provide cargo clearance service on 26 August 2020 while its passenger clearance services are temporarily suspended.
+HKMDS,202012,T1008,other_info,source,入境事務處,Immigration Department
+HKMDS,202012,T1009,table,T1009,表10.9：按出入境管制站劃分的離港旅客,Table 10.9 : Passenger departures by control point
+HKMDS,202012,T1009,stat,M100901,離港旅客,Passenger departures
+HKMDS,202012,T1009,class1,controlp,出入境管制站,Control point
+HKMDS,202012,T1009,class1_code,controlp_01,機場,Airport
+HKMDS,202012,T1009,class1_code,controlp_02,港口管制,Harbour Control
+HKMDS,202012,T1009,class1_code,controlp_03,港澳客輪碼頭 (註釋 7),Macau Ferry Terminal (note 7)
+HKMDS,202012,T1009,class1_code,controlp_0301,港澳客輪碼頭 - 輪船,Macau Ferry Terminal - Ferry
+HKMDS,202012,T1009,class1_code,controlp_0302,港澳客輪碼頭 - 直升機,Macau Ferry Terminal - Helicopters
+HKMDS,202012,T1009,class1_code,controlp_04,中國客運碼頭 (註釋 1) (註釋 2) (註釋 6),China Ferry Terminal (note 1) (note 2) (note 6)
+HKMDS,202012,T1009,class1_code,controlp_05,屯門客運碼頭 (註釋 6),Tuen Mun Ferry Terminal (note 6)
+HKMDS,202012,T1009,class1_code,controlp_06,內河碼頭,River Trade Terminal
+HKMDS,202012,T1009,class1_code,controlp_07,啟德郵輪碼頭 (註釋 2) (註釋 3) (註釋 8),Kai Tak Cruise Terminal (note 2) (note 3) (note 8)
+HKMDS,202012,T1009,class1_code,controlp_08,紅磡管制站 (註釋 6),Hung Hom Control Point (note 6)
+HKMDS,202012,T1009,class1_code,controlp_09,羅湖管制站 (註釋 7),Lo Wu Control Point (note 7)
+HKMDS,202012,T1009,class1_code,controlp_10,落馬洲支線管制站 (註釋 7) (註釋 9),Lok Ma Chau Spur Line Control Point (note 7) (note 9)
+HKMDS,202012,T1009,class1_code,controlp_11,落馬洲管制站 (註釋 7),Lok Ma Chau Control Point (note 7)
+HKMDS,202012,T1009,class1_code,controlp_12,文錦渡管制站 (註釋 6),Man Kam To Control Point (note 6)
+HKMDS,202012,T1009,class1_code,controlp_13,沙頭角管制站 (註釋 6),Sha Tau Kok Control Point (note 6)
+HKMDS,202012,T1009,class1_code,controlp_14,深圳灣管制站,Shenzhen Bay Control Point
+HKMDS,202012,T1009,class1_code,controlp_15,高鐵西九龍管制站 (註釋 4) (註釋 6),Express Rail Link West Kowloon Control Point (note 4) (note 6)
+HKMDS,202012,T1009,class1_code,controlp_16,港珠澳大橋管制站 (註釋 5),Hong Kong-Zhuhai-Macao Bridge Control Point (note 5)
+HKMDS,202012,T1009,class1_code,controlp_17,香園圍邊境管制站 (註釋 10) ,Heung Yuen Wai Boundary Control Point (note 10)
+HKMDS,202012,T1009,class1_code,controlp_tt,總計,Total
+HKMDS,202012,T1009,other_info,note_G1,數字不包括司機。,Figures exclude drivers.
+HKMDS,202012,T1009,other_info,note_1,(註釋 1) 數字是指由中國客運碼頭管制組為旅客提供出入境檢查服務的離港旅客數目。,(note 1) Figures refer to passenger departures with immigration clearance handled by the China Ferry Terminal Section of the Immigration Department.
+HKMDS,202012,T1009,other_info,note_2,(註釋 2) 包括以公海為目的地的郵船旅客。,(note 2) Including passengers by cruises to high seas.
+HKMDS,202012,T1009,other_info,note_3,(註釋 3) 數字是指由啟德郵輪碼頭管制組為旅客提供出入境檢查服務的離港旅客數目。,(note 3) Figures refer to passenger departures with immigration clearance handled by the Kai Tak Cruise Terminal Section of the Immigration Department.
+HKMDS,202012,T1009,other_info,note_4,(註釋 4) 高鐵西九龍管制站於2018年9月23日開始提供服務。,(note 4) Express Rail Link West Kowloon Control Point starts to provide service on 23 September 2018.
+HKMDS,202012,T1009,other_info,note_5,(註釋 5) 港珠澳大橋管制站於2018年10月24日開始提供服務。,(note 5) Hong Kong-Zhuhai-Macao Bridge Control Point starts to provide service on 24 October 2018.
+HKMDS,202012,T1009,other_info,note_6,(註釋 6) 自2020年1月30日起，高鐵西九龍、紅磡、文錦渡、沙頭角、中國客運碼頭和屯門客運碼頭等管制站暫停提供客運通關服務。,"(note 6) The passenger clearance services at the control points of Express Rail Link West Kowloon, Hung Hom, Man Kam To, Sha Tau Kok, China Ferry Terminal and Tuen Mun Ferry Terminal have been temporarily suspended starting from 30 January 2020."
+HKMDS,202012,T1009,other_info,note_7,(註釋 7) 自2020年2月4日起，羅湖、落馬洲支線、落馬洲和港澳客輪碼頭等管制站暫停提供客運通關服務。,"(note 7) The passenger clearance services at the control points of Lo Wu, Lok Ma Chau Spur Line, Lok Ma Chau and Macau Ferry Terminal have been temporarily suspended starting from 4 February 2020. "
+HKMDS,202012,T1009,other_info,note_8,(註釋 8) 自2020年2月5日下午起，啟德郵輪碼頭暫停提供客運通關服務。,(note 8) The passenger clearance services at Kai Tak Cruise Terminal have been temporarily suspended starting from PM of 5 February 2020.
+HKMDS,202012,T1009,other_info,note_9,(註釋 9) 自2020年6月15日起，落馬洲支線管制站恢復為跨境學生辦理出入境檢查。,(note 9) The immigration clearance service for cross-border students at the control point of Lok Ma Chau Spur Line has been resumed starting from 15 June 2020.
+HKMDS,202012,T1009,other_info,note_10,(註釋 10) 香園圍邊境管制站於2020年8月26日開始提供貨運通關服務，而暫時未提供客運通關服務。,(note 10) Heung Yuen Wai Boundary Control Point commenced cargo clearance services on 26 August 2020 while its passenger clearance services are temporarily suspended.
+HKMDS,202012,T1009,other_info,source,入境事務處,Immigration Department
+HKMDS,202012,T1010,table,T1010,表10.10：按出入境管制站劃分的離港本港居民,Table 10.10 : Hong Kong resident departures by control point
+HKMDS,202012,T1010,stat,M101001,離港本港居民,Hong Kong resident departures
+HKMDS,202012,T1010,class1,controlp,出入境管制站,Control point
+HKMDS,202012,T1010,class1_code,controlp_01,機場,Airport
+HKMDS,202012,T1010,class1_code,controlp_02,港口管制,Harbour Control
+HKMDS,202012,T1010,class1_code,controlp_03,港澳客輪碼頭 (註釋 1) (註釋 8),Macau Ferry Terminal (note 1) (note 8)
+HKMDS,202012,T1010,class1_code,controlp_04,中國客運碼頭 (註釋 2) (註釋 3) (註釋 7),China Ferry Terminal (note 2) (note 3) (note 7)
+HKMDS,202012,T1010,class1_code,controlp_05,屯門客運碼頭 (註釋 7),Tuen Mun Ferry Terminal (note 7)
+HKMDS,202012,T1010,class1_code,controlp_06,內河碼頭,River Trade Terminal
+HKMDS,202012,T1010,class1_code,controlp_07,啟德郵輪碼頭 (註釋 3) (註釋 4) (註釋 9),Kai Tak Cruise Terminal (note 3) (note 4) (note 9)
+HKMDS,202012,T1010,class1_code,controlp_08,紅磡管制站 (註釋 7),Hung Hom Control Point (note 7)
+HKMDS,202012,T1010,class1_code,controlp_09,羅湖管制站 (註釋 8),Lo Wu Control Point (note 8)
+HKMDS,202012,T1010,class1_code,controlp_10,落馬洲支線管制站 (註釋 8) (註釋 10),Lok Ma Chau Spur Line Control Point (note 8) (note 10)
+HKMDS,202012,T1010,class1_code,controlp_11,落馬洲管制站 (註釋 8),Lok Ma Chau Control Point (note 8)
+HKMDS,202012,T1010,class1_code,controlp_12,文錦渡管制站 (註釋 7),Man Kam To Control Point (note 7)
+HKMDS,202012,T1010,class1_code,controlp_13,沙頭角管制站 (註釋 7),Sha Tau Kok Control Point (note 7)
+HKMDS,202012,T1010,class1_code,controlp_14,深圳灣管制站,Shenzhen Bay Control Point
+HKMDS,202012,T1010,class1_code,controlp_15,高鐵西九龍管制站 (註釋 5) (註釋 7),Express Rail Link West Kowloon Control Point (note 5) (note 7)
+HKMDS,202012,T1010,class1_code,controlp_16,港珠澳大橋管制站 (註釋 6),Hong Kong-Zhuhai-Macao Bridge Control Point (note 6)
+HKMDS,202012,T1010,class1_code,controlp_17,香園圍邊境管制站 (註釋 11) ,Heung Yuen Wai Boundary Control Point (note 11)
+HKMDS,202012,T1010,class1_code,controlp_tt,總計,Total
+HKMDS,202012,T1010,other_info,note_G1,數字不包括司機。,Figures exclude drivers.
+HKMDS,202012,T1010,other_info,note_1,(註釋 1) 包括乘搭直升機前往澳門的旅客。,(note 1) Including helicopter passengers to Macao.
+HKMDS,202012,T1010,other_info,note_2,(註釋 2) 數字是指由中國客運碼頭管制組為旅客提供出入境檢查服務的離港本港居民數目。 ,(note 2) Figures refer to Hong Kong resident departures with immigration clearance handled by the China Ferry Terminal Section of the Immigration Department. 
+HKMDS,202012,T1010,other_info,note_3,(註釋 3) 包括以公海為目的地的郵船旅客。 ,(note 3) Including passengers by cruises to high seas. 
+HKMDS,202012,T1010,other_info,note_4,(註釋 4) 數字是指由啟德郵輪碼頭管制組為旅客提供出入境檢查服務的離港本港居民數目。,(note 4) Figures refer to Hong Kong resident departures with immigration clearance handled by the Kai Tak Cruise Terminal Section of the Immigration Department.
+HKMDS,202012,T1010,other_info,note_5,(註釋 5) 高鐵西九龍管制站於2018年9月23日開始提供服務。,(note 5) Express Rail Link West Kowloon Control Point starts to provide service on 23 September 2018. 
+HKMDS,202012,T1010,other_info,note_6,(註釋 6) 港珠澳大橋管制站於2018年10月24日開始提供服務。,(note 6) Hong Kong-Zhuhai-Macao Bridge Control Point starts to provide service on 24 October 2018.
+HKMDS,202012,T1010,other_info,note_7,(註釋 7) 自2020年1月30日起，高鐵西九龍、紅磡、文錦渡、沙頭角、中國客運碼頭和屯門客運碼頭等管制站暫停提供客運通關服務。,"(note 7) The passenger clearance services at the control points of Express Rail Link West Kowloon, Hung Hom, Man Kam To, Sha Tau Kok, China Ferry Terminal and Tuen Mun Ferry Terminal have been temporarily suspended starting from 30 January 2020."
+HKMDS,202012,T1010,other_info,note_8,(註釋 8) 自2020年2月4日起，羅湖、落馬洲支線、落馬洲和港澳客輪碼頭等管制站暫停提供客運通關服務。,"(note 8) The passenger clearance services at the control points of Lo Wu, Lok Ma Chau Spur Line, Lok Ma Chau and Macau Ferry Terminal have been temporarily suspended starting from 4 February 2020. "
+HKMDS,202012,T1010,other_info,note_9,(註釋 9) 自2020年2月5日下午起，啟德郵輪碼頭暫停提供客運通關服務。,(note 9) The passenger clearance services at Kai Tak Cruise Terminal have been temporarily suspended starting from PM of 5 February 2020.
+HKMDS,202012,T1010,other_info,note_10,(註釋 10) 自2020年6月15日起，落馬洲支線管制站恢復為跨境學生辦理出入境檢查。,(note 10) The immigration clearance service for cross-border students at the control point of Lok Ma Chau Spur Line has been resumed starting from 15 June 2020.
+HKMDS,202012,T1010,other_info,note_11,(註釋 11) 香園圍邊境管制站於2020年8月26日開始提供貨運通關服務，而暫時未提供客運通關服務。,(note 11) Heung Yuen Wai Boundary Control Point commenced cargo clearance services on 26 August 2020 while its passenger clearance services are temporarily suspended.
+HKMDS,202012,T1010,other_info,source,入境事務處,Immigration Department
+HKMDS,202012,T1011,table,T1011,表10.11：按居住國家／地區劃分的訪港旅客,Table 10.11 : Visitor arrivals by country/region of residence
+HKMDS,202012,T1011,stat,M101101,訪港旅客,Visitor arrivals
+HKMDS,202012,T1011,class1,candr,居住國家／地區,Country/region of residence
+HKMDS,202012,T1011,class1_code,candr_01,非洲,Africa
+HKMDS,202012,T1011,class1_code,candr_02,美洲,The Americas
+HKMDS,202012,T1011,class1_code,candr_03,澳大利亞、新西蘭及南太平洋,"Australia, New Zealand & South Pacific"
+HKMDS,202012,T1011,class1_code,candr_04,歐洲,Europe
+HKMDS,202012,T1011,class1_code,candr_05,中東,Middle East
+HKMDS,202012,T1011,class1_code,candr_06,北亞,North Asia
+HKMDS,202012,T1011,class1_code,candr_07,南亞及東南亞,South & Southeast Asia
+HKMDS,202012,T1011,class1_code,candr_08,台灣,Taiwan
+HKMDS,202012,T1011,class1_code,candr_09,中國內地,The mainland of China
+HKMDS,202012,T1011,class1_code,candr_10,澳門,Macao
+HKMDS,202012,T1011,class1_code,candr_11,未能辨別,Not identified
+HKMDS,202012,T1011,class1_code,candr_tt,總計,Total
+HKMDS,202012,T1011,other_info,source,香港旅遊發展局,Hong Kong Tourism Board
+HKMDS,202012,T1012,table,T1012,表10.12：按居住國家／地區劃分過夜旅客及入境不過夜旅客的境內消費開支,Table 10.12 : Destination consumption expenditure of overnight and same-day in-town visitors by country/region of residence
+HKMDS,202012,T1012,stat,M101201,境內消費開支 [百萬元],Destination consumption expenditure [$ million]
+HKMDS,202012,T1012,class1,candrr,居住國家／地區,Country/region of residence
+HKMDS,202012,T1012,class1_code,candrr_01,美洲,The Americas
+HKMDS,202012,T1012,class1_code,candrr_02,歐洲、非洲及中東,"Europe, Africa & the Middle East"
+HKMDS,202012,T1012,class1_code,candrr_03,澳大利亞、新西蘭及南太平洋,"Australia, New Zealand & South Pacific"
+HKMDS,202012,T1012,class1_code,candrr_04,北亞,North Asia
+HKMDS,202012,T1012,class1_code,candrr_05,南亞及東南亞,South & Southeast Asia
+HKMDS,202012,T1012,class1_code,candrr_06,台灣,Taiwan
+HKMDS,202012,T1012,class1_code,candrr_07,中國內地,The mainland of China
+HKMDS,202012,T1012,class1_code,candrr_08,澳門,Macao
+HKMDS,202012,T1012,class1_code,candrr_tt,總計,Total
+HKMDS,202012,T1012,class2,vistype,居住國家／地區,Country/region of residence
+HKMDS,202012,T1012,class2_code,vistype_01,過夜旅客,Overnight visitors
+HKMDS,202012,T1012,class2_code,vistype_02,入境不過夜旅客,Same-day in-town visitors
+HKMDS,202012,T1012,other_info,source,香港旅遊發展局,Hong Kong Tourism Board
+HKMDS,202012,T1013,table,T1013,表10.13：按居住國家／地區劃分的旅客人均消費及逗留時間,Table 10.13 : Per capita spending and length of stay of visitors by country/region of residence
+HKMDS,202012,T1013,stat,M101301,人均消費 [元],Per capita spending [$]
+HKMDS,202012,T1013,stat,M101302,逗留時間 [晚數],Length of stay [nights]
+HKMDS,202012,T1013,class1,candrr,居住國家／地區,Country/region of residence
+HKMDS,202012,T1013,class1_code,candrr_01,美洲,The Americas
+HKMDS,202012,T1013,class1_code,candrr_02,歐洲、非洲及中東,"Europe, Africa & the Middle East"
+HKMDS,202012,T1013,class1_code,candrr_03,澳大利亞、新西蘭及南太平洋,"Australia, New Zealand & South Pacific"
+HKMDS,202012,T1013,class1_code,candrr_04,北亞,North Asia
+HKMDS,202012,T1013,class1_code,candrr_05,南亞及東南亞,South & Southeast Asia
+HKMDS,202012,T1013,class1_code,candrr_06,台灣,Taiwan
+HKMDS,202012,T1013,class1_code,candrr_07,中國內地,The mainland of China
+HKMDS,202012,T1013,class1_code,candrr_08,澳門,Macao
+HKMDS,202012,T1013,class1_code,candrr_oa,合計,Overall
+HKMDS,202012,T1013,class2,vistype,居住國家／地區,Country/region of residence
+HKMDS,202012,T1013,class2_code,vistype_01,過夜旅客,Overnight visitors
+HKMDS,202012,T1013,class2_code,vistype_02,入境不過夜旅客,Same-day in-town visitors
+HKMDS,202012,T1013,other_info,source,香港旅遊發展局,Hong Kong Tourism Board
+HKMDS,202012,T1014,table,T1014,表10.14：按類別劃分的香港酒店及賓館統計數字,Table 10.14 : Hotel and guesthouse statistics of Hong Kong by category
+HKMDS,202012,T1014,stat,M101401,酒店數目 (註釋 1),No. of hotels (note 1)
+HKMDS,202012,T1014,stat,M101402,房間數目 (註釋 1),No. of rooms (note 1)
+HKMDS,202012,T1014,stat,M101403,入住率 (註釋 2) [%],Room occupancy rate (note 2) [%]
+HKMDS,202012,T1014,class1,category,香港酒店類別及賓館,Type of hotel and guesthouse
+HKMDS,202012,T1014,class1_code,category_0101,甲級高價酒店,High tariff A hotels
+HKMDS,202012,T1014,class1_code,category_0102,乙級高價酒店,High tariff B hotels
+HKMDS,202012,T1014,class1_code,category_0103,中價酒店,Medium tariff hotels
+HKMDS,202012,T1014,class1_code,category_0104,未能分類酒店 ,Unclassified hotels
+HKMDS,202012,T1014,class1_code,category_01tt,所有酒店,All hotels
+HKMDS,202012,T1014,class1_code,category_02,賓館 (註釋 3),Guesthouses (note 3)
+HKMDS,202012,T1014,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202012,T1014,other_info,note_1,(註釋 1) 持牌酒店及賓館數字以民政事務總署牌照事務處為依據。數字為期末數字。,"(note 1) Number of licensed hotels and guesthouses are obtained from the Office of the Licensing Authority, Home Affairs Department.  Figures are as at end of the period."
+HKMDS,202012,T1014,other_info,note_2,(註釋 2) 房間入住率乃根據酒店及賓館回應香港旅遊發展局每月進行的「酒店入住率問卷調查」所提供的資料而編製。,(note 2) Room occupancy rate is compiled based on data reported by those hotels and guesthouses which responded to the Hong Kong Tourism Board's monthly Hotel Room Occupancy Survey.
+HKMDS,202012,T1014,other_info,note_3,(註釋 3) 賓館包括旅客賓館及本地人士賓館。,(note 3) Guesthouses include tourist guesthouses and local people guesthouses. 
+HKMDS,202012,T1014,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202012,T1014,other_info,source,香港旅遊發展局,Hong Kong Tourism Board
+HKMDS,202012,T1015,table,T1015,表10.15：電訊服務,Table 10.15 : Telecommunications services
+HKMDS,202012,T1015,stat,M101501,香港撥出對外電話通訊量 (註釋 1) [以千分鐘計],Outward external telephone traffic volume (note 1) [thousand minutes]
+HKMDS,202012,T1015,stat,M101502,交換機有效負載量 (註釋 2) [以千條線路計],Effective exchange capacity (note 2) [thousand lines]
+HKMDS,202012,T1015,stat,M101503,圖文傳真線路 (註釋 2) [以千條計],No. of fax lines (note 2) [thousands]
+HKMDS,202012,T1015,stat,M101504,公共無線電傳呼接收器 (註釋 2),Public radio paging receivers (note 2)
+HKMDS,202012,T1015,stat,M101505,電話線路 (註釋 2) (註釋 4) [以千條計],Telephone lines (note 2) (note 4) [thousands]
+HKMDS,202012,T1015,stat,M101506,公共流動服務用戶數目 (註釋 2) (註釋 5),No. of public mobile subscriptions (note 2) (note 5)
+HKMDS,202012,T1015,stat,M101507,公共流動服務用戶數目  (註釋 2) (不包括預付智能卡),No. of public mobile subscriptions (note 2) (excluding pre-paid SIM cards)
+HKMDS,202012,T1015,stat,M101508,第2.5代／3代／4代／5代公共流動服務用戶數目 (註釋 2) (註釋 6) (註釋 8),No. of 2.5G/3G/4G/5G public mobile subscriptions (note 2) (note 6) (note 8)
+HKMDS,202012,T1015,stat,M101509,每個第2.5代／3代／4代／5代用戶的平均流動數據通訊量 [以兆字節計],Average volume of mobile data usage per 2.5G/3G/4G/5G subscriptions [megabytes]
+HKMDS,202012,T1015,stat,M101510,每名人口的平均流動數據通訊量 [以兆字節計],Average volume of mobile data usage per capita [megabytes]
+HKMDS,202012,T1015,class1,typetl,電話線路類別,Type of telephone lines
+HKMDS,202012,T1015,class1_code,typetl_01,商業,Business
+HKMDS,202012,T1015,class1_code,typetl_02,住宅,Residential
+HKMDS,202012,T1015,class1_code,typetl_tt,總計,Total
+HKMDS,202012,T1015,class1_code,typetl_0101,商業 - 電鍵 (註釋 1),Business - Keylines (note 1)
+HKMDS,202012,T1015,class1_code,typetl_0102,商業 - 專用自動電話交換 (註釋 1),Business - PABX (note 1)
+HKMDS,202012,T1015,class1_code,typetl_0103,商業 - 其他 (註釋 1),Business - Others (note 1)
+HKMDS,202012,T1015,class1_code,typetl_01tt,商業 - 總計,Business - Total 
+HKMDS,202012,T1015,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202012,T1015,other_info,note_1,(註釋 1) 估計數字。,(note 1) Estimated figures.
+HKMDS,202012,T1015,other_info,note_2,(註釋 2) 年底或月底數字。流動服務用戶包括傳統流動話音及／或數據客戶和機器類連線之用戶。,(note 2) End-of-period figures. Mobile subscriptions include conventional mobile voice and/or data subscriptions by customers and subscriptions for machine type connections.
+HKMDS,202012,T1015,note_figure,note_3,(註釋 3) 由2017年起，對外電話通訊量由按季改為按年提供。,"(note 3) Starting from 2017, the provision of external telephone traffic was changed from quarterly to yearly basis."
+HKMDS,202012,T1015,other_info,note_4,(註釋 4) 包括直通內線式電話線、圖文傳真線、電文線路的直撥服務以及非傳統電話線（包括但不限於網際規約 (IP) 電話服務及無線固網電話服務）。,"(note 4) Include direct dialling in lines, facsimile lines, datel lines and non-exchange lines (include but are not limited to Internet Protocol (IP) telephony services and wireless fixed telephony services)."
+HKMDS,202012,T1015,other_info,note_5,(註釋 5) 數字包括預付智能卡。,(note 5) Including pre-paid SIM cards.
+HKMDS,202012,T1015,other_info,note_6,(註釋 6)「第2.5代／3代／4代／5代用戶」 指（i）登記為第2.5代／3代／4代／5代用戶；（ii）利用第2.5代／3代／4代／5代服務；或（iii）曾使用第2.5代／3代／4代／5代頻率以接收公共流動服務的用戶。數字包括預付智能卡的用戶。,"(note 6) ""2.5G/3G/4G/5G subscriptions"" refer to those mobile subscriptions that    (i) are registered as 2.5G/3G/4G/5G subscriptions; (ii) ride on 2.5G/3G/4G/5G services; or (iii) have used 2.5G/3G/4G/5G frequencies to receive the public mobile services.  The figures include subscriptions of pre-paid SIM cards."
+HKMDS,202012,T1015,note_figure,note_7,(註釋 7) 數字是指有關年度12月的數字。,(note 7) Figures refer to December of the year.
+HKMDS,202012,T1015,other_info,note_8,(註釋 8) 由2020年4月起，流動服務用戶包括第5代用戶。,"(note 8) Starting from April 2020, mobile subscriptions include 5G subscriptions."
+HKMDS,202012,T1015,other_info,source,通訊事務管理局辦公室,Office of the Communications Authority
+HKMDS,202012,T1016,table,T1016,表10.16：互聯網服務,Table 10.16 : Internet services
+HKMDS,202012,T1016,stat,M101601,持牌互聯網服務供應商數目 (註釋 1),No. of licensed Internet service providers (ISPs) (note 1)
+HKMDS,202012,T1016,stat,M101602,持牌互聯網服務供應商的已登記客戶戶口／接駁線數目 (註釋 2),No. of registered customer accounts/access lines of licensed  Internet service providers (ISPs) (note 2)
+HKMDS,202012,T1016,stat,M101603,互聯網使用量 (註釋 2) - 客戶透過公共電話網絡接駁 (註釋 5) [以千分鐘計],Internet traffic volume (note 2) - Customer access via public switched telephone networks (note 5) [thousand minutes]
+HKMDS,202012,T1016,stat,M101604,互聯網使用量 (註釋 2) - 客戶透過寬頻網絡接駁 (註釋 6) [以太字節計] (註釋 7),Internet traffic volume (note 2) - Customer access via broadband networks (note 6) [terabytes] (note 7)
+HKMDS,202012,T1016,class1,account,客戶戶口,Customer accounts
+HKMDS,202012,T1016,class1_code,account_01,以撥號接駁 (不包括互聯網儲值卡) (註釋 3),Dial-up access (excluding Internet pre-paid calling cards) (note 3)
+HKMDS,202012,T1016,class1_code,account_02,以私人租用線路接駁 (註釋 3),Leased line access (note 3)
+HKMDS,202012,T1016,class1_code,account_03,寬頻互聯網 (註釋 3) (註釋 4),Broadband Internet access (note 3) (note 4)
+HKMDS,202012,T1016,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202012,T1016,other_info,note_1,(註釋 1) 包括所有持牌獲准提供互聯網接駁服務的營辦商。數字為期末數字。,(note 1) Including all licensees authorised to provide Internet access services.  Figures are as at end of the period.
+HKMDS,202012,T1016,other_info,note_2,"(註釋 2) 數字為根據互聯網服務供應商申報的估計數字，並不包括不屬於持牌互聯網服務供應商客戶的使用者。由2019年1月開始，統計數字以互聯網服務供應商提供的""接駁線""數目計算，而在此日期前的以""客戶戶口""數目計算。","(note 2) Estimated figures are based on returns from the ISPs and do not include users who are not customers of the licensed ISPs. From January 2019 onwards, the statistics are counted in terms of the number of ""access lines"" provided by ISPs, while it was in terms of the number of ""registered customer accounts"" prior to that."
+HKMDS,202012,T1016,other_info,note_3,"(註釋 3) 已登記線路是指由互聯網服務供應商以撥號或寬頻互聯網形式向客戶提供的接駁（包括免費的接駁線）。如互聯網服務供應商向同一客戶提供多條接駁線，統計數字會根據其向其客戶提供的接駁線數目作統計。相關接駁線如用作提供多於一項服務，亦只作一條接駁線計算。
+在2019年1月之前，統計數字為已登記客戶戶口，即互聯網服務供應商的客戶戶口（包括免費的客戶戶口）。擁有超過一個客戶登入識別碼的登記客戶戶口只算作一個已登記的客戶戶口。已登記客戶戶口數字不包括只獲提供電郵地址的客戶戶口。數字為期末數字。
+","(note 3) Registered access lines refer to the dial-up or broadband connections of ISPs to individual end users (including those free-of-charge connections).  Where multiple access lines are provided to the same end user, the number of access lines is counted for the purpose of the statistics.  In case more than one service is offered under one access line, it is counted as one access line only.  
+For the period prior to January 2019, the statistics represents the number of registered customer accounts which refer to the customer accounts of ISPs (including those free-of-charge customer accounts).  For a registered customer account which has more than one user login ID, it is counted as one registered customer account only.  Registered customer accounts do not include customer accounts which are provided with e-mail addresses only.  Figures are as at end of the period.
+"
+HKMDS,202012,T1016,other_info,note_4,(註釋 4) 寬頻互聯網接駁指利用導線解調器、異步傳輸模式 (ATM)、非對稱數碼用戶線路 (ADSL) 、數碼用戶線路 (DSL) 或其他技術而下載速度達每秒1兆比特或以上的服務。,"(note 4) Broadband Internet access refers to services with downloading speed of 1 Mbps or above using cable modem, ATM (asynchronous transfer mode), ADSL (asymmetric digital subscriber line), DSL (digital subscriber line) or other technologies."
+HKMDS,202012,T1016,other_info,note_5,(註釋 5) 數字不包括透過私人租用線路接駁及使用寬頻服務的客戶。,(note 5) Figures do not include customer access via leased circuits and broadband services.
+HKMDS,202012,T1016,other_info,note_6,(註釋 6) 寬頻是指以每秒1兆比特或以上的速度傳送數據的容量。,(note 6) Broadband means the capacity to transmit data at the rate of 1 Mbps or above.
+HKMDS,202012,T1016,other_info,note_7,(註釋 7) 1太字節 = 8兆兆比特,(note 7) 1 terabyte = 8 terabits
+HKMDS,202012,T1016,other_info,source,通訊事務管理局辦公室,Office of the Communications Authority
+HKMDS,202012,T1017,table,T1017,表10.17：郵遞服務,Table 10.17 : Postal services
+HKMDS,202012,T1017,stat,M101701,信件郵件 [百萬件物品],Letter mail [million articles]
+HKMDS,202012,T1017,stat,M101702,包裹 [千件],Parcels [thousands]
+HKMDS,202012,T1017,class1,article,信件郵件類別,Type of articles
+HKMDS,202012,T1017,class1_code,article_01,本地物品,Local articles
+HKMDS,202012,T1017,class1_code,article_02,寄往香港以外地方的物品,Articles posted to places outside Hong Kong
+HKMDS,202012,T1017,class1_code,article_03,本地派遞的從外地寄出物品,Articles from outside Hong Kong for local delivery
+HKMDS,202012,T1017,class1_code,article_04,轉運物品,Articles in transit
+HKMDS,202012,T1017,class1,parcel,包裹類別,Type of parcels
+HKMDS,202012,T1017,class1_code,parcel_01,本地包裹,Local parcels
+HKMDS,202012,T1017,class1_code,parcel_02,寄往香港以外地方的包裹,Parcels posted to places outside Hong Kong
+HKMDS,202012,T1017,class1_code,parcel_03,本地派遞的從外地的包裹,Parcels from outside Hong Kong for local delivery
+HKMDS,202012,T1017,class1_code,parcel_04,轉運包裹,Parcels in transit
+HKMDS,202012,T1017,other_info,source,香港郵政,Hongkong Post

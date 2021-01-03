@@ -1,0 +1,394 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,201911,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,201911,,issue,201911,期號：2019年11月,Issue : November 2019
+HKMDS,201911,T1101A,table,T1101A,表11.1：留院及門診服務 － (甲) 衞生署,Table 11.1 : Inpatient and outpatient services - (A) Department of Health
+HKMDS,201911,T1101A,stat,M110101,衞生署轄下的門診就診人次,Outpatient attendances under Department of Health
+HKMDS,201911,T1101A,class1,out,門診類別,Type of outpatient clinic
+HKMDS,201911,T1101A,class1_code,out_01,普通科門診 (註釋 1) (註釋 2),General outpatient (note 1) (note 2)
+HKMDS,201911,T1101A,class1_code,out_02,其他門診 (註釋 1) (註釋 3),Other outpatient (note 1) (note 3)
+HKMDS,201911,T1101A,other_info,note_1,(註釋 1) 數字包括公務員診所、家庭醫學深造培訓中心及懲教機構內由衞生署提供服務的醫院。,"(note 1) Figures include families clinics, Education and Training Centre in Family Medicine and hospitals in correctional institutions with services provided by the Department of Health."
+HKMDS,201911,T1101A,other_info,note_2,(註釋 2) 2017年以前的數字只包括醫生診視、注射、敷藥及急症的人次。由2017年起，數字亦包括了戒煙服務、臨床心理學家診視及營養師診視的人次。由2019年6月起，數字亦包括了視光師診視及物理治療師診視的人次。,"(note 2) Before 2017, figures include doctor consultations, injections, dressings and accident and emergency only.  As from 2017, figures also include smoking cessation, clinical psychologist consultations and dietitian consultations.  As from June 2019, figures also include optometrist consultations and physiotherapist consultations."
+HKMDS,201911,T1101A,other_info,note_3,(註釋 3) 由於學生健康服務及學童牙科保健服務的每年數字是指該學年內的到診／到訪人次，所以按季數字的總和不等於按年數字。,(note 3) Quarterly figures do not add up to annual figures as the annual attendances of the Student Health Service and School Dental Care Service are reported on school year basis.
+HKMDS,201911,T1101A,note_figure,(#),臨時數字,Provisional figures
+HKMDS,201911,T1101A,other_info,source,衞生署,Department of Health
+HKMDS,201911,T1101B,table,T1101B,表11.1：留院及門診服務 － (乙) 醫院管理局,Table 11.1 : Inpatient and outpatient services - (B) Hospital Authority
+HKMDS,201911,T1101B,stat,M110102,醫院管理局轄下的住院病人及日間住院病人 (註釋 1) 出院人次及死亡人數,Inpatient and day inpatient (note 1) discharges and deaths under Hospital Authority
+HKMDS,201911,T1101B,stat,M110103,醫院管理局轄下的住院病人 (註釋 2) 病床住用率 [百分比],Inpatient (note 2) bed occupancy rate under Hospital Authority [%]
+HKMDS,201911,T1101B,stat,M110104,醫院管理局轄下的門診就診人次,Outpatient attendances under Hospital Authority
+HKMDS,201911,T1101B,stat,M110105,醫院管理局轄下的急症室就診人次 (註釋 6),Accident and emergency attendances under Hospital Authority (note 6)
+HKMDS,201911,T1101B,class1,outatt,門診類別,Type of outpatient clinic
+HKMDS,201911,T1101B,class1_code,outatt_01,普通科門診 (註釋 3),General outpatient (note 3)
+HKMDS,201911,T1101B,class1_code,outatt_02,專科門診 (臨床) (註釋 4),Specialist outpatient (clinical) (note 4)
+HKMDS,201911,T1101B,class1_code,outatt_03,專職醫療 (門診) (註釋 5),Allied Health (outpatient) (note 5)
+HKMDS,201911,T1101B,class1_code,outatt_04,家庭醫學專科門診,Family medicine specialist clinic
+HKMDS,201911,T1101B,other_info,note_1,(註釋 1) 就醫管局而言，日間住院病人指入院接受非緊急治療並在同日出院的病人，住院病人則指經急症室轉介入院或留院超過一日的病人。,"(note 1) In Hospital Authority, day inpatients refer to those who are admitted into hospitals for non-emergency treatment and who are discharged within the same day.  Inpatients are those who are admitted into hospitals via Accident & Emergency Department or those who have stayed for more than one day."
+HKMDS,201911,T1101B,other_info,note_2,(註釋 2) 計算住院病床佔用率不包括日間住院病人。,(note 2) The calculation of inpatient bed occupancy rate does not include day inpatients.
+HKMDS,201911,T1101B,other_info,note_3,(註釋 3) 普通科門診就診人次包括由醫生診視的就診人次、普通科護士診所的就診人次及醫療改革服務計劃內的基層醫療服務就診人次。,"(note 3) General outpatient (GOP) attendances include attendances for doctor consultations, attendances from nurse clinic in GOP setting and attendances in related healthcare reform initiative programmes in primary care."
+HKMDS,201911,T1101B,other_info,note_4,(註釋 4) 專科門診（臨床）就診人次也包括專科護士診所的就診人次。,(note 4) Specialist outpatient (SOP) (clinical) attendances also include attendances from nurse clinic in SOP setting.
+HKMDS,201911,T1101B,other_info,note_5,(註釋 5) 專職醫療（門診）就診人次不包括由醫務社會服務部提供的跟進個案。,(note 5) Allied Health (outpatient) attendances exclude follow-up consultations provided by the Medical Social Services Units.
+HKMDS,201911,T1101B,other_info,note_6,(註釋 6) 就診人次包括首次及覆診個案。,(note 6) Attendances figures include first and follow-up cases.
+HKMDS,201911,T1101B,note_figure,(#),臨時數字,Provisional figures
+HKMDS,201911,T1101B,other_info,source,醫院管理局,Hospital Authority
+HKMDS,201911,T1102,table,T1102,表11.2：已呈報的傳染病,Table 11.2 : Notified infectious diseases
+HKMDS,201911,T1102,stat,M110201,已呈報的傳染病宗數,Number of notified infectious diseases
+HKMDS,201911,T1102,stat,M110202,已呈報的傳染病受影響人數,Persons affected by notified infectious diseases
+HKMDS,201911,T1102,stat,M110203,已呈報的傳染病死亡人數,Deaths by notified infectious diseases
+HKMDS,201911,T1102,class1,noti,呈報個案,Notifications
+HKMDS,201911,T1102,class1_code,noti_01,阿米巴痢疾,Amoebic dysentery
+HKMDS,201911,T1102,class1_code,noti_02,桿菌痢疾,Bacillary dysentery
+HKMDS,201911,T1102,class1_code,noti_03,肉毒中毒 (註釋 1),Botulism (note 1)
+HKMDS,201911,T1102,class1_code,noti_04,水痘,Chickenpox
+HKMDS,201911,T1102,class1_code,noti_05,基孔肯雅熱,Chikungunya fever
+HKMDS,201911,T1102,class1_code,noti_06,霍亂,Cholera
+HKMDS,201911,T1102,class1_code,noti_07,社區型耐甲氧西林金黃葡萄球菌感染,Community-associated methicillin-resistant Staphylococcus aureus infection
+HKMDS,201911,T1102,class1_code,noti_08,克雅二氏症,Creutzfeldt-Jakob disease
+HKMDS,201911,T1102,class1_code,noti_09,登革熱,Dengue fever
+HKMDS,201911,T1102,class1_code,noti_10,腸病毒71型感染,Enterovirus 71 infection
+HKMDS,201911,T1102,class1_code,noti_11,食物中毒,Food poisoning
+HKMDS,201911,T1102,class1_code,noti_12,乙型流感嗜血桿菌感染 (侵入性),Haemophilus influenzae type b infection (invasive)
+HKMDS,201911,T1102,class1_code,noti_13,漢坦病毒感染,Hantavirus infection
+HKMDS,201911,T1102,class1_code,noti_14,侵入性肺炎球菌病,Invasive pneumococcal disease
+HKMDS,201911,T1102,class1_code,noti_15,日本腦炎,Japanese encephalitis
+HKMDS,201911,T1102,class1_code,noti_16,退伍軍人病,Legionnaires' disease
+HKMDS,201911,T1102,class1_code,noti_17,麻風,Leprosy
+HKMDS,201911,T1102,class1_code,noti_18,鈎端螺旋體病,Leptospirosis
+HKMDS,201911,T1102,class1_code,noti_19,李斯特菌病,Listeriosis
+HKMDS,201911,T1102,class1_code,noti_20,瘧疾,Malaria
+HKMDS,201911,T1102,class1_code,noti_21,麻疹,Measles
+HKMDS,201911,T1102,class1_code,noti_22,腦膜炎雙球菌感染 (侵入性),Meningococcal infection (invasive)
+HKMDS,201911,T1102,class1_code,noti_23,流行性腮腺炎,Mumps
+HKMDS,201911,T1102,class1_code,noti_24,新型甲型流行性感冒,Novel influenza A infection
+HKMDS,201911,T1102,class1_code,noti_25,副傷寒,Paratyphoid fever 
+HKMDS,201911,T1102,class1_code,noti_26,鸚鵡熱,Psittacosis
+HKMDS,201911,T1102,class1_code,noti_27,寇熱,Q fever
+HKMDS,201911,T1102,class1_code,noti_28,風疹(德國麻疹)及先天性風疹綜合症,Rubella and congenital rubella syndrome
+HKMDS,201911,T1102,class1_code,noti_29,猩紅熱,Scarlet fever
+HKMDS,201911,T1102,class1_code,noti_30,產志賀毒素大腸桿菌感染,Shiga toxin-producing Escherichia coli infection
+HKMDS,201911,T1102,class1_code,noti_31,豬鏈球菌感染,Streptococcus suis infection
+HKMDS,201911,T1102,class1_code,noti_32,破傷風,Tetanus
+HKMDS,201911,T1102,class1_code,noti_33,結核病,Tuberculosis
+HKMDS,201911,T1102,class1_code,noti_34,傷寒,Typhoid fever
+HKMDS,201911,T1102,class1_code,noti_35,斑疹傷寒及其他立克次體病,Typhus and other rickettsial diseases
+HKMDS,201911,T1102,class1_code,noti_36,病毒性肝炎,Viral hepatitis
+HKMDS,201911,T1102,class1_code,noti_37,百日咳,Whooping cough
+HKMDS,201911,T1102,class1_code,noti_38,寨卡病毒感染,Zika Virus Infection
+HKMDS,201911,T1102,class1_code,noti_39,狂犬病,Rabies
+HKMDS,201911,T1102,class1_code,noti_tt,總計,Total
+HKMDS,201911,T1102,other_info,note_G1,已呈報的傳染病宗數為衞生署截至2019年9月10日所知悉的個案數目。最新數字詳載於衞生防護中心網站 (www.chp.gov.hk)。,Number of notified cases refers to notifications of infectious disease cases known to the Department of Health as of 10 September 2019.  Up-to-date figures are available at the website of the Centre for Health Protection (www.chp.gov.hk).
+HKMDS,201911,T1102,other_info,note_G2,"在上述時期內列為須呈報的傳染病包括：
+傳染病（生效日期）；
+寨卡病毒感染（2016年2月5日）","Infectious disease which has been made notifiable during the period includes:
+Infectious disease (Effective date);
+Zika Virus Infection (5 February 2016)"
+HKMDS,201911,T1102,other_info,note_G3,在上述時期內，並沒有接獲呈報急性脊髓灰質炎（小兒麻痺）、炭疽、白喉、中東呼吸綜合症、鼠疫、狂犬病、回歸熱、嚴重急性呼吸系統綜合症、天花、病毒性出血熱、西尼羅河病毒感染或黃熱病的個案。,"No case of Acute poliomyelitis, Anthrax, Diphtheria, Middle East Respiratory Syndrome, Plague, Rabies, Relapsing fever, Severe Acute Respiratory Syndrome, Smallpox, Viral haemorrhagic fever, West Nile Virus Infection or Yellow fever was reported during the specified periods."
+HKMDS,201911,T1102,other_info,note_G4,死亡數字代表期內在入境事務處登記的死亡人數，而不依據個案呈報衞生署的日期。,"Number of deaths refers to deaths registered at the Immigration Department in the period, irrespective of the date of notification to the Department of Health."
+HKMDS,201911,T1102,other_info,note_1,(註釋 1) 肉毒中毒的個案定義已經在2016年5月修訂。,(note 1) A revised case definition of Botulism has been adopted since May 2016.
+HKMDS,201911,T1102,other_info,source,衞生署衞生防護中心,"Centre for Health Protection, Department of Health"
+HKMDS,201911,T1103,table,T1103,表11.3：綜合社會保障援助計劃,Table 11.3 : Comprehensive Social Security Assistance Scheme
+HKMDS,201911,T1103,stat,M110301,綜合社會保障援助計劃的個案數目 (註釋 1),Number of cases of Comprehensive Social Security Assistance Scheme (note 1)
+HKMDS,201911,T1103,stat,M110302,綜合社會保障援助計劃的發放款項 [百萬元],Amount of payment of Comprehensive Social Security Assistance Scheme [$ million]
+HKMDS,201911,T1103,stat,M110303,綜合社會保障援助計劃的申請個案數目,Number of applications of Comprehensive Social Security Assistance Scheme
+HKMDS,201911,T1103,class1,cssa,綜合社會保障援助計劃個案類別,Type of Comprehensive Social Security Assistance Scheme cases
+HKMDS,201911,T1103,class1_code,cssa_01,年老,Old age
+HKMDS,201911,T1103,class1_code,cssa_02,永久性殘疾,Permanent disability
+HKMDS,201911,T1103,class1_code,cssa_03,健康欠佳,Ill-health
+HKMDS,201911,T1103,class1_code,cssa_04,單親,Single parent
+HKMDS,201911,T1103,class1_code,cssa_05,低收入,Low-earnings
+HKMDS,201911,T1103,class1_code,cssa_06,失業,Unemployment
+HKMDS,201911,T1103,class1_code,cssa_07,其他,Others
+HKMDS,201911,T1103,class1_code,cssa_tt,總計,Total
+HKMDS,201911,T1103,other_info,note_1,(註釋 1) 在期末的數目。,(note 1) Figures are as at the end of the period.
+HKMDS,201911,T1103,other_info,note_2,(註釋 2) 財政年度由4月1日至3月31日。,(note 2) Financial year runs from 1 April to 31 March.
+HKMDS,201911,T1103,note_figure,(3),(註釋 3) 包括於該財政年度向綜援個案額外發放的一個月標準金額。,(note 3) Including the payment of one additional month of standard rates to the Comprehensive Social Security Assistance (CSSA) cases for the respective financial years.
+HKMDS,201911,T1103,note_figure,(4),"(註釋 4) 包括於該財政年度向綜援個案額外發放的兩個月標準金額，以及根據關愛共享計劃發放款項以補不足4,000元的差額。","(note 4) Including the payment of two additional months of standard rates and the top-up payment to make up to $4,000 under the Caring and Sharing Scheme to the CSSA cases for the respective financial years."
+HKMDS,201911,T1103,note_figure,(5),"(註釋 5) 大部分在2018/19學年向每名有經濟需要學生一次過發放2,000元的津貼已於2018年8月發放。","(note 5) The majority of the one-off grant of $2,000 to each needy student in 2018/19 school year was made in August 2018."
+HKMDS,201911,T1103,note_figure,(6),(註釋 6) 大部分於2019-20年度向綜援個案額外發放的一個月標準金額已於2019年6月發放。,(note 6) The majority of the payment of one additional month of standard rates to the CSSA cases for 2019-20 was made in June 2019.
+HKMDS,201911,T1103,note_figure,(7),"(註釋 7) 大部分在2019/20學年向每名有經濟需要學生一次過發放2,500元的津貼已於2019年8月發放。","(note 7) The majority of the one-off grant of $2,500 to each needy student in 2019/20 school year was made in August 2019."
+HKMDS,201911,T1103,other_info,source,社會福利署,Social Welfare Department
+HKMDS,201911,T1104,table,T1104,表11.4：公共福利金計劃,Table 11.4 : Social Security Allowance Scheme
+HKMDS,201911,T1104,stat,M110401,公共福利金計劃的個案數目 (註釋 1),Number of cases of Social Security Allowance Scheme (note 1)
+HKMDS,201911,T1104,stat,M110402,公共福利金計劃的發放款項 [百萬元],Amount of payment of Social Security Allowance Scheme [$ million]
+HKMDS,201911,T1104,stat,M110403,公共福利金計劃的申請個案數目,Number of applications of Social Security Allowance Scheme
+HKMDS,201911,T1104,class1,ssa,公共福利金類別,Type of Social Security Allowance
+HKMDS,201911,T1104,class1_code,ssa_01,傷殘津貼,Disability Allowance
+HKMDS,201911,T1104,class1_code,ssa_02,高齡津貼,Old Age Allowance
+HKMDS,201911,T1104,class1_code,ssa_03,長者生活津貼,Old Age Living Allowance
+HKMDS,201911,T1104,class1_code,ssa_04,廣東計劃,Guangdong Scheme
+HKMDS,201911,T1104,class1_code,ssa_05,福建計劃 (註釋 3),Fujian Scheme (note 3)
+HKMDS,201911,T1104,class1_code,ssa_tt,總計,Total
+HKMDS,201911,T1104,other_info,note_1,(註釋 1) 在期末的數目。,(note 1) Figures are as at the end of the period.
+HKMDS,201911,T1104,other_info,note_2,(註釋 2) 財政年度由4月1日至3月31日。,(note 2) Financial year runs from 1 April to 31 March.
+HKMDS,201911,T1104,other_info,note_3,(註釋 3) 福建計劃由2018年4月起實施。,(note 3) The Fujian Scheme was launched in April 2018.
+HKMDS,201911,T1104,note_figure,(4),(註釋 4) 包括於該財政年度向公共福利金個案額外發放的一個月福利金。,(note 4) Including the payment of one additional month of allowances to the Social Security Allowance (SSA) cases for the respective financial years.
+HKMDS,201911,T1104,note_figure,(5),"(註釋 5) 包括於該財政年度向公共福利金個案額外發放的兩個月福利金，以及根據關愛共享計劃發放款項以補不足4,000元的差額。此外，亦包括向合資格的高額長者生活津貼受惠人補發由2017 年 5月開始的一筆過津貼。","(note 5) Including the payment of two additional months of allowances and the top-up payment to make up to $4,000 under the Caring and Sharing Scheme to the SSA cases for the respective financial year.  Moreover, the disbursement of a one-off grant to eligible recipients of the Higher OALA, with retrospective effect from May 2017 was also included."
+HKMDS,201911,T1104,note_figure,(6),(註釋 6) 大部分於2019-20年度向公共福利金個案額外發放的一個月福利金已於2019年6月發放。,(note 6) The majority of the payment of one additional month of allowances to the SSA cases for 2019-20 was made in June 2019.
+HKMDS,201911,T1104,other_info,source,社會福利署,Social Welfare Department
+HKMDS,201911,T1105,table,T1105,表11.5：綜合家庭服務中心處理中的個案,Table 11.5 : Active cases of Integrated Family Service Centres
+HKMDS,201911,T1105,stat,M110501,綜合家庭服務中心處理中的個案數目 (期末數字),Number of active cases of Integrated Family Service Centres (as at end of period)
+HKMDS,201911,T1105,class1,ifsc,綜合家庭服務中心類別,Type of Integrated Family Service Centres
+HKMDS,201911,T1105,class1_code,ifsc_01,受資助非政府機構,Subvented non-governmental organisations
+HKMDS,201911,T1105,class1_code,ifsc_02,社會福利署,Social Welfare Department
+HKMDS,201911,T1105,class1_code,ifsc_tt,總計,Total
+HKMDS,201911,T1105,other_info,note_1,(註釋 1) 財政年度由4月1日至3月31日。,(note 1) Financial year runs from 1 April to 31 March.
+HKMDS,201911,T1105,other_info,source,社會福利署,Social Welfare Department
+HKMDS,201911,T1106,table,T1106,表11.6：安老服務,Table 11.6 : Services for the elderly
+HKMDS,201911,T1106,stat,M110601,院舍住院人數 (期末數字),Number of persons enrolled in residential care homes (as at end of period)
+HKMDS,201911,T1106,stat,M110602,長者地區中心會員人數 (期末數字),Number of members in District Elderly Community Centres (as at end of period)
+HKMDS,201911,T1106,stat,M110603,長者鄰舍中心會員人數 (期末數字),Number of members in Neighbourhood Elderly Centres (as at end of period)
+HKMDS,201911,T1106,stat,M110604,長者活動中心會員人數 (期末數字),Number of members in Social Centre for the Elderly (as at end of period)
+HKMDS,201911,T1106,stat,M110605,長者日間護理中心／單位登記人數 (期末數字),Number of persons enrolled in Day Care Centres/Units for the Elderly (as at end of period)
+HKMDS,201911,T1106,stat,M110606,改善家居及社區照顧服務登記人數 (期末數字),Number of persons enrolled in Enhanced Home and Community Care Services (as at end of period)
+HKMDS,201911,T1106,stat,M110607,綜合家居照顧服務登記人數 (期末數字),Number of persons enrolled in Integrated Home Care Services (as at end of period)
+HKMDS,201911,T1106,class1,careh,院舍類別,Type of residential care homes
+HKMDS,201911,T1106,class1_code,careh_01,長者宿舍,Hostels for the Elderly
+HKMDS,201911,T1106,class1_code,careh_02,安老院,Homes for the Aged
+HKMDS,201911,T1106,class1_code,careh_03,護理安老院 (註釋 2),Care and Attention Homes for the Elderly (note 2)
+HKMDS,201911,T1106,class1_code,careh_04,護養院,Nursing Homes
+HKMDS,201911,T1106,other_info,note_1,(註釋 1) 財政年度由4月1日至3月31日。,(note 1) Financial year runs from 1 April to 31 March.
+HKMDS,201911,T1106,other_info,note_2,(註釋 2) 包括提供持續照顧的護理安老院宿位。,(note 2) Including Care and Attention Home for the Elderly places providing continuum-of-care.
+HKMDS,201911,T1106,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,201911,T1106,other_info,source,社會福利署,Social Welfare Department
+HKMDS,201911,T1107,table,T1107,表11.7：罪案統計數字,Table 11.7 : Statistics of crimes
+HKMDS,201911,T1107,stat,M110701,舉報個案數目,Cases reported  
+HKMDS,201911,T1107,stat,M110702,被捕人數,Persons arrested
+HKMDS,201911,T1107,stat,M110703,廉政公署處理的賄賂及貪污投訴個案數目 (註釋 2) (註釋 3),Number of bribery and corruption complaints handled by Independent Commission Against Corruption (note 2) (note 3)
+HKMDS,201911,T1107,stat,M110704,警務處處理的賄賂及貪污投訴個案數目 (註釋 3),Number of bribery and corruption complaints handled by the Hong Kong Police Force (note 3)
+HKMDS,201911,T1107,stat,M110705,廉政公署處理的賄賂及貪污案件的檢控數字 (註釋 4),Number of prosecutions of bribery and corruption cases handled by Independent Commission Against Corruption (note 4)
+HKMDS,201911,T1107,stat,M110706,警務處處理的賄賂及貪污案件的檢控數字 (註釋 4),Number of prosecutions of bribery and corruption cases handled by the Hong Kong Police Force (note 4)
+HKMDS,201911,T1107,class1,crime,罪案,Crime
+HKMDS,201911,T1107,class1_code,crime_01,暴力罪案,Violent crime
+HKMDS,201911,T1107,class1_code,crime_02,非暴力罪案,Non-violent crime
+HKMDS,201911,T1107,class1_code,crime_03,總計（警方案件）,Total (Police cases)
+HKMDS,201911,T1107,class1_code,crime_0101,暴力罪案 - 強姦,Violent crime - Rape
+HKMDS,201911,T1107,class1_code,crime_0102,暴力罪案 - 非禮,Violent crime - Indecent assault
+HKMDS,201911,T1107,class1_code,crime_0103,暴力罪案 - 謀殺及誤殺,Violent crime - Murder and manslaughter
+HKMDS,201911,T1107,class1_code,crime_0104,暴力罪案 - 意圖謀殺,Violent crime - Attempted murder
+HKMDS,201911,T1107,class1_code,crime_0105,暴力罪案 - 傷人,Violent crime - Wounding
+HKMDS,201911,T1107,class1_code,crime_0106,暴力罪案 - 嚴重毆打,Violent crime - Serious assault
+HKMDS,201911,T1107,class1_code,crime_0107,暴力罪案 - 襲警,Violent crime - Assault on police
+HKMDS,201911,T1107,class1_code,crime_0108,暴力罪案 - 綁架及拐帶兒童,Violent crime - Kidnapping and child stealing
+HKMDS,201911,T1107,class1_code,crime_0109,暴力罪案 - 虐待兒童,Violent crime - Cruelty to child
+HKMDS,201911,T1107,class1_code,crime_0110,暴力罪案 - 刑事恐嚇,Violent crime - Criminal intimidation
+HKMDS,201911,T1107,class1_code,crime_0111,暴力罪案 - 使用槍械行劫,Violent crime - Robbery with firearms/arms
+HKMDS,201911,T1107,class1_code,crime_0112,暴力罪案 - 使用類似手槍物體行劫,Violent crime - Robbery with pistol-like objects
+HKMDS,201911,T1107,class1_code,crime_0113,暴力罪案 - 其他行劫,Violent crime - Other robberies
+HKMDS,201911,T1107,class1_code,crime_0114,暴力罪案 - 嚴重爆竊,Violent crime - Aggravated burglary
+HKMDS,201911,T1107,class1_code,crime_0115,暴力罪案 - 勒索,Violent crime - Blackmail
+HKMDS,201911,T1107,class1_code,crime_0116,暴力罪案 - 縱火,Violent crime - Arson
+HKMDS,201911,T1107,class1_code,crime_01tt,暴力罪案 - 暴力罪案總計,Violent crime - Violent crime total
+HKMDS,201911,T1107,class1_code,crime_0201,非暴力罪案 - 爆竊,Non-violent crime - Burglary
+HKMDS,201911,T1107,class1_code,crime_0202,非暴力罪案 - 搶掠,Non-violent crime - Snatching
+HKMDS,201911,T1107,class1_code,crime_0203,非暴力罪案 - 扒竊,Non-violent crime - Pickpocketing
+HKMDS,201911,T1107,class1_code,crime_0204,非暴力罪案 - 店鋪盜竊,Non-violent crime - Shop theft
+HKMDS,201911,T1107,class1_code,crime_0205,非暴力罪案 - 車輛內盜竊,Non-violent crime - Theft from vehicle
+HKMDS,201911,T1107,class1_code,crime_0206,非暴力罪案 - 擅自取去交通工具,Non-violent crime - Taking conveyance without authority 
+HKMDS,201911,T1107,class1_code,crime_0207,非暴力罪案 - 其他盜竊,Non-violent crime - Other thefts
+HKMDS,201911,T1107,class1_code,crime_0208,非暴力罪案 - 接贓,Non-violent crime - Handling stolen goods
+HKMDS,201911,T1107,class1_code,crime_0209,非暴力罪案 - 詐騙及偽造,"Non-violent crime - Deception, fraud and forgery"
+HKMDS,201911,T1107,class1_code,crime_0210,非暴力罪案 - 色情罪行（強姦及非禮除外）,Non-violent crime - Sexual offences other than rape and indecent assault
+HKMDS,201911,T1107,class1_code,crime_0211,非暴力罪案 - 嚴重毒品罪行 (註釋 1),Non-violent crime - Serious drug offences (note 1)
+HKMDS,201911,T1107,class1_code,crime_0212,非暴力罪案 - 嚴重非法入境罪行,Non-violent crime - Serious immigration offences 
+HKMDS,201911,T1107,class1_code,crime_0213,非暴力罪案 - 刑事毀壞,Non-violent crime - Criminal damage
+HKMDS,201911,T1107,class1_code,crime_0214,非暴力罪案 - 非法會社罪行,Non-violent crime - Unlawful society offences
+HKMDS,201911,T1107,class1_code,crime_0215,非暴力罪案 - 藏有槍械／彈藥／攻擊性武器,Non-violent crime - Possession of arms/ammunition/offensive weapon
+HKMDS,201911,T1107,class1_code,crime_0216,非暴力罪案 - 其他罪行,Non-violent crime - Other crimes
+HKMDS,201911,T1107,class1_code,crime_02tt,非暴力罪案 - 非暴力罪案總計,Non-violent crime - Non-violent crime total
+HKMDS,201911,T1107,other_info,note_G1,由於某些案件在獲得進一步資料後被重新界定分類，季度數字的總和與年度總數未必相同。,The sum of the quarterly figures may differ from the annual figures since cases may be reclassified upon receipt of further information.
+HKMDS,201911,T1107,other_info,note_1,(註釋 1) 只包括向警方舉報的案件／被警方拘捕的人數。,(note 1) Refer to cases reported to/persons arrested by Police only.
+HKMDS,201911,T1107,other_info,note_2,(註釋 2) 數字包括所有廉政公署處理的可追查案件。,(note 2) Figures include all the pursuable cases handled by the Independent Commission Against Corruption.
+HKMDS,201911,T1107,other_info,note_3,(註釋 3) 由於單一貪污舉報可能包含多宗涉及不同政府部門／公共機構／行業的投訴，署方會以投訴數字取代舉報數字，從而更清晰地反映貪污情況。,"(note 3) The corruption complaint figures (instead of corruption report figures, as a corruption report may contain multiple complaints in respect of different government departments/public bodies/industries) are presented to reflect more clearly the corruption situation."
+HKMDS,201911,T1107,other_info,note_4,(註釋 4) 上述數字為檢控數字。倘若同一名人士在不同案件被檢控，上述數字亦會按其被檢控的次數計算。,"(note 4) Figures refer to the number of prosecutions.  If a person is prosecuted in different cases, the figures will take into account the number of prosecutions made against that person."
+HKMDS,201911,T1107,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,201911,T1107,other_info,source,香港警務處；廉政公署,Hong Kong Police Force; Independent Commission Against Corruption
+HKMDS,201911,T1108,table,T1108,表11.8：按地點劃分的主要文化場地使用率,Table 11.8 : Usage rates of major cultural venues by location
+HKMDS,201911,T1108,stat,M110801,主要文化場地使用率 [百分比],Usage rates of major cultural venues [Percentage]
+HKMDS,201911,T1108,class1,venue,場地,Venue
+HKMDS,201911,T1108,class2,ventype,場館類別,Type of venue
+HKMDS,201911,T1108,class1_code,venue_01,香港大會堂,Hong Kong City Hall
+HKMDS,201911,T1108,class1_code,venue_02,香港文化中心,Hong Kong Cultural Centre
+HKMDS,201911,T1108,class1_code,venue_03,高山劇場,Ko Shan Theatre
+HKMDS,201911,T1108,class1_code,venue_04,伊利沙伯體育館,Queen Elizabeth Stadium
+HKMDS,201911,T1108,class1_code,venue_05,香港體育館,Hong Kong Coliseum
+HKMDS,201911,T1108,class1_code,venue_06,香港太空館,Hong Kong Space Museum
+HKMDS,201911,T1108,class1_code,venue_07,上環文娛中心,Sheung Wan Civic Centre
+HKMDS,201911,T1108,class1_code,venue_08,牛池灣文娛中心,Ngau Chi Wan Civic Centre
+HKMDS,201911,T1108,class1_code,venue_09,西灣河文娛中心,Sai Wan Ho Civic Centre
+HKMDS,201911,T1108,class1_code,venue_10,香港科學館,Hong Kong Science Museum
+HKMDS,201911,T1108,class1_code,venue_11,香港視覺藝術中心,Hong Kong Visual Arts Centre
+HKMDS,201911,T1108,class1_code,venue_12,油麻地戲院,Yau Ma Tei Theatre
+HKMDS,201911,T1108,class1_code,venue_13,荃灣大會堂,Tsuen Wan Town Hall
+HKMDS,201911,T1108,class1_code,venue_14,屯門大會堂,Tuen Mun Town Hall
+HKMDS,201911,T1108,class1_code,venue_15,北區大會堂,North District Town Hall
+HKMDS,201911,T1108,class1_code,venue_16,大埔文娛中心,Tai Po Civic Centre
+HKMDS,201911,T1108,class1_code,venue_17,沙田大會堂,Sha Tin Town Hall
+HKMDS,201911,T1108,class1_code,venue_18,葵青劇院,Kwai Tsing Theatre
+HKMDS,201911,T1108,class1_code,venue_19,元朗劇院,Yuen Long Theatre
+HKMDS,201911,T1108,class2_code,ventype_01,音樂廳,Concert Hall
+HKMDS,201911,T1108,class2_code,ventype_02,劇院,Theatre
+HKMDS,201911,T1108,class2_code,ventype_03,大劇院,Grand Theatre
+HKMDS,201911,T1108,class2_code,ventype_04,劇場,Studio Theatre
+HKMDS,201911,T1108,class2_code,ventype_05,新翼演藝廳,New Wing Auditorium
+HKMDS,201911,T1108,class2_code,ventype_06,表演場,Arena
+HKMDS,201911,T1108,class2_code,ventype_07,演講廳,Lecture Hall
+HKMDS,201911,T1108,class2_code,ventype_08,展覽廳,Exhibition Hall
+HKMDS,201911,T1108,class2_code,ventype_09,陶瓷室,Ceramic Studio
+HKMDS,201911,T1108,class2_code,ventype_10,演奏廳／演藝廳,Auditorium
+HKMDS,201911,T1108,class2_code,ventype_11,文娛廳,Cultural Activities Hall
+HKMDS,201911,T1108,note_figure,(1),(註釋 1) 上環文娛中心劇院於2019年1月21日至3月16日關閉以進行翻新工程。,(note 1) The Theatre of Sheung Wan Civic Centre was closed for renovation from 21 January to 16 March 2019.
+HKMDS,201911,T1108,note_figure,(2),(註釋 2) 因天花工程關係，香港視覺藝術中心展覽廳於2019年5月28日至7月22日暫時關閉。,(note 2) The Exhibition Hall of the Hong Kong Visual Arts Centre was temporarily closed from 28 May to 22 July 2019 for the renovation of ceiling.
+HKMDS,201911,T1108,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,201911,T1108,other_info,source,康樂及文化事務署,Leisure and Cultural Services Department
+HKMDS,201911,T1109,table,T1109,表11.9：按種類劃分的康樂設施使用率,Table 11.9 : Usage rates of recreation facilities by type
+HKMDS,201911,T1109,stat,M110901,康樂設施使用率 [百分比],Usage rates of recreation facilities [Percentage]
+HKMDS,201911,T1109,stat,M110902,球賽數目,Number of games
+HKMDS,201911,T1109,class1,facilities,康樂設施,Recreation facilities
+HKMDS,201911,T1109,class1_code,facilities_01,網球場,Tennis court
+HKMDS,201911,T1109,class1_code,facilities_02,障礙高爾夫球,Obstacle golf
+HKMDS,201911,T1109,class1_code,facilities_03,草地球場,Turf pitch
+HKMDS,201911,T1109,class1_code,facilities_0301,草地球場 - 天然,Turf pitch - Natural
+HKMDS,201911,T1109,class1_code,facilities_0302,草地球場 - 人造,Turf pitch - Artificial
+HKMDS,201911,T1109,class1_code,facilities_04,草地滾球場,Bowling green
+HKMDS,201911,T1109,class1_code,facilities_05,曲棍球場 － 人造草地,Hockey pitch - Artificial turf
+HKMDS,201911,T1109,class1_code,facilities_06,欖球場 － 天然草地,Rugby pitch - Natural turf
+HKMDS,201911,T1109,class1_code,facilities_07,運動場,Sports ground
+HKMDS,201911,T1109,class1_code,facilities_08,體育館 (註釋 1)  － 主場,Sports centres (note 1) - Arena
+HKMDS,201911,T1109,class1_code,facilities_09,壁球場,Squash court
+HKMDS,201911,T1109,class1_code,facilities_10,度假營,Holiday camp
+HKMDS,201911,T1109,class1_code,facilities_1001,度假營 - 日營,Holiday camp - Day
+HKMDS,201911,T1109,class1_code,facilities_1002,度假營 - 宿營,Holiday camp - Residential
+HKMDS,201911,T1109,class1_code,facilities_11,水上活動中心,Water sports centre
+HKMDS,201911,T1109,class1_code,facilities_1101,水上活動中心 - 日營,Water sports centre - Day
+HKMDS,201911,T1109,class1_code,facilities_1102,水上活動中心 - 露營,Water sports centre - Tent
+HKMDS,201911,T1109,other_info,note_1,(註釋 1) 就每個體育館類別而定，一個主場通常可當作四個羽毛球場、一個籃球場或一個排球場使用。除主場外，其他設施有舞蹈室、健身室、遊戲室或乒乓球室等。,"(note 1) Depending on the type of each sports centre, one arena normally can be used as four badminton courts, one basketball court or one volleyball court.  Facilities also include dance room, fitness room, games room, or table tennis room, etc."
+HKMDS,201911,T1109,note_figure,(++),高於100%的數字表示場地實際使用人數超過其可容納人數。,Figures more than 100% denote actual utilisation exceeding capacity.
+HKMDS,201911,T1109,other_info,source,康樂及文化事務署,Leisure and Cultural Services Department
+HKMDS,201911,T1110,table,T1110,表11.10：按類別劃分的有效市政牌照及許可證,Table 11.10 : Municipal services licences and permits in force by type
+HKMDS,201911,T1110,stat,M111001,有效市政牌照 (期末數字),Municipal services licences in force (as at end of period)
+HKMDS,201911,T1110,stat,M111002,有效市政許可證 (期末數字),Municipal services permits in force (as at end of period)
+HKMDS,201911,T1110,stat,M111003,有效市政牌照及許可證總計 (期末數字),Total municipal services licences and permits in force (as at end of period)
+HKMDS,201911,T1110,class1,business,行業,Business
+HKMDS,201911,T1110,class1,permit,許可證類型,Type of permits
+HKMDS,201911,T1110,class1_code,business_01,食物業,Food business
+HKMDS,201911,T1110,class1_code,business_02,其他行業,Other business
+HKMDS,201911,T1110,class1_code,business_tt,牌照總計,Total licences
+HKMDS,201911,T1110,class1_code,permit_01,限制出售的食物許可證,Restricted food permits
+HKMDS,201911,T1110,class1_code,permit_02,食肆內的卡拉OK場所許可證,Karaoke establishment permit in restaurants
+HKMDS,201911,T1110,class1_code,permit_tt,許可證總計,Total permits
+HKMDS,201911,T1110,class1_code,business_0101,食物業 - 烘製麵包餅食店,Food business - Bakery
+HKMDS,201911,T1110,class1_code,business_0102,食物業 - 凍房,Food business - Cold store
+HKMDS,201911,T1110,class1_code,business_0103,食物業 - 工廠食堂,Food business - Factory canteen
+HKMDS,201911,T1110,class1_code,business_0104,食物業 - 食物製造廠,Food business - Food factory
+HKMDS,201911,T1110,class1_code,business_0105,食物業 - 新鮮糧食店,Food business - Fresh provision shop
+HKMDS,201911,T1110,class1_code,business_0106,食物業 - 冰凍甜點製造廠,Food business - Frozen confection factory
+HKMDS,201911,T1110,class1_code,business_0107,食物業 - 普通食肆,Food business - General restaurant
+HKMDS,201911,T1110,class1_code,business_0108,食物業 - 小食食肆,Food business - Light refreshment restaurant
+HKMDS,201911,T1110,class1_code,business_0109,食物業 - 水上食肆,Food business - Marine restaurant
+HKMDS,201911,T1110,class1_code,business_0110,食物業 - 奶品廠,Food business - Milk factory
+HKMDS,201911,T1110,class1_code,business_0111,食物業 - 燒味及鹵味店,Food business - Siu Mei and Lo Mei shop
+HKMDS,201911,T1110,class1_code,business_0112,食物業 - 綜合食物店,Food business - Composite food shop
+HKMDS,201911,T1110,class1_code,business_01tt,食物業 -  總計,Food business - Total
+HKMDS,201911,T1110,class1_code,business_0201,其他行業 - 商營浴室,Other business - Commercial bathhouse
+HKMDS,201911,T1110,class1_code,business_0202,其他行業 - 屠房,Other business - Slaughterhouse
+HKMDS,201911,T1110,class1_code,business_0203,其他行業 - 殯儀館,Other business - Funeral parlour
+HKMDS,201911,T1110,class1_code,business_0204,其他行業 - 殮葬商,Other business - Undertaker of burial
+HKMDS,201911,T1110,class1_code,business_0205,其他行業 - 厭惡性行業,Other business - Offensive trade
+HKMDS,201911,T1110,class1_code,business_0206,其他行業 - 泳池,Other business - Swimming pool
+HKMDS,201911,T1110,class1_code,business_0207,其他行業 - 酒牌,Other business - Liquor
+HKMDS,201911,T1110,class1_code,business_0208,其他行業 - 會所酒牌,Other business - Club liquor
+HKMDS,201911,T1110,class1_code,business_0209,其他行業 - 公眾娛樂場所,Other business - Places of public entertainment
+HKMDS,201911,T1110,class1_code,business_0210,其他行業 - 桌球室,Other business - Billiard establishment
+HKMDS,201911,T1110,class1_code,business_0211,其他行業 - 公眾保齡球場,Other business - Public bowling alley
+HKMDS,201911,T1110,class1_code,business_0212,其他行業 - 公眾溜冰場,Other business - Public skating rink
+HKMDS,201911,T1110,class1_code,business_02tt,其他行業 - 總計,Other business - Total
+HKMDS,201911,T1110,class1_code,permit_0101,限制出售的食物許可證 - 涼茶,Restricted food permits - Chinese herb tea
+HKMDS,201911,T1110,class1_code,permit_0102,限制出售的食物許可證 - 冰凍甜點,Restricted food permits - Frozen confections
+HKMDS,201911,T1110,class1_code,permit_0103,限制出售的食物許可證 - 奶類,Restricted food permits - Milk
+HKMDS,201911,T1110,class1_code,permit_0104,限制出售的食物許可證 - 非瓶裝飲品,Restricted food permits - Non-bottled drinks
+HKMDS,201911,T1110,class1_code,permit_0105,限制出售的食物許可證 - 食物售賣機,Restricted food permits - Food vending machine
+HKMDS,201911,T1110,class1_code,permit_0106,限制出售的食物許可證 - 其他,Restricted food permits - Others
+HKMDS,201911,T1110,other_info,note_G1,康樂及文化事務署負責簽發及延續桌球室、公眾保齡球場及公眾溜冰場的牌照；上表所列其餘的牌照／許可證由食物環境衞生署負責。,"The Leisure and Cultural Services Department is responsible for issue and renewal of the licences for billiard establishment, public bowling alley and public skating rink while the rest of the licences/permits presented in the above table are under the responsibility of the Food and Environmental Hygiene Department."
+HKMDS,201911,T1110,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,201911,T1110,other_info,source,食物環境衞生署；康樂及文化事務署,Food and Environmental Hygiene Department; Leisure and Cultural Services Department
+HKMDS,201911,T1111,table,T1111,表11.11：氣象觀測,Table 11.11 : Meteorological observations
+HKMDS,201911,T1111,stat,M111101,香港天文台 － 平均氣壓 [百帕斯卡],Hong Kong Observatory - Mean pressure [hectopascals]
+HKMDS,201911,T1111,stat,M111102,香港天文台 － 平均最高氣溫 [攝氏度],Hong Kong Observatory - Mean maximum air temperature [℃]
+HKMDS,201911,T1111,stat,M111103,香港天文台 － 平均氣溫 [攝氏度],Hong Kong Observatory - Mean air temperature [℃]
+HKMDS,201911,T1111,stat,M111104,香港天文台 － 平均最低氣溫 [攝氏度],Hong Kong Observatory - Mean minimum air temperature [℃]
+HKMDS,201911,T1111,stat,M111105,香港天文台 － 平均露點溫度 [攝氏度],Hong Kong Observatory - Mean dew point [℃]
+HKMDS,201911,T1111,stat,M111106,香港天文台 － 平均相對濕度 [%],Hong Kong Observatory - Mean relative humidity [%]
+HKMDS,201911,T1111,stat,M111107,香港天文台 － 平均雲量 [%],Hong Kong Observatory - Mean amount of cloud [%]
+HKMDS,201911,T1111,stat,M111108,香港天文台 － 總雨量 [毫米],Hong Kong Observatory - Total rainfall [mm]
+HKMDS,201911,T1111,stat,M111109,京士柏 － 總日照時間 [小時],King's Park - Total bright sunshine [hours]
+HKMDS,201911,T1111,stat,M111110,京士柏 － 總蒸發量 [毫米],King's Park - Total evaporation [mm]
+HKMDS,201911,T1111,stat,M111111,橫瀾島 － 盛行風向 [度],Waglan Island - Prevailing wind direction [degrees]
+HKMDS,201911,T1111,stat,M111112,橫瀾島 － 平均風速 [公里/小時],Waglan Island - Mean wind speed [km/h]
+HKMDS,201911,T1111,stat,M111113,香港天文台 － 平均氣壓（10月平均值） (註釋 1) [百帕斯卡],Hong Kong Observatory - Mean pressure (Normals for October) (note 1) [hectopascals]
+HKMDS,201911,T1111,stat,M111114,香港天文台 － 平均最高氣溫（10月平均值）(註釋 1) [攝氏度],Hong Kong Observatory - Mean maximum air temperature (Normals for October) (note 1) [℃]
+HKMDS,201911,T1111,stat,M111115,香港天文台 － 平均氣溫（10月平均值）(註釋 1) [攝氏度],Hong Kong Observatory - Mean air temperature (Normals for October) (note 1) [℃]
+HKMDS,201911,T1111,stat,M111116,香港天文台 － 平均最低氣溫（10月平均值）(註釋 1) [攝氏度],Hong Kong Observatory - Mean minimum air temperature (Normals for October) (note 1) [℃]
+HKMDS,201911,T1111,stat,M111117,香港天文台 － 平均露點溫度（10月平均值） (註釋 1) [攝氏度],Hong Kong Observatory - Mean dew point (Normals for October) (note 1) [℃]
+HKMDS,201911,T1111,stat,M111118,香港天文台 － 平均相對濕度（10月平均值） (註釋 1) [%],Hong Kong Observatory - Mean relative humidity (Normals for October) (note 1) [%]
+HKMDS,201911,T1111,stat,M111119,香港天文台 － 平均雲量（10月平均值） (註釋 1) [%],Hong Kong Observatory - Mean amount of cloud (Normals for October) (note 1) [%]
+HKMDS,201911,T1111,stat,M111120,香港天文台 － 總雨量（10月平均值） (註釋 1) [毫米],Hong Kong Observatory - Total rainfall (Normals for October) (note 1) [mm]
+HKMDS,201911,T1111,stat,M111121,京士柏 － 總日照時間（10月平均值） (註釋 1) [小時],King's Park - Total bright sunshine (Normals for October) (note 1) [hours]
+HKMDS,201911,T1111,stat,M111122,京士柏 － 總蒸發量 （10月平均值）(註釋 1) [毫米],King's Park - Total evaporation (Normals for October) (note 1) [mm]
+HKMDS,201911,T1111,stat,M111123,橫瀾島 － 盛行風向 （10月平均值） (註釋 1) [度],Waglan Island - Prevailing wind direction (Normals for October) (note 1) [degrees]
+HKMDS,201911,T1111,stat,M111124,橫瀾島 － 平均風速 （10月平均值） (註釋 1) [公里/小時],Waglan Island - Mean wind speed (Normals for October) (note 1) [km/h]
+HKMDS,201911,T1111,other_info,note_1,(註釋 1) 1981年至2010年的氣候平均值。,(note 1) Climatological normals for 1981 to 2010.
+HKMDS,201911,T1111,other_info,source,香港天文台,Hong Kong Observatory
+HKMDS,201911,T1112A,table,T1112A,表11.12：消防及救護服務 - (甲) 火警、特別服務、救護車召喚及涉及人數,"Table 11.12 : Fire and Ambulance services - (A) Fire, special services, ambulance calls and persons involved"
+HKMDS,201911,T1112A,stat,M111201,消防及救護服務召喚數目,Number of calls for Fire and Ambulance services
+HKMDS,201911,T1112A,class1,call,召喚類別,Type of call
+HKMDS,201911,T1112A,class1_code,call_01,火警召喚,Fire calls
+HKMDS,201911,T1112A,class1_code,call_02,特別服務召喚,Special services calls
+HKMDS,201911,T1112A,class1_code,call_tt,總計,Total calls
+HKMDS,201911,T1112A,class2,firecall,火警召喚類別,Type of fire calls
+HKMDS,201911,T1112A,class2,specialcall,特別服務召喚類別,Type of special services calls
+HKMDS,201911,T1112A,class2_code,firecall_01,大火 (註釋 1),Major fire (note 1)
+HKMDS,201911,T1112A,class2_code,firecall_02,一般火警 (註釋 2),General fire (note 2)
+HKMDS,201911,T1112A,class2_code,firecall_03,虛報／誤鳴及受控下之燃燒,False/unwanted alarm and control burning
+HKMDS,201911,T1112A,class2_code,firecall_tt,火警召喚總計,Total fire calls
+HKMDS,201911,T1112A,class2_code,specialcall_01,一般特別服務召喚 (註釋 3),General (note 3)
+HKMDS,201911,T1112A,class2_code,specialcall_02,虛報／救護車個案,False alarm/ambulance case
+HKMDS,201911,T1112A,class2_code,specialcall_tt,特別服務召喚總計,Total special services calls
+HKMDS,201911,T1112A,stat,M111202,火警涉及的死亡人數,Number of fatalities persons involved in fire
+HKMDS,201911,T1112A,stat,M111203,特別服務涉及的死亡人數,Number of fatalities persons involved in special services
+HKMDS,201911,T1112A,stat,M111204,火警涉及的受傷人數,Number of injuries persons involved in fire
+HKMDS,201911,T1112A,stat,M111205,特別服務涉及的受傷人數,Number of injuries persons involved in special services
+HKMDS,201911,T1112A,stat,M111206,火警涉及的獲救人數,Number of rescues persons involved in fire
+HKMDS,201911,T1112A,stat,M111207,特別服務涉及的獲救人數,Number of rescues persons involved in special services
+HKMDS,201911,T1112A,stat,M111208,救護車召喚 － 緊急召喚,Ambulance calls - Emergency
+HKMDS,201911,T1112A,stat,M111209,救護車召喚 － 載送召喚,Ambulance calls - Removal
+HKMDS,201911,T1112A,other_info,note_1,(註釋 1) 「大火」指發生三級及以上火警。,"(note 1) ""Major fire"" refers to fire incidents of No. 3 Alarm and above."
+HKMDS,201911,T1112A,other_info,note_2,(註釋 2) 「一般火警」指發生一級及二級火警。,"(note 2) ""General fire"" refers to fire incidents of No.1 and No.2 Alarm."
+HKMDS,201911,T1112A,other_info,note_3,(註釋 3) 數字包括交通意外、船舶失事、有人被困升降機內或被鎖室內、氣體洩漏、樓房倒塌、水浸、山泥傾瀉、工業意外和有人企圖從高處跳下的召喚等。,"(note 3) Figures include calls of traffic accidents, shipwrecks, people trapped/shut in lift or locked in rooms, gas leakages, house collapses, flooding, landslides, industrial accidents and attempts by people to jump from heights, etc."
+HKMDS,201911,T1112A,other_info,source,消防處,Fire Services Department
+HKMDS,201911,T1112B,table,T1112B,表11.12：消防及救護服務 - (乙) 防火工作統計數字,Table 11.12 : Fire and Ambulance services - (B) Fire protection and prevention statistics
+HKMDS,201911,T1112B,stat,M111210,防火視察統計數字,Fire inspections statistics
+HKMDS,201911,T1112B,class1,protect,防火工作類別,Type of fire protection
+HKMDS,201911,T1112B,class1_code,protect_01,投訴,Complaints
+HKMDS,201911,T1112B,class1_code,protect_02,危險品倉庫及木圍,"Dangerous goods, timber yards and storage"
+HKMDS,201911,T1112B,class1_code,protect_03,消防裝置、霓虹招牌等,"Fire installations, neon signs, etc."
+HKMDS,201911,T1112B,class1_code,protect_04,綜合用途／住用／商業／其他建築事物,Composite/domestic/commercial/miscellaneous buildings
+HKMDS,201911,T1112B,class1_code,protect_05,公眾娛樂場所,Places of public entertainment
+HKMDS,201911,T1112B,class1_code,protect_06,食肆及夜總會,Restaurants and night clubs
+HKMDS,201911,T1112B,class1_code,protect_07,學校,Schools
+HKMDS,201911,T1112B,class1_code,protect_08,通風系統,Ventilation systems
+HKMDS,201911,T1112B,class1_code,protect_09,雜項,Miscellaneous
+HKMDS,201911,T1112B,class1_code,protect_tt,總計,Total
+HKMDS,201911,T1112B,stat,M111211,防火事務 － 審核圖則 － 視察整幢樓宇／整個範圍,Fire prevention - Plans finalised - Full building/area surveys
+HKMDS,201911,T1112B,stat,M111212,防火事務 － 審核圖則 － 新建設,Fire prevention - Plans finalised - New projects
+HKMDS,201911,T1112B,stat,M111213,防火事務 － 審核圖則 － 通風系統,Fire prevention - Plans finalised - Ventilation systems
+HKMDS,201911,T1112B,stat,M111214,防火事務 － 審核圖則 － 簽發牌照／牌照續期,Fire prevention - Plans finalised - Licences issued/renewed
+HKMDS,201911,T1112B,stat,M111215,防火事務 － 審核圖則 － 發出消除火警危險通知書,Fire prevention - Plans finalised - Fire hazard abatement notices issued
+HKMDS,201911,T1112B,stat,M111216,防火事務 － 檢控個案 － 個案數目,Fire prevention - Prosecutions undertaken - No. of cases
+HKMDS,201911,T1112B,stat,M111217,防火事務 － 檢控個案 － 罰款額 [元],Fire prevention - Prosecutions undertaken - Fines imposed [$]
+HKMDS,201911,T1112B,other_info,source,消防處,Fire Services Department
+HKMDS,201911,T1113,table,T1113,表11.13：食水供應,Table 11.13 : Water supplies
+HKMDS,201911,T1113,stat,M111301,期初存水量 [百萬立方米],Storage at beginning of period [Million cubic metres]
+HKMDS,201911,T1113,stat,M111302,水塘集水量 [百萬立方米],Natural yield in reservoirs [Million cubic metres]
+HKMDS,201911,T1113,stat,M111303,廣東省供水量 [百萬立方米],Imports from Guangdong [Million cubic metres]
+HKMDS,201911,T1113,stat,M111304,耗水量 - 總計 [百萬立方米],Consumption - Total [Million cubic metres]
+HKMDS,201911,T1113,stat,M111305,每日平均耗水量 [百萬立方米],Consumption - Daily mean [Million cubic metres]
+HKMDS,201911,T1113,note_figure,(+),工程維修保養期間，廣東省暫停供水。,The supply from Guangdong was shutdown for maintenance.
+HKMDS,201911,T1113,other_info,source,水務署,Water Supplies Department

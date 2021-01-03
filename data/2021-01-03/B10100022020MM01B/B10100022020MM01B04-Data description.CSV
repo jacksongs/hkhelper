@@ -1,0 +1,318 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,202001,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,202001,,issue,202001,期號：2020年1月,Issue : January 2020
+HKMDS,202001,T0401,table,T0401,表4.1 : 按開支組成部分劃分的本地生產總值 ── 以當時市價計算,Table 4.1 : Gross Domestic Product (GDP) by expenditure component ─ at current market prices
+HKMDS,202001,T0401,stat,M040101,本地生產總值(以當時市價計算)的組成部分 [百萬元],Gross Domestic Product (GDP) at current market prices components [$ million]
+HKMDS,202001,T0401,stat,M040102,本地生產總值(以當時市價計算) [百萬元],GDP at current market prices [$ million]
+HKMDS,202001,T0401,stat,M040103,按人口平均計算的本地生產總值(以當時市價計算) [元],Per capita GDP at current market prices [$]
+HKMDS,202001,T0401,class1,gdpcomp,本地生產總值的組成部分,GDP components
+HKMDS,202001,T0401,class1_code,gdpcomp_01,私人消費開支,Private consumption expenditure
+HKMDS,202001,T0401,class1_code,gdpcomp_02,政府消費開支,Government consumption expenditure
+HKMDS,202001,T0401,class1_code,gdpcomp_03,本地固定資本形成總額,Gross domestic fixed capital formation
+HKMDS,202001,T0401,class1_code,gdpcomp_04,存貨增減,Changes in inventories
+HKMDS,202001,T0401,class1_code,gdpcomp_05,貨品出口 (離岸價),Exports of goods (free-on-board)
+HKMDS,202001,T0401,class1_code,gdpcomp_06,服務輸出,Exports of services
+HKMDS,202001,T0401,class1_code,gdpcomp_07,貨品進口 (離岸價),Imports of goods (free-on-board)
+HKMDS,202001,T0401,class1_code,gdpcomp_08,服務輸入,Imports of services
+HKMDS,202001,T0401,other_info,note_G1,貨品出口及進口與服務輸出及輸入數字，是根據《2008年國民經濟核算體系》的標準，採用所有權轉移原則記錄外地加工貨品及轉手商貿活動編製而成的。用戶必須注意本統計表的貨品出口及進口數字與對外商品貿易統計數字有所不同，因後者並不是採用所有權轉移原則編製。,Figures on exports and imports of goods and services are compiled based on the change of ownership principle in recording goods sent abroad for processing and merchanting under the standards stipulated in the System of National Accounts 2008.  Users should note that the figures of exports and imports of goods in this table are different from those published in external merchandise trade statistics which are not compiled based on the change of ownership principle.
+HKMDS,202001,T0401,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0401,other_info,source,政府統計處國民收入統計科﹙一﹚,"National Income Branch (1), Census and Statistics Department"
+HKMDS,202001,T0402,table,T0402,表4.2 : 按開支組成部分劃分的本地生產總值 ── 以2017年環比物量計算,Table 4.2 : Gross Domestic Product (GDP) by expenditure component ─ in chained (2017) dollars
+HKMDS,202001,T0402,stat,M040201,本地生產總值(以2017年環比物量計算)的組成部分 [百萬元],Gross Domestic Product (GDP) in chained (2017) dollars components [$ million]
+HKMDS,202001,T0402,stat,M040202,本地生產總值(以2017年環比物量計算) [百萬元],GDP in chained (2017) dollars [$ million]
+HKMDS,202001,T0402,stat,M040203,按人口平均計算的本地生產總值 (以2017年環比物量計算) [元],Per capita GDP in chained (2017) dollars [$]
+HKMDS,202001,T0402,stat,M040204,本地生產總值內含平減物價指數 (2017年=100),Implicit price deflator of GDP (Year 2017=100)
+HKMDS,202001,T0402,class1,gdpcomp,本地生產總值的組成部分,GDP components
+HKMDS,202001,T0402,class1_code,gdpcomp_01,私人消費開支,Private consumption expenditure
+HKMDS,202001,T0402,class1_code,gdpcomp_02,政府消費開支,Government consumption expenditure
+HKMDS,202001,T0402,class1_code,gdpcomp_03,本地固定資本形成總額,Gross domestic fixed capital formation
+HKMDS,202001,T0402,class1_code,gdpcomp_04,存貨增減,Changes in inventories
+HKMDS,202001,T0402,class1_code,gdpcomp_05,貨品出口 (離岸價),Exports of goods (free-on-board)
+HKMDS,202001,T0402,class1_code,gdpcomp_06,服務輸出,Exports of services
+HKMDS,202001,T0402,class1_code,gdpcomp_07,貨品進口 (離岸價),Imports of goods (free-on-board)
+HKMDS,202001,T0402,class1_code,gdpcomp_08,服務輸入,Imports of services
+HKMDS,202001,T0402,other_info,note_G1,以2017年環比物量計算的價值是應用環比物量指數作為外推指標，以外推法把參照年2017年的以當時價格計算的數值向前及向後推算。由於在編製以環比物量計算的數列時，本地生產總值及其組成部分的外推過程是獨立地進行，所以以環比物量計算的本地生產總值與其以環比物量計算的組成部分的總和可能出現差額。,"The chained (2017) dollar series is derived by extrapolation of the current price value for the reference year (2017) backward and forward using the chain volume index as the extrapolator.  As the extrapolation process is carried out for GDP and its components independently in calculating the chained dollar series, discrepancies may exist between the chain volume measure of GDP and the sum of the chain volume measures of its components."
+HKMDS,202001,T0402,other_info,note_G2,貨品出口及進口與服務輸出及輸入數字，是根據《2008 年國民經濟核算體系》的標準，採用所有權轉移原則記錄外地加工貨品及轉手商貿活動編製而成的。用戶必須注意本統計表的貨品出口及進口數字與對外商品貿易統計數字有所不同，因後者並不是採用所有權轉移原則編製。,Figures on exports and imports of goods and services are compiled based on the change of ownership principle in recording goods sent abroad for processing and merchanting under the standards stipulated in the System of National Accounts 2008.  Users should note that the figures of exports and imports of goods in this table are different from those published in external merchandise trade statistics which are not compiled based on the change of ownership principle.
+HKMDS,202001,T0402,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0402,other_info,source,政府統計處國民收入統計科﹙一﹚,"National Income Branch (1), Census and Statistics Department"
+HKMDS,202001,T0403,table,T0403,表4.3 : 按季本地生產總值及選定開支組成部分的實質變動百分率,Table 4.3 : Percentage change in real terms of quarterly Gross Domestic Product and selected expenditure components
+HKMDS,202001,T0403,stat,M040301,與上年同期比較的按季本地生產總值的實質變動百分率 [%],Percentage change in real terms of quarterly Gross Domestic Product over the same period of the preceding year [%]
+HKMDS,202001,T0403,class1,gdpcomp,本地生產總值的組成部分,GDP components
+HKMDS,202001,T0403,class1_code,gdpcomp_01,私人消費開支,Private consumption expenditure
+HKMDS,202001,T0403,class1_code,gdpcomp_02,政府消費開支,Government consumption expenditure
+HKMDS,202001,T0403,class1_code,gdpcomp_03,本地固定資本形成總額,Gross domestic fixed capital formation
+HKMDS,202001,T0403,class1_code,gdpcomp_05,貨品出口 (離岸價),Exports of goods (free-on-board)
+HKMDS,202001,T0403,class1_code,gdpcomp_06,服務輸出,Exports of services
+HKMDS,202001,T0403,class1_code,gdpcomp_07,貨品進口 (離岸價),Imports of goods (free-on-board)
+HKMDS,202001,T0403,class1_code,gdpcomp_08,服務輸入,Imports of services
+HKMDS,202001,T0403,stat,M040302,與對上季度比較的經季節性調整按季本地生產總值的實質變動百分率 [%] (註釋 1),Quarter-to-quarter percentage change in real terms of seasonally adjusted quarterly Gross Domestic Product [%] (note 1)
+HKMDS,202001,T0403,other_info,note_G1,貨品出口及進口與服務輸出及輸入數字，是根據《2008 年國民經濟核算體系》的標準，採用所有權轉移原則記錄外地加工貨品及轉手商貿活動編製而成的。用戶必須注意本統計表的貨品出口及進口數字與對外商品貿易統計數字有所不同，因後者並不是採用所有權轉移原則編製。,Figures on exports and imports of goods and services are compiled based on the change of ownership principle in recording goods sent abroad for processing and merchanting under the standards stipulated in the System of National Accounts 2008.  Users should note that the figures of exports and imports of goods in this table are different from those published in external merchandise trade statistics which are not compiled based on the change of ownership principle.
+HKMDS,202001,T0403,other_info,note_1,(註釋 1) 本地資本形成總額並無經季節性調整數字是因為該開支組成部分並沒有明顯的季節性模式。,(note 1) There are no seasonally adjusted figures in respect of gross domestic capital formation as no clear seasonal pattern is identified for this expenditure component.
+HKMDS,202001,T0403,figure,§,變動在±0.05%之內。,Change within ±0.05%.
+HKMDS,202001,T0403,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0403,other_info,source,政府統計處國民收入統計科﹙一﹚,"National Income Branch (1), Census and Statistics Department"
+HKMDS,202001,T0404,table,T0404,表4.4 : 按經濟活動劃分的本地生產總值 ── 以當時價格計算,Table 4.4 : Gross Domestic Product (GDP) by economic activity ─ at current prices
+HKMDS,202001,T0404,stat,M040401,以當時價格計算按經濟活動劃分的本地生產總值 [百萬元],GDP at current prices by economic activity [$ million]
+HKMDS,202001,T0404,stat,M040402,以當時價格計算按經濟活動劃分的本地生產總值 [百分比],GDP at current prices by economic activity [Percentage]
+HKMDS,202001,T0404,stat,M040403,產品稅 [百萬元],Taxes on products [$ million]
+HKMDS,202001,T0404,stat,M040404,統計差額 (註釋 2) [%],Statistical discrepancy (note 2) [%]
+HKMDS,202001,T0404,stat,M040405,以當時市價計算的本地生產總值 [百萬元],GDP at current market prices [$ million]
+HKMDS,202001,T0404,class1,econ,經濟活動,Economic activity
+HKMDS,202001,T0404,class1_code,econ_01,農業、漁業、採礦及採石,"Agriculture, fishing, mining and quarrying"
+HKMDS,202001,T0404,class1_code,econ_02,製造,Manufacturing
+HKMDS,202001,T0404,class1_code,econ_03,電力、燃氣和自來水供應及廢棄物管理,"Electricity, gas and water supply, and waste management"
+HKMDS,202001,T0404,class1_code,econ_04,建造,Construction
+HKMDS,202001,T0404,class1_code,econ_05,服務,Services
+HKMDS,202001,T0404,class1_code,econ_06,以基本價格計算的本地生產總值,GDP at basic prices
+HKMDS,202001,T0404,class1_code,econ_0501,服務 - 進出口貿易、批發及零售,"Services - Import/export, wholesale and retail trades"
+HKMDS,202001,T0404,class1_code,econ_0502,服務 - 住宿 (註釋 1) 及膳食服務,Services - Accommodation (note 1) and food services
+HKMDS,202001,T0404,class1_code,econ_0503,服務 - 運輸、倉庫、郵政及速遞服務,"Services - Transportation, storage, postal and courier services"
+HKMDS,202001,T0404,class1_code,econ_0504,服務 - 資訊及通訊,Services - Information and communications
+HKMDS,202001,T0404,class1_code,econ_0505,服務 - 金融及保險,Services - Financing and insurance
+HKMDS,202001,T0404,class1_code,econ_0506,服務 - 地產、專業及商用服務,"Services - Real estate, professional and business services"
+HKMDS,202001,T0404,class1_code,econ_0507,服務 - 公共行政、社會及個人服務,"Services - Public administration, social and personal services"
+HKMDS,202001,T0404,class1_code,econ_0508,服務 - 樓宇業權,Services - Ownership of premises
+HKMDS,202001,T0404,class1_code,econ_050101,服務 - 進出口貿易、批發及零售 - 進出口貿易,"Services - Import/export, wholesale and retail trades - Import and export trade"
+HKMDS,202001,T0404,class1_code,econ_050102,服務 - 進出口貿易、批發及零售 - 批發及零售業,"Services - Import/export, wholesale and retail trades - Wholesale and retail trades"
+HKMDS,202001,T0404,class1_code,econ_050301,服務 - 運輸、倉庫、郵政及速遞服務 - 運輸及倉庫,"Services - Transportation, storage, postal and courier services - Transportation and storage"
+HKMDS,202001,T0404,class1_code,econ_050302,服務 - 運輸、倉庫、郵政及速遞服務 - 郵政及速遞服務,"Services - Transportation, storage, postal and courier services - Postal and courier services"
+HKMDS,202001,T0404,class1_code,econ_050601,服務 - 地產、專業及商用服務 - 地產,"Services - Real estate, professional and business services - Real estate"
+HKMDS,202001,T0404,class1_code,econ_050602,服務 - 地產、專業及商用服務 - 專業及商用服務,"Services - Real estate, professional and business services - Professional and business services"
+HKMDS,202001,T0404,other_info,note_1,(註釋 1) 住宿服務包括酒店、賓館、旅舍及其他提供短期住宿服務的機構單位。,"(note 1) Accommodation services cover hotels, guesthouses, boarding houses and other establishments providing short term accommodation."
+HKMDS,202001,T0404,other_info,note_2,(註釋 2) 統計差額指以當時價格計算，以開支面編製的本地生產總值與以生產面編製的本地生產總值之間的差額。這差額是由於在編製過程中數據來源及估算方法有所不同而引致的。統計差額是以其佔當時市價計算的本地生產總值的百分比來表示。,"(note 2) Statistical discrepancy refers to the difference in values of current price GDP compiled using the expenditure and production approaches, as a result of the adoption of different data sources and estimation methods in the compilation processes.  It is expressed as a percentage to GDP at current market prices."
+HKMDS,202001,T0404,figure,§,統計差額在±0.05%之內。,Statistical discrepancy within ±0.05%.
+HKMDS,202001,T0404,figure,N.A.,暫時沒有數字,Not yet available
+HKMDS,202001,T0404,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0404,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202001,T0404,other_info,source,政府統計處國民收入統計科﹙二﹚,"National Income Branch (2), Census and Statistics Department"
+HKMDS,202001,T0405,table,T0405,表4.5 : 以環比物量計算按經濟活動劃分的本地生產總值── 以2017年環比物量計算,Table 4.5 : Chain volume measures of Gross Domestic Product by economic activity ─ in chained (2017) dollars
+HKMDS,202001,T0405,stat,M040501,以2017年環比物量計算的本地生產總值 [百萬元],Gross Domestic Product in chained (2017) dollars [$ million]
+HKMDS,202001,T0405,stat,M040502,產品稅 [百萬元],Taxes on products [$ million]
+HKMDS,202001,T0405,class1,econ,經濟活動,Economic activity
+HKMDS,202001,T0405,class1_code,econ_01,農業、漁業、採礦及採石,"Agriculture, fishing, mining and quarrying"
+HKMDS,202001,T0405,class1_code,econ_02,製造,Manufacturing
+HKMDS,202001,T0405,class1_code,econ_03,電力、燃氣和自來水供應及廢棄物管理,"Electricity, gas and water supply, and waste management"
+HKMDS,202001,T0405,class1_code,econ_04,建造,Construction
+HKMDS,202001,T0405,class1_code,econ_05,服務,Services
+HKMDS,202001,T0405,class1_code,econ_0501,服務 - 進出口貿易、批發及零售,"Services - Import/export, wholesale and retail trades"
+HKMDS,202001,T0405,class1_code,econ_0502,服務 - 住宿 (註釋 1) 及膳食服務,Services - Accommodation (note 1) and food services
+HKMDS,202001,T0405,class1_code,econ_0503,服務 - 運輸、倉庫、郵政及速遞服務,"Services - Transportation, storage, postal and courier services"
+HKMDS,202001,T0405,class1_code,econ_0504,服務 - 資訊及通訊,Services - Information and communications
+HKMDS,202001,T0405,class1_code,econ_0505,服務 - 金融及保險,Services - Financing and insurance
+HKMDS,202001,T0405,class1_code,econ_0506,服務 - 地產、專業及商用服務,"Services - Real estate, professional and business services"
+HKMDS,202001,T0405,class1_code,econ_0507,服務 - 公共行政、社會及個人服務,"Services - Public administration, social and personal services"
+HKMDS,202001,T0405,class1_code,econ_0508,服務 - 樓宇業權,Services - Ownership of premises
+HKMDS,202001,T0405,class1_code,econ_050101,服務 - 進出口貿易、批發及零售 - 進出口貿易,"Services - Import/export, wholesale and retail trades - Import and export trade"
+HKMDS,202001,T0405,class1_code,econ_050102,服務 - 進出口貿易、批發及零售 - 批發及零售業,"Services - Import/export, wholesale and retail trades - Wholesale and retail trades"
+HKMDS,202001,T0405,class1_code,econ_050301,服務 - 運輸、倉庫、郵政及速遞服務 - 運輸及倉庫,"Services - Transportation, storage, postal and courier services - Transportation and storage"
+HKMDS,202001,T0405,class1_code,econ_050302,服務 - 運輸、倉庫、郵政及速遞服務 - 郵政及速遞服務,"Services - Transportation, storage, postal and courier services - Postal and courier services"
+HKMDS,202001,T0405,class1_code,econ_050601,服務 - 地產、專業及商用服務 - 地產,"Services - Real estate, professional and business services - Real estate"
+HKMDS,202001,T0405,class1_code,econ_050602,服務 - 地產、專業及商用服務 - 專業及商用服務,"Services - Real estate, professional and business services - Professional and business services"
+HKMDS,202001,T0405,other_info,note_G1,整體物量估計與其組成部分相加的總和可能存在差額。「不可相加性」是環比物量計算的一個技術屬性。,"A discrepancy may exist between the volume estimate of an aggregate and the sum of its components.  ""Non-additivity"" is a technical feature of the chain volume measures."
+HKMDS,202001,T0405,other_info,note_1,(註釋 1) 住宿服務包括酒店、賓館、旅舍及其他提供短期住宿服務的機構單位。,"(note 1) Accommodation services cover hotels, guesthouses, boarding houses and other establishments providing short term accommodation."
+HKMDS,202001,T0405,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0405,other_info,source,政府統計處國民收入統計科﹙二﹚,"National Income Branch (2), Census and Statistics Department"
+HKMDS,202001,T0406,table,T0406,表4.6 : 以環比物量計算按經濟活動劃分的本地生產總值── 以實質計算的按年變動百分率,Table 4.6 : Chain volume measures of Gross Domestic Product by economic activity ─ year-on-year percentage change in real terms
+HKMDS,202001,T0406,stat,M040601,以實質計算的按年變動百分率的本地生產總值 [%],Year-on-year percentage change of Gross Domestic Product in real terms [%]
+HKMDS,202001,T0406,stat,M040602,產品稅 [%],Taxes on products [%]
+HKMDS,202001,T0406,class1,econ,經濟活動,Economic activity
+HKMDS,202001,T0406,class1_code,econ_01,農業、漁業、採礦及採石,"Agriculture, fishing, mining and quarrying"
+HKMDS,202001,T0406,class1_code,econ_02,製造,Manufacturing
+HKMDS,202001,T0406,class1_code,econ_03,電力、燃氣和自來水供應及廢棄物管理,"Electricity, gas and water supply, and waste management"
+HKMDS,202001,T0406,class1_code,econ_04,建造,Construction
+HKMDS,202001,T0406,class1_code,econ_05,服務,Services
+HKMDS,202001,T0406,class1_code,econ_0501,服務 - 進出口貿易、批發及零售,"Services - Import/export, wholesale and retail trades"
+HKMDS,202001,T0406,class1_code,econ_0502,服務 - 住宿 (註釋 1) 及膳食服務,Services - Accommodation (note 1) and food services
+HKMDS,202001,T0406,class1_code,econ_0503,服務 - 運輸、倉庫、郵政及速遞服務,"Services - Transportation, storage, postal and courier services"
+HKMDS,202001,T0406,class1_code,econ_0504,服務 - 資訊及通訊,Services - Information and communications
+HKMDS,202001,T0406,class1_code,econ_0505,服務 - 金融及保險,Services - Financing and insurance
+HKMDS,202001,T0406,class1_code,econ_0506,服務 - 地產、專業及商用服務,"Services - Real estate, professional and business services"
+HKMDS,202001,T0406,class1_code,econ_0507,服務 - 公共行政、社會及個人服務,"Services - Public administration, social and personal services"
+HKMDS,202001,T0406,class1_code,econ_0508,服務 - 樓宇業權,Services - Ownership of premises
+HKMDS,202001,T0406,class1_code,econ_050101,服務 - 進出口貿易、批發及零售 - 進出口貿易,"Services - Import/export, wholesale and retail trades - Import and export trade"
+HKMDS,202001,T0406,class1_code,econ_050102,服務 - 進出口貿易、批發及零售 - 批發及零售業,"Services - Import/export, wholesale and retail trades - Wholesale and retail trades"
+HKMDS,202001,T0406,class1_code,econ_050301,服務 - 運輸、倉庫、郵政及速遞服務 - 運輸及倉庫,"Services - Transportation, storage, postal and courier services - Transportation and storage"
+HKMDS,202001,T0406,class1_code,econ_050302,服務 - 運輸、倉庫、郵政及速遞服務 - 郵政及速遞服務,"Services - Transportation, storage, postal and courier services - Postal and courier services"
+HKMDS,202001,T0406,class1_code,econ_050601,服務 - 地產、專業及商用服務 - 地產,"Services - Real estate, professional and business services - Real estate"
+HKMDS,202001,T0406,class1_code,econ_050602,服務 - 地產、專業及商用服務 - 專業及商用服務,"Services - Real estate, professional and business services - Professional and business services"
+HKMDS,202001,T0406,other_info,note_1,(註釋 1) 住宿服務包括酒店、賓館、旅舍及其他提供短期住宿服務的機構單位。,"(note 1) Accommodation services cover hotels, guesthouses, boarding houses and other establishments providing short term accommodation."
+HKMDS,202001,T0406,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0406,other_info,source,政府統計處國民收入統計科﹙二﹚,"National Income Branch (2), Census and Statistics Department"
+HKMDS,202001,T0407,table,T0407,表4.7 :  本地居民總收入及按收入組成部分和交易者類別劃分的對外初次收入流量 ── 以當時市價計算,Table 4.7：Gross National Income (GNI) and external primary income flows (EPIF) by income component and type of transactor ─ at current market prices
+HKMDS,202001,T0407,stat,M040701,對外初次收入流量 - 流入 [百萬元],External primary income flows - Inflow [$ million]
+HKMDS,202001,T0407,stat,M040702,對外初次收入流量 - 流出 [百萬元],External primary income flows - Outflow [$ million]
+HKMDS,202001,T0407,class1,inc,收入組成部分類別,Type of income component
+HKMDS,202001,T0407,class1_code,inc_01,直接投資收益,Direct investment income
+HKMDS,202001,T0407,class1_code,inc_02,證券投資收益,Portfolio investment income
+HKMDS,202001,T0407,class1_code,inc_03,其他投資收益,Other investment income
+HKMDS,202001,T0407,class1_code,inc_04,儲備資產收益,Income on reserve assets
+HKMDS,202001,T0407,class1_code,inc_05,僱員報酬,Compensation of employees 
+HKMDS,202001,T0407,class1_code,inc_tt,總計,Total
+HKMDS,202001,T0407,class2,trans,交易者類別,Type of transactor
+HKMDS,202001,T0407,class2_code,trans_01,銀行,Banking
+HKMDS,202001,T0407,class2_code,trans_02,其他 (註釋 1),Others (note 1)
+HKMDS,202001,T0407,stat,M040703,對外初次收入流量總額 - 流量淨值總計 [百萬元],Total external primary income flows - Net flow total [$ million]
+HKMDS,202001,T0407,stat,M040704,本地生產總值 [百萬元],Gross Domestic Product (GDP) [$ million]
+HKMDS,202001,T0407,stat,M040705,按人口平均計算的本地生產總值 [元],Per capita GDP [$]
+HKMDS,202001,T0407,stat,M040706,本地居民總收入 [百萬元],Gross National Income (GNI) [$ million]
+HKMDS,202001,T0407,stat,M040707,按人口平均計算的本地居民總收入 [元],Per capita GNI [$]
+HKMDS,202001,T0407,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0407,other_info,note_1,(註釋 1) 包括住戶、政府單位、非牟利機構及經營銀行業務以外的公司。,"(note 1) Including households, government units, non-profit institutions and companies other than those in the banking business."
+HKMDS,202001,T0407,other_info,source,政府統計處國際收支平衡統計科﹙二﹚,"Balance of Payments Branch (2), Census and Statistics Department"
+HKMDS,202001,T0408,table,T0408,表4.8 :  按選定主要收入來源地／目的地國家／地區劃分的對外初次收入流量,Table 4.8：External primary income flows by selected major source/destination country/territory
+HKMDS,202001,T0408,stat,M040801,對外初次收入流量 - 流入 [百萬元],External primary income flows - Inflow [$ million]
+HKMDS,202001,T0408,stat,M040802,對外初次收入流量 - 流出 [百萬元],External primary income flows - Outflow [$ million]
+HKMDS,202001,T0408,stat,M040803,對外初次收入流量 - 流量淨值 [百萬元],External primary income flows - Net flow [$ million]
+HKMDS,202001,T0408,class1,dest,收入來源地／目的地,Income source/destination
+HKMDS,202001,T0408,class1_code,dest_tt,所有國家／地區,All countries/territories
+HKMDS,202001,T0408,class1_code,dest_01,中國內地,The mainland of China
+HKMDS,202001,T0408,class1_code,dest_02,新加坡,Singapore
+HKMDS,202001,T0408,class1_code,dest_03,美國,United States of America
+HKMDS,202001,T0408,class1_code,dest_04,英國,United Kingdom
+HKMDS,202001,T0408,class1_code,dest_05,百慕大,Bermuda
+HKMDS,202001,T0408,class1_code,dest_06,英屬維爾京群島,British Virgin Islands
+HKMDS,202001,T0408,class1_code,dest_07,其他國家／地區,Other countries/territories 
+HKMDS,202001,T0408,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0408,other_info,source,政府統計處國際收支平衡統計科﹙二﹚,"Balance of Payments Branch (2), Census and Statistics Department"
+HKMDS,202001,T0409,table,T0409,表4.9 : 國際收支平衡,Table 4.9：Balance of Payments 
+HKMDS,202001,T0409,stat,M040901,國際收支平衡 [百萬元],Balance of Payments [$ million]
+HKMDS,202001,T0409,class1,acct,賬戶,Accounts
+HKMDS,202001,T0409,class1_code,acct_01,經常賬戶 ,Current account
+HKMDS,202001,T0409,class1_code,acct_02,資本及金融賬戶,Capital and financial account
+HKMDS,202001,T0409,class1_code,acct_0201,資本賬戶,Capital account
+HKMDS,202001,T0409,class1_code,acct_0202,金融賬戶,Financial account
+HKMDS,202001,T0409,class1_code,acct_09,淨誤差及遺漏,Net errors and omissions
+HKMDS,202001,T0409,class1_code,acct_tt,整體的國際收支,Overall Balance of Payments
+HKMDS,202001,T0409,class2,bcomp,組成部分,Components
+HKMDS,202001,T0409,class2_code,bcomp_01,貨物,Goods
+HKMDS,202001,T0409,class2_code,bcomp_02,服務,Services 
+HKMDS,202001,T0409,class2_code,bcomp_03,初次收入,Primary income 
+HKMDS,202001,T0409,class2_code,bcomp_04,二次收入,Secondary income 
+HKMDS,202001,T0409,class3,fassets,金融資產類別,Type of financial assets
+HKMDS,202001,T0409,class3_code,fassets_01,非儲備性質的金融資產,Financial non-reserve assets
+HKMDS,202001,T0409,class3_code,fassets_02,儲備資產,Reserve assets
+HKMDS,202001,T0409,class3_code,fassets_0101,直接投資,Direct investment
+HKMDS,202001,T0409,class3_code,fassets_0102,證券投資,Portfolio investment
+HKMDS,202001,T0409,class3_code,fassets_0103,金融衍生工具,Financial derivatives
+HKMDS,202001,T0409,class3_code,fassets_0104,其他投資,Other investment
+HKMDS,202001,T0409,class4,entr,記賬,Entries
+HKMDS,202001,T0409,class4,entr_01,貸方,Credit
+HKMDS,202001,T0409,class4,entr_02,借方,Debit
+HKMDS,202001,T0409,class4,entr_11,資產,Assets
+HKMDS,202001,T0409,class4,entr_12,負債,Liabilities
+HKMDS,202001,T0409,other_info,note_G1,根據編製國際收支平衡的會計常規，經常賬戶差額的正數值顯示盈餘而負數值則顯示赤字。在資本及金融賬戶方面，正數值顯示資金淨流入而負數值則顯示資金淨流出。由於對外資產的增加是屬於借方記賬而減少則屬貸方記賬，因此負數值的儲備資產顯示儲備資產的增加，而正數值則顯示減少。,"In accordance with the accounting rules adopted in compiling Balance of Payments, a positive value for the balance figure in the current account represents a surplus whereas a negative value represents a deficit.  In the capital and financial account, a positive value indicates a net financial inflow while a negative value indicates a net outflow.  As increases in external assets are debit entries and decreases are credit entries, a negative value for the reserve assets represents a net increase while a positive value represents a net decrease."
+HKMDS,202001,T0409,other_info,note_G2,在國際收支平衡架構下儲備及非儲備資產的估計數字是指交易數字。因估值方式改變（包括價格變動及匯率變動）及重新分類所導致的影響並沒計算在內。,The estimates of reserve and non-reserve assets under the Balance of Payments framework are transaction figures.  Effects of valuation changes (including price changes and exchange rate changes) and reclassifications are not taken into account.
+HKMDS,202001,T0409,other_info,note_G3,原則上，貸方和借方各項記賬的淨總和等於零。實際上，由於有關數據是從多個來源搜集得來，貸方和借方記賬之間可能由於各種原因而出現差異。為令貸方記賬的總和與借方記賬的總和相等，須加進一個反映淨誤差及遺漏的平衡項目。,"In principle, the net sum of credit entries and debit entries is zero.  In practice, discrepancies between the credit and debit entries may occur for various reasons as the relevant data are collected from many sources.  Equality between the sum of credit entries and that of debit entries is brought about by the inclusion of a balancing item which reflects net errors and omissions."
+HKMDS,202001,T0409,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0409,other_info,source,政府統計處國際收支平衡統計科﹙一﹚,"Balance of Payments Branch (1), Census and Statistics Department"
+HKMDS,202001,T0410,table,T0410,表4.10 : 國際收支平衡 : 經常賬戶,Table 4.10：Balance of Payments : current account
+HKMDS,202001,T0410,stat,M041001,國際收支平衡 [百萬元],Balance of Payments [$ million]
+HKMDS,202001,T0410,class1,acct,賬戶,Accounts
+HKMDS,202001,T0410,class1_code,acct_01,經常賬戶 ,Current account
+HKMDS,202001,T0410,class2,bcomp,組成部分,Components
+HKMDS,202001,T0410,class2_code,bcomp_01,貨物,Goods
+HKMDS,202001,T0410,class2_code,bcomp_02,服務 ,Services
+HKMDS,202001,T0410,class2_code,bcomp_03,初次收入,Primary income
+HKMDS,202001,T0410,class2_code,bcomp_04,二次收入,Secondary income
+HKMDS,202001,T0410,class2_code,bcomp_0101,貨物 - 其中：轉手商貿活動下的貨物淨出口,Goods - of which: Net exports of goods under merchanting
+HKMDS,202001,T0410,class2_code,bcomp_0201,服務 - 運輸,Services - Transport
+HKMDS,202001,T0410,class2_code,bcomp_0202,服務 - 旅遊,Services - Travel
+HKMDS,202001,T0410,class2_code,bcomp_0203,服務 - 保險和退休金服務,Services - Insurance and pension services
+HKMDS,202001,T0410,class2_code,bcomp_0204,服務 - 金融服務,Services - Financial services
+HKMDS,202001,T0410,class2_code,bcomp_0205,服務 - 其他服務,Services - Other services
+HKMDS,202001,T0410,class2_code,bcomp_0206,服務 - 製造服務,Services - Manufacturing services
+HKMDS,202001,T0410,class2_code,bcomp_0301,初次收入 - 投資收益,Primary income - Investment income
+HKMDS,202001,T0410,class2_code,bcomp_0302,初次收入 - 僱員報酬,Primary income - Compensation of employees
+HKMDS,202001,T0410,class2_code,bcomp_030101,初次收入 - 投資收益 - 直接投資收益,Primary income - Investment income - Direct investment income
+HKMDS,202001,T0410,class2_code,bcomp_030102,初次收入 - 投資收益 - 證券投資收益,Primary income - Investment income - Portfolio investment income
+HKMDS,202001,T0410,class2_code,bcomp_030103,初次收入 - 投資收益 - 其他投資收益,Primary income - Investment income - Other investment income
+HKMDS,202001,T0410,class2_code,bcomp_030104,初次收入 - 投資收益 - 儲備資產收益,Primary income - Investment income - Income on reserve assets
+HKMDS,202001,T0410,class3,entr,記賬,Entries
+HKMDS,202001,T0410,class3_code,entr_01,貸方,Credit
+HKMDS,202001,T0410,class3_code,entr_02,借方,Debit
+HKMDS,202001,T0410,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0410,other_info,note_G1,根據編製國際收支平衡的會計常規，經常賬戶差額的正數值顯示盈餘而負數值則顯示赤字。,"In accordance with the accounting rules adopted in compiling Balance of Payments, a positive value for the balance figure in the current account represents a surplus whereas a negative value represents a deficit."
+HKMDS,202001,T0410,other_info,note_G2,在國際收支平衡表內，每項對外交易均以兩項記賬（貸方和借方）作記錄。在經常賬戶中，貨物及服務的輸出、從外地流入的初次收入及二次收入均屬貸方記賬，而借方記賬是指貨物及服務的輸入、初次收入流出及二次收入流出。,"In a Balance of Payments account, every external transaction is recorded by two entries, a credit and a debit.  In the current account, exports of goods and services, primary income inflows and secondary income inflows are all credit entries, while imports of goods and services, primary income outflows and secondary income outflows are debit entries."
+HKMDS,202001,T0410,other_info,source,政府統計處國際收支平衡統計科﹙一﹚,"Balance of Payments Branch (1), Census and Statistics Department"
+HKMDS,202001,T0411,table,T0411,表4.11 : 國際收支平衡 : 資本及金融賬戶,Table 4.11：Balance of Payments : capital and financial account
+HKMDS,202001,T0411,stat,M041101,國際收支平衡 [百萬元],Balance of Payments [$ million]
+HKMDS,202001,T0411,class1,acct,賬戶,Accounts
+HKMDS,202001,T0411,class1_code,acct_02,資本及金融賬戶,Capital and financial account
+HKMDS,202001,T0411,class1_code,acct_0201,資本賬戶,Capital account
+HKMDS,202001,T0411,class1_code,acct_0202,金融賬戶,Financial account
+HKMDS,202001,T0411,class2,fassets,金融資產類別,Type of financial assets
+HKMDS,202001,T0411,class2_code,fassets_01,非儲備性質的金融資產,Financial non-reserve assets
+HKMDS,202001,T0411,class2_code,fassets_02,儲備資產,Reserve assets
+HKMDS,202001,T0411,class2_code,fassets_0101,直接投資,Direct investment
+HKMDS,202001,T0411,class2_code,fassets_0102,證券投資,Portfolio investment
+HKMDS,202001,T0411,class2_code,fassets_0103,金融衍生工具,Financial derivatives
+HKMDS,202001,T0411,class2_code,fassets_0104,其他投資,Other investment
+HKMDS,202001,T0411,class2_code,fassets_010401,其他投資 - 貨幣和存款,Other investment - Currency and deposits
+HKMDS,202001,T0411,class2_code,fassets_010402,其他投資 - 貸款,Other investment - Loans
+HKMDS,202001,T0411,class2_code,fassets_010403,其他投資 - 貿易信貸和預付款,Other investment - Trade credit and advances
+HKMDS,202001,T0411,class2_code,fassets_010404,其他投資 - 其他資產,Other investment - Other assets
+HKMDS,202001,T0411,class3,instru,工具,Instrument
+HKMDS,202001,T0411,class3_code,instru_01,股權和投資基金份額,Equity and investment fund shares
+HKMDS,202001,T0411,class3_code,instru_02,債務工具,Debt instruments
+HKMDS,202001,T0411,class3_code,instru_03,債務證券,Debt securities
+HKMDS,202001,T0411,class3_code,instru_0301,債務證券 - 短期,Debt securities - Short-term
+HKMDS,202001,T0411,class3_code,instru_0302,債務證券 - 長期,Debt securities - Long-term
+HKMDS,202001,T0411,class4,entr,記賬,Entries
+HKMDS,202001,T0411,class4_code,entr_11,資產,Assets
+HKMDS,202001,T0411,class4_code,entr_12,負債,Liabilities
+HKMDS,202001,T0411,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0411,other_info,note_G1,根據編製國際收支平衡的會計常規，資本及金融賬戶差額的正數值顯示資金淨流入而負數值則顯示資金淨流出。由於對外資產的增加是屬於借方記賬而減少則屬貸方記賬，因此負數值的儲備資產顯示儲備資產的增加，而正數值則顯示減少。,"In accordance with the accounting rules adopted in compiling Balance of Payments, a positive value for the balance figure in the capital and financial account indicates a net financial inflow while a negative value indicates a net outflow.  As increases in external assets are debit entries and decreases are credit entries, a negative value for the reserve assets represents a net increase while a positive value represents a net decrease."
+HKMDS,202001,T0411,other_info,note_G2,在國際收支平衡架構下儲備及非儲備資產的估計數字是指交易數字。因估值方式改變（包括價格變動及匯率變動）及重新分類所導致的影響並沒計算在內。,The estimates of reserve and non-reserve assets under the Balance of Payments framework are transaction figures.  Effects of valuation changes (including price changes and exchange rate changes) and reclassifications are not taken into account.
+HKMDS,202001,T0411,other_info,source,政府統計處國際收支平衡統計科﹙一﹚,"Balance of Payments Branch (1), Census and Statistics Department"
+HKMDS,202001,T0412,table,T0412,表4.12 : 香港的國際投資頭寸(期末頭寸),Table 4.12：Hong Kong's International Investment Position (as at end of period)
+HKMDS,202001,T0412,stat,M041201,國際投資頭寸 (期末頭寸) [百萬元],International Investment Position (as at end of period) [$ million]
+HKMDS,202001,T0412,stat,M041202,與儲備資產有關的附加項目 - 與儲備有關的負債 [百萬元],Additional items related to reserve assets - Reserve-related liabilities [$ million]
+HKMDS,202001,T0412,stat,M041203,與儲備資產有關的附加項目 - 在居民銀行的外幣存款 [百萬元],Additional items related to reserve assets - Foreign currency deposits with resident banks [$ million]
+HKMDS,202001,T0412,class1,entr,記賬,Entries
+HKMDS,202001,T0412,class1_code,entr_11,資產,Assets
+HKMDS,202001,T0412,class1_code,entr_12,負債,Liabilities
+HKMDS,202001,T0412,class1_code,entr_1T,國際投資頭寸淨值,Net International Investment Position
+HKMDS,202001,T0412,class2,fassets,金融資產類別,Type of financial assets
+HKMDS,202001,T0412,class2_code,fassets_0101,直接投資,Direct investment
+HKMDS,202001,T0412,class2_code,fassets_0102,證券投資,Portfolio investment
+HKMDS,202001,T0412,class2_code,fassets_0103,金融衍生工具,Financial derivatives
+HKMDS,202001,T0412,class2_code,fassets_0104,其他投資,Other investment
+HKMDS,202001,T0412,class2_code,fassets_010401,其他投資 - 貨幣和存款,Other investment - Currency and deposits
+HKMDS,202001,T0412,class2_code,fassets_010402,其他投資 - 貸款,Other investment - Loans
+HKMDS,202001,T0412,class2_code,fassets_010403,其他投資 - 貿易信貸和預付款,Other investment - Trade credit and advances
+HKMDS,202001,T0412,class2_code,fassets_010404,其他投資 - 其他資產,Other investment - Other assets
+HKMDS,202001,T0412,class2_code,fassets_02,儲備資產,Reserve assets
+HKMDS,202001,T0412,class3,instru,工具,Instrument
+HKMDS,202001,T0412,class3_code,instru_01,股權和投資基金份額,Equity and investment fund shares
+HKMDS,202001,T0412,class3_code,instru_02,債務工具,Debt instruments
+HKMDS,202001,T0412,class3_code,instru_03,債務證券,Debt securities
+HKMDS,202001,T0412,class3_code,instru_0301,債務證券 - 短期,Debt securities - Short-term
+HKMDS,202001,T0412,class3_code,instru_0302,債務證券 - 長期,Debt securities - Long-term
+HKMDS,202001,T0412,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0412,other_info,note_G1,國際投資頭寸淨值是對外金融資產總值與對外金融負債總值之間的差額。,Net International Investment Position is the difference between total external financial assets and total external financial liabilities.
+HKMDS,202001,T0412,other_info,source,政府統計處國際收支平衡統計科﹙一﹚,"Balance of Payments Branch (1), Census and Statistics Department"
+HKMDS,202001,T0413,table,T0413,表4.13 : 對外債務 (期末頭寸),Table 4.13：External Debt (as at end of period)
+HKMDS,202001,T0413,stat,M041301,對外債務 [百萬元],External Debt [$ million]
+HKMDS,202001,T0413,class1,edsector,界別,Sector
+HKMDS,202001,T0413,class1_code,edsector_01,政府機構,General government
+HKMDS,202001,T0413,class1_code,edsector_02,金融當局,Monetary authority
+HKMDS,202001,T0413,class1_code,edsector_03,銀行,Banks
+HKMDS,202001,T0413,class1_code,edsector_04,其他界別,Other sectors
+HKMDS,202001,T0413,class1_code,edsector_05,直接投資：公司間借貸,Direct investment : intercompany lending
+HKMDS,202001,T0413,class1_code,edsector_tt,對外債務總額,Gross External Debt
+HKMDS,202001,T0413,class2,term,期限,Period
+HKMDS,202001,T0413,class2_code,term_01,短期,Short-term
+HKMDS,202001,T0413,class2_code,term_02,長期,Long-term
+HKMDS,202001,T0413,class3,seccomp,對外債務組成部分,Components of External Debt
+HKMDS,202001,T0413,class3_code,seccomp_01,債務證券,Debt securities
+HKMDS,202001,T0413,class3_code,seccomp_02,貸款,Loans
+HKMDS,202001,T0413,class3_code,seccomp_03,貨幣和存款,Currency and deposits
+HKMDS,202001,T0413,class3_code,seccomp_04,其他債務負債,Other debt liabilities
+HKMDS,202001,T0413,class3_code,seccomp_05,貿易信貸和預付款,Trade credit and advances
+HKMDS,202001,T0413,class2,lending,公司間借貸類別,Type of intercompany lending
+HKMDS,202001,T0413,class2_code,lending_01,直接投資企業對直接投資者的債務負債,Debt liabilities of direct investment enterprises to direct investor
+HKMDS,202001,T0413,class2_code,lending_02,直接投資者對直接投資企業的債務負債,Debt liabilities of direct investor to direct investment enterprises
+HKMDS,202001,T0413,class2_code,lending_03,聯屬企業之間的債務負債,Debt liabilities between fellow enterprises
+HKMDS,202001,T0413,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202001,T0413,figure,§,"由於數值較不顯著（少於1,000萬元）及／或為使個別機構單位所提供的資料得以保密，數據不予公布。",Data are not released due to relatively insignificant value (less than $10 million) and/or in order to safeguard confidentiality of information provided by individual establishments.
+HKMDS,202001,T0413,other_info,source,政府統計處國際收支平衡統計科﹙一﹚,"Balance of Payments Branch (1), Census and Statistics Department"

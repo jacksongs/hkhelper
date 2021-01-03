@@ -1,0 +1,66 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,202011,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,202011,,issue,202011,期號：2020年11月,Issue : November 2020
+HKMDS,202011,T0101,table,T0101,表1.1：年中及年底人口,Table 1.1 : Mid-year and year-end population
+HKMDS,202011,T0101,stat,M010101,人口,Population
+HKMDS,202011,T0101,class1,sex,性別,Sex
+HKMDS,202011,T0101,class1_code,sex_01,男性,Male
+HKMDS,202011,T0101,class1_code,sex_02,女性,Female
+HKMDS,202011,T0101,class1_code,sex_tt,總計,Total
+HKMDS,202011,T0101,other_info,note_G1,數字進位至最接近的百位數。,Figures are rounded to the nearest hundred.
+HKMDS,202011,T0101,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0101,other_info,source,政府統計處人口統計組〈一）,"Demographic Statistics Section (1), Census and Statistics Department"
+HKMDS,202011,T0102,table,T0102,表1.2：出生率、死亡率、生育率及出生時平均預期壽命,"Table 1.2 : Birth rate, death rate, fertility rate and expectation of life at birth"
+HKMDS,202011,T0102,stat,M010201,人口增長率 (指年中人口的按年增長率) [%],Population growth rate (refer to the year-on-year growth rate of the mid-year population) [%]
+HKMDS,202011,T0102,stat,M010202,粗出生率 (按每千名人口計算),Crude birth rate (per 1 000 population)
+HKMDS,202011,T0102,stat,M010203,粗死亡率 (按每千名人口計算),Crude death rate (per 1 000 population)
+HKMDS,202011,T0102,stat,M010204,自然增長率 (按每千名人口計算),Rate of natural increase (per 1 000 population)
+HKMDS,202011,T0102,stat,M010205,嬰兒死亡率 (按每千名活產嬰兒計算),Infant mortality rate (per 1 000 live births)
+HKMDS,202011,T0102,stat,M010206,總和生育率 (指每千名女性（不包括外籍家庭傭工）其一生中活產嬰兒的平均數目),Total fertility rate (refer to the average number of babies born alive to 1000 women (excluding foreign domestic helpers) during their lifetime)
+HKMDS,202011,T0102,stat,M010207,出生時平均預期壽命 [年],Expectation of life at birth [years]
+HKMDS,202011,T0102,class1,sex,性別,Sex
+HKMDS,202011,T0102,class1_code,sex_01,男性,Male
+HKMDS,202011,T0102,class1_code,sex_02,女性,Female
+HKMDS,202011,T0102,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0102,other_info,source,政府統計處人口統計組〈一）,"Demographic Statistics Section (1), Census and Statistics Department"
+HKMDS,202011,T0103,table,T0103,表1.3：按性別及年齡組別劃分的人口,Table 1.3 : Population by sex and age group
+HKMDS,202011,T0103,stat,M010301,人口人數,Population numbers
+HKMDS,202011,T0103,stat,M010302,人口百分比 [%],Population percentage [%]
+HKMDS,202011,T0103,class1,sex,性別,Sex
+HKMDS,202011,T0103,class1_code,sex_01,男性,Male
+HKMDS,202011,T0103,class1_code,sex_02,女性,Female
+HKMDS,202011,T0103,class1_code,sex_tt,總計,Total
+HKMDS,202011,T0103,class2,agegrp,年齡組別,Age group
+HKMDS,202011,T0103,class2_code,agegrp_01,0 - 4,0 - 4
+HKMDS,202011,T0103,class2_code,agegrp_02,5 - 9,5 - 9
+HKMDS,202011,T0103,class2_code,agegrp_03,10 - 14,10 - 14
+HKMDS,202011,T0103,class2_code,agegrp_04,15 - 19,15 - 19
+HKMDS,202011,T0103,class2_code,agegrp_05,20 - 24,20 - 24
+HKMDS,202011,T0103,class2_code,agegrp_06,25 - 29,25 - 29
+HKMDS,202011,T0103,class2_code,agegrp_07,30 - 34,30 - 34
+HKMDS,202011,T0103,class2_code,agegrp_08,35 - 39,35 - 39
+HKMDS,202011,T0103,class2_code,agegrp_09,40 - 44,40 - 44
+HKMDS,202011,T0103,class2_code,agegrp_10,45 - 49,45 - 49
+HKMDS,202011,T0103,class2_code,agegrp_11,50 - 54,50 - 54
+HKMDS,202011,T0103,class2_code,agegrp_12,55 - 59,55 - 59
+HKMDS,202011,T0103,class2_code,agegrp_13,60 - 64,60 - 64
+HKMDS,202011,T0103,class2_code,agegrp_14,65 - 69,65 - 69
+HKMDS,202011,T0103,class2_code,agegrp_15,70 - 74,70 - 74
+HKMDS,202011,T0103,class2_code,agegrp_16,75 - 79,75 - 79
+HKMDS,202011,T0103,class2_code,agegrp_17,80 - 84,80 - 84
+HKMDS,202011,T0103,class2_code,agegrp_18,85+,85+
+HKMDS,202011,T0103,class2_code,agegrp_tt,總計,Total
+HKMDS,202011,T0103,other_info,note_G1,人數進位至最接近的百位數。,Numbers are rounded to the nearest hundred.
+HKMDS,202011,T0103,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0103,other_info,source,政府統計處人口統計組〈一）,"Demographic Statistics Section (1), Census and Statistics Department"
+HKMDS,202011,T0104,table,T0104,表1.4：出生、死亡及婚姻登記數字,"Table 1.4 : Registered births, deaths and marriages"
+HKMDS,202011,T0104,stat,M010401,出生登記數字,Registered births
+HKMDS,202011,T0104,stat,M010402,死亡登記數字 (註釋 1) (註釋 2),Registered deaths (note 1) (note 2)
+HKMDS,202011,T0104,stat,M010403,婚姻登記數字 (註釋 1),Registered marriages (note 1)
+HKMDS,202011,T0104,class1,sex,性別,Sex
+HKMDS,202011,T0104,class1_code,sex_01,男性,Male
+HKMDS,202011,T0104,class1_code,sex_02,女性,Female
+HKMDS,202011,T0104,class1_code,sex_tt,總計,Total
+HKMDS,202011,T0104,other_info,note_1,(註釋 1) 2020年的數字乃臨時數字，會經常修訂。,(note 1) Figures for 2020 are provisional and are revised from time to time.
+HKMDS,202011,T0104,other_info,note_2,(註釋 2) 死亡登記數字的總計包括一個小數目不知性別的死亡人數。,(note 2) The total number of registered deaths includes a small number of deaths of unknown sex.
+HKMDS,202011,T0104,other_info,source,入境事務處,Immigration Department

@@ -1,0 +1,485 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,202010,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,202010,,issue,202010,期號：2020年10月,Issue : October 2020
+HKMDS,202010,T0901,table,T0901,表9.1：外匯儲備資產,Table 9.1 : Foreign currency reserve assets
+HKMDS,202010,T0901,stat,M090101,外匯儲備資產 (期末數字) [百萬美元],Foreign currency reserve assets (as at end of period) [US$ million]
+HKMDS,202010,T0901,stat,M090102,人均外匯儲備資產 (期末數字) [美元],Foreign currency reserve assets per capita (as at end of period) [US$]
+HKMDS,202010,T0901,stat,M090103,按留用進口貨物計算的外匯儲備資產 (註釋 1) (期末數字) [月數],Foreign currency reserve assets in terms of months of retained imports of goods (note 1) (as at end of period) [no. of months]
+HKMDS,202010,T0901,stat,M090104,外匯儲備資產對流通貨幣的比率 (期末數字),Ratio of foreign currency reserve assets to currency in circulation (as at end of period)
+HKMDS,202010,T0901,other_info,note_1,(註釋 1) 數字是根據過去12個月的留用進口貨物平均數計算。,(note 1) Figures are calculated based on past 12 months average of retained imports of goods.
+HKMDS,202010,T0901,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202010,T0901,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0902,table,T0902,表9.2：政府一般收入帳目的收入和開支,Table 9.2 : Government revenue and expenditure under the General Revenue Account
+HKMDS,202010,T0902,stat,M090201,政府一般收入帳目的收入 [百萬港元],Government revenue under the General Revenue Account [HK$ million]
+HKMDS,202010,T0902,stat,M090202,政府一般收入帳目的開支 [百萬港元],Government expenditure under the General Revenue Account [HK$ million]
+HKMDS,202010,T0902,class1,revenue,收入,Revenue
+HKMDS,202010,T0902,class1_code,revenue_01,直接稅,Direct taxes
+HKMDS,202010,T0902,class1_code,revenue_02,間接稅,Indirect taxes
+HKMDS,202010,T0902,class1_code,revenue_03,其他收入,Other revenue
+HKMDS,202010,T0902,class1_code,revenue_04,從各基金轉撥的款項,Transfers from Funds
+HKMDS,202010,T0902,class1_code,revenue_tt,總收入,Total revenue
+HKMDS,202010,T0902,class1,expend,開支,Expenditure
+HKMDS,202010,T0902,class1_code,expend_01,期內實際開支,Actual expenditure during the period
+HKMDS,202010,T0902,class1_code,expend_02,轉撥各基金的款項 (註釋 1),Transfers to Funds (note 1)
+HKMDS,202010,T0902,class1_code,expend_tt,一般收入帳目總開支,Total expenditure on General Revenue Account
+HKMDS,202010,T0902,other_info,note_G1,財政年度由4月1日至3月31日。,Financial year runs from 1 April to 31 March.
+HKMDS,202010,T0902,other_info,note_1,(註釋 1) 包括轉撥資本投資基金、公務員退休金儲備基金、賑災基金、創新及科技基金和貸款基金。,"(note 1) These include transfers to Capital Investment Fund, Civil Service Pension Reserve Fund, Disaster Relief Fund, Innovation and Technology Fund and Loan Fund."
+HKMDS,202010,T0902,other_info,source,政府總部財經事務及庫務局,"Financial Services and the Treasury Bureau, Government Secretariat"
+HKMDS,202010,T0903,table,T0903,表9.3：流通貨幣及貨幣供應,Table 9.3 : Currency in circulation and money supply
+HKMDS,202010,T0903,stat,M090301,法定紙幣及硬幣的流通量 (期末數字) [百萬港元],Legal tender notes and coins in circulation (as at end of period) [HK$ million]
+HKMDS,202010,T0903,stat,M090302,由認可機構持有的法定紙幣及硬幣 (期末數字) [百萬港元],Authorized institutions' holdings of legal tender notes and coins (as at end of period) [HK$ million]
+HKMDS,202010,T0903,stat,M090303,由公眾持有的法定紙幣及硬幣 (期末數字) [百萬港元],Legal tender notes and coins in hands of public (as at end of period) [HK$ million]
+HKMDS,202010,T0903,stat,M090304,貨幣供應量M1 (期末數字) [百萬港元],M1 (as at end of period) [HK$ million]
+HKMDS,202010,T0903,stat,M090305,貨幣供應量M2 (期末數字) [百萬港元],M2 (as at end of period) [HK$ million]
+HKMDS,202010,T0903,stat,M090306,貨幣供應量M3 (期末數字) [百萬港元],M3 (as at end of period) [HK$ million]
+HKMDS,202010,T0903,class1,issuer,發行方,Issuer
+HKMDS,202010,T0903,class1_code,issuer_01,由商業銀行發行,Commercial bank issues
+HKMDS,202010,T0903,class1_code,issuer_02,由政府發行,Government issues
+HKMDS,202010,T0903,class1_code,issuer_tt,總計,Total
+HKMDS,202010,T0903,class1,curr,貨幣,Currency
+HKMDS,202010,T0903,class1_code,curr_01,港元,HK Dollar
+HKMDS,202010,T0903,class1_code,curr_02,外幣,Foreign currency
+HKMDS,202010,T0903,class1_code,curr_tt,總計,Total
+HKMDS,202010,T0903,class2,sadj,有否經季節性調整,Whether seasonally adjusted
+HKMDS,202010,T0903,class2_code,sadj_01,經季節性調整,Seasonally adjusted
+HKMDS,202010,T0903,other_info,note_G1,數字指所有認可機構。,Figures refer to all authorized institutions.
+HKMDS,202010,T0903,other_info,note_G2,貨幣供應量M2和M3的數字並未就外幣掉期存款作出調整，調整後的數字刊於表9.5。,The figures of M2 and M3 are unadjusted for foreign currency swap deposits.  Adjusted figures are published in Table 9.5.
+HKMDS,202010,T0903,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0904,table,T0904,表9.4：按類別劃分的客戶存款 (註釋 1),Table 9.4 : Customer deposits by type (note 1)
+HKMDS,202010,T0904,stat,M090401,客戶存款 (註釋 1) (期末數字) [百萬港元],Customer deposits (note 1)  (as at end of period) [HK$ million]
+HKMDS,202010,T0904,class1,inst,機構類別,Type of institutions
+HKMDS,202010,T0904,class1_code,inst_01,持牌銀行,Licensed banks
+HKMDS,202010,T0904,class1_code,inst_02,有限制牌照銀行,Restricted licence banks
+HKMDS,202010,T0904,class1_code,inst_03,接受存款公司,Deposit-taking companies
+HKMDS,202010,T0904,class1_code,inst_tt,所有認可機構,All authorized institutions
+HKMDS,202010,T0904,class2,dep,存款類別,Type of deposit
+HKMDS,202010,T0904,class2_code,dep_01,活期存款,Demand
+HKMDS,202010,T0904,class2_code,dep_02,儲蓄存款,Savings
+HKMDS,202010,T0904,class2_code,dep_03,定期存款,Time
+HKMDS,202010,T0904,class2_code,dep_tt,各類存款總計,Total
+HKMDS,202010,T0904,class3,curr,貨幣,Currency
+HKMDS,202010,T0904,class3_code,curr_01,港元,HK Dollar
+HKMDS,202010,T0904,class3_code,curr_02,外幣,Foreign currency
+HKMDS,202010,T0904,class3_code,curr_tt,總計,Total
+HKMDS,202010,T0904,class4,sadj,有否經季節性調整,Whether seasonally adjusted
+HKMDS,202010,T0904,class4_code,sadj_01,經季節性調整,Seasonally adjusted
+HKMDS,202010,T0904,other_info,note_1,(註釋 1) 所列數字並未就外幣掉期存款作出調整，調整後的數字刊於表9.5。,(note 1) Unadjusted for foreign currency swap deposits.  Adjusted figures are published in Table 9.5.
+HKMDS,202010,T0904,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0905,table,T0905,表9.5：就外幣掉期存款 (註釋 1) 作出調整的貨幣供應及客戶存款,Table 9.5 : Money supply and customer deposits adjusted for foreign currency swap deposits (note 1)
+HKMDS,202010,T0905,stat,M090501,外幣掉期存款 (期末數字) [百萬港元],Foreign currency swap deposits (as at end of period) [HK$ million]
+HKMDS,202010,T0905,stat,M090502,貨幣供應量M2 (期末數字) [百萬港元],M2 (as at end of period) [HK$ million]
+HKMDS,202010,T0905,stat,M090503,貨幣供應量M3 (期末數字) [百萬港元],M3 (as at end of period) [HK$ million]
+HKMDS,202010,T0905,stat,M090504,所有認可機構客戶存款 (期末數字) [百萬港元],Customer deposits with all authorized institutions (as at end of period) [HK$ million]
+HKMDS,202010,T0905,class1,swcurr,貨幣,Currency
+HKMDS,202010,T0905,class1_code,swcurr_01,港元 (包括外幣掉期存款),HK Dollar (Adjusted to include foreign currency swap deposits)
+HKMDS,202010,T0905,class1_code,swcurr_02,外幣 (已扣除外幣掉期存款),Foreign currency (Adjusted to exclude foreign currency swap deposits)
+HKMDS,202010,T0905,class1_code,swcurr_tt,總計,Total
+HKMDS,202010,T0905,other_info,note_1,(註釋 1) 外幣掉期存款是指顧客在現貨市場購買外幣，然後存入認可機構，但同時立下遠期合約，將該筆外幣「本金加利息」在存款到期時售予認可機構。作為大多數分析用途，這類掉期存款應當作港元存款。,"(note 1) Foreign currency swap deposits are deposits involving customers buying foreign currencies in the spot market and placing them as deposits with authorized institutions, while at the same time entering into a forward contract to sell such foreign currencies (principal plus interest) upon maturity of such deposits.  For most analytical purposes, these should be regarded as Hong Kong Dollar deposits."
+HKMDS,202010,T0905,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0906,table,T0906,表9.6：資產負債表,Table 9.6 : Balance sheet
+HKMDS,202010,T0906,stat,M090601,資產負債表 [百萬港元],Balance sheet [HK$ million]
+HKMDS,202010,T0906,stat,M090602,已運作的認可機構數目,Number of authorized institutions in operation
+HKMDS,202010,T0906,stat,M090603,本地分行數目,Number of local branches
+HKMDS,202010,T0906,class1,entr,記賬,Entries
+HKMDS,202010,T0906,class1_code,entr_11,資產,Assets
+HKMDS,202010,T0906,class1_code,entr_12,負債,Liabilities
+HKMDS,202010,T0906,class2,liab,負債類別,Type of liabilities
+HKMDS,202010,T0906,class2_code,liab_01,香港銀行同業借款,Amount due to authorized institutions in Hong Kong
+HKMDS,202010,T0906,class2_code,liab_02,境外銀行同業借款,Amount due to banks abroad
+HKMDS,202010,T0906,class2_code,liab_03,客戶存款 (註釋1),Deposits from customers (note 1)
+HKMDS,202010,T0906,class2_code,liab_04,未償還可轉讓存款證,Negotiable certificates of deposit outstanding
+HKMDS,202010,T0906,class2_code,liab_05,其他負債,Other liabilities
+HKMDS,202010,T0906,class2_code,liab_tt,負債總額,Total liabilities
+HKMDS,202010,T0906,class2,asset,資產類別,Type of assets
+HKMDS,202010,T0906,class2_code,asset_01,紙幣及硬幣,Notes and coins
+HKMDS,202010,T0906,class2_code,asset_02,香港銀行同業貸款,Amount due from authorized institutions in Hong Kong
+HKMDS,202010,T0906,class2_code,asset_03,境外銀行同業貸款,Amount due from banks abroad
+HKMDS,202010,T0906,class2_code,asset_04,客戶貸款及墊款,Loans and advances to customers
+HKMDS,202010,T0906,class2_code,asset_05,可轉讓存款證,Negotiable certificate of deposit held
+HKMDS,202010,T0906,class2_code,asset_06,其他可轉讓債務工具(可轉讓存款證除外),Negotiable debt instrument held (other than NCDs)
+HKMDS,202010,T0906,class2_code,asset_0601,其他可轉讓債務工具(可轉讓存款證除外) - 政府票據及債券,"Negotiable debt instrument held (other than NCDs) - Government bills, notes and bonds"
+HKMDS,202010,T0906,class2_code,asset_0602,其他可轉讓債務工具(可轉讓存款證除外) - 其他債務工具,Negotiable debt instrument held (other than NCDs) - Other debt instruments
+HKMDS,202010,T0906,class2_code,asset_07,其他資產,Other assets
+HKMDS,202010,T0906,class2_code,asset_tt,資產總額,Total assets
+HKMDS,202010,T0906,class3,curr,貨幣,Currency
+HKMDS,202010,T0906,class3_code,curr_01,港元,HK Dollar
+HKMDS,202010,T0906,class3_code,curr_02,外幣,Foreign currency
+HKMDS,202010,T0906,class3_code,curr_tt,總計,Total
+HKMDS,202010,T0906,other_info,note_G1,數字指所有認可機構。數字為期末數字。,Figures refer to all authorized institutions.  Figures are as at end of the period.
+HKMDS,202010,T0906,other_info,note_G2,認可機構的資產負債表不包括外匯基金發出的負債證明書和銀行相應發行的紙幣。貸款和墊款是指未扣除壞帳準備的數目。,"The balance sheet of authorized institutions excludes certificates of indebtedness issued by the Exchange Fund, and the counterpart bank notes issued.  Loans and advances refer to the position before provision for bad debts."
+HKMDS,202010,T0906,other_info,note_1,(註釋 1) 所列數字並未就外幣掉期存款作出調整，調整後的數字刊於表9.5。,(note 1) Unadjusted for foreign currency swap deposits.  Adjusted figures are published in Table 9.5.
+HKMDS,202010,T0906,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0907,table,T0907,表9.7：按用途劃分的貸款及墊款,Table 9.7 : Loans and advances by type
+HKMDS,202010,T0907,stat,M090701,貸款及墊款 (期末數字) [百萬港元],Loans and advances (as at end of period) [HK$ million]
+HKMDS,202010,T0907,class1,loan,貸款及墊款類別,Type of loans and advances
+HKMDS,202010,T0907,class1_code,loan_01,香港貨物的出入口及轉口融資,To finance imports to and exports and re-exports from Hong Kong
+HKMDS,202010,T0907,class1_code,loan_02,香港境外的商品貿易融資,To finance merchandising trade not touching Hong Kong
+HKMDS,202010,T0907,class1_code,loan_03,在香港使用的貸款 (註釋 1),Loans and advances for use in Hong Kong (note 1)
+HKMDS,202010,T0907,class1_code,loan_04,其他在香港境外使用的貸款,Other loans for use outside Hong Kong
+HKMDS,202010,T0907,class1_code,loan_05,其他使用地區不明確的貸款,Other loans where the place of use is not known
+HKMDS,202010,T0907,class1_code,loan_tt,貸款及墊款總額,Total loans and advances
+HKMDS,202010,T0907,class2,curr,貨幣,Currency
+HKMDS,202010,T0907,class2_code,curr_01,港元,HK Dollar
+HKMDS,202010,T0907,class2_code,curr_02,外幣,Foreign currency
+HKMDS,202010,T0907,class2_code,curr_tt,總計,Total
+HKMDS,202010,T0907,other_info,note_G1,數字指所有認可機構。,Figures refer to all authorized institutions.
+HKMDS,202010,T0907,other_info,note_G2,由2018年12月開始，在香港／在香港境外使用的貸款的數字已作出重列，以反映認可機構將營運資金貸款重新分類。由於並無2018年12月以前的重新分類貸款數據，因此，2018年12月或以後的數字不能與較早前的數字作直接比較。,"Starting from December 2018, the figures for loans for use in/outside Hong Kong have been restated to reflect authorized institutions' reclassification of working capital loans. As reclassified loan data before December 2018 are not available, figures from December 2018 onwards are not directly comparable to earlier figures."
+HKMDS,202010,T0907,other_info,note_1,(註釋 1) 在香港使用的貸款是指對香港的經濟活動有直接影響的貸款。這一般視乎該筆貸款是否由香港提供或在香港支付，以及客戶的主要業務所在地而定。,"(note 1) Loans and advances for use in Hong Kong refer to loans that have direct impact on the level of economic activity in Hong Kong.  This is usually determined by whether the loan is made available or disbursed in Hong Kong, and by the principal business location of the customer."
+HKMDS,202010,T0907,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0908,table,T0908,表9.8：按經濟行業劃分在香港使用的貸款及墊款,Table 9.8 : Loans and advances for use in Hong Kong by economic esector
+HKMDS,202010,T0908,stat,M090801,在香港使用的貸款及墊款 (季末數字) [百萬港元],Loans and advances for use in Hong Kong (as at end of quarter) [HK$ million]
+HKMDS,202010,T0908,class1,esector,經濟行業,Economic esector
+HKMDS,202010,T0908,class1_code,esector_01,製造業,Manufacturing
+HKMDS,202010,T0908,class1_code,esector_02,運輸及運輸設備,Transport and transport equipment
+HKMDS,202010,T0908,class1_code,esector_03,電力及氣體燃料,Electricity and gas
+HKMDS,202010,T0908,class1_code,esector_04,康樂活動,Recreational activities
+HKMDS,202010,T0908,class1_code,esector_05,資訊科技,Information technology
+HKMDS,202010,T0908,class1_code,esector_06,建造業、物業發展及投資,"Building and construction, property development and investment"
+HKMDS,202010,T0908,class1_code,esector_0601,建造業、物業發展及投資 - 物業發展及投資,"Building and construction, property development and investment - Property development and investment"
+HKMDS,202010,T0908,class1_code,esector_060101,建造業、物業發展及投資 - 物業發展及投資 - 工業,"Building and construction, property development and investment - Property development and investment - Industrial"
+HKMDS,202010,T0908,class1_code,esector_060102,建造業、物業發展及投資 - 物業發展及投資 - 住宅,"Building and construction, property development and investment - Property development and investment - Residential"
+HKMDS,202010,T0908,class1_code,esector_060103,建造業、物業發展及投資 - 物業發展及投資 - 商業,"Building and construction, property development and investment - Property development and investment - Commercial"
+HKMDS,202010,T0908,class1_code,esector_060104,建造業、物業發展及投資 - 物業發展及投資 - 其他物業,"Building and construction, property development and investment - Property development and investment - Other properties"
+HKMDS,202010,T0908,class1_code,esector_0602,建造業、物業發展及投資 - 其他,"Building and construction, property development and investment - Others"
+HKMDS,202010,T0908,class1_code,esector_07,批發及零售業,Wholesale and retail trade
+HKMDS,202010,T0908,class1_code,esector_08,其他經濟行業,Miscellaneous
+HKMDS,202010,T0908,class1_code,esector_0801,其他經濟行業 - 酒店、旅舍及飲食業,"Miscellaneous - Hotels, boarding houses and catering"
+HKMDS,202010,T0908,class1_code,esector_0802,其他經濟行業 - 與財務及金融有關公司,Miscellaneous - Financial concerns
+HKMDS,202010,T0908,class1_code,esector_0803,其他經濟行業 - 證券經紀,Miscellaneous - Stockbrokers
+HKMDS,202010,T0908,class1_code,esector_0804,其他經濟行業 - 專業人士及個人,Miscellaneous - Professionals and private individuals
+HKMDS,202010,T0908,class1_code,esector_080401,其他經濟行業 - 專業人士及個人 - 購買「居者有其屋計劃」、「私人機構參建居屋計劃」及「租者置其屋計劃」單位,"Miscellaneous - Professionals and private individuals - For the purchase of flats in ""Home Ownership Scheme"", ""Private esector Participation Scheme"" and ""Tenants Purchase Scheme"""
+HKMDS,202010,T0908,class1_code,esector_080402,其他經濟行業 - 專業人士及個人 - 購買其他住宅樓宇,Miscellaneous - Professionals and private individuals - For the purchase of other residential properties
+HKMDS,202010,T0908,class1_code,esector_080403,其他經濟行業 - 專業人士及個人 - 信用卡墊款,Miscellaneous - Professionals and private individuals - For credit card advances
+HKMDS,202010,T0908,class1_code,esector_080404,其他經濟行業 - 專業人士及個人 - 其他商業用途,Miscellaneous - Professionals and private individuals - For other business purposes
+HKMDS,202010,T0908,class1_code,esector_080405,其他經濟行業 - 專業人士及個人 - 其他私人用途,Miscellaneous - Professionals and private individuals - For other private purposes
+HKMDS,202010,T0908,class1_code,esector_0805,其他經濟行業 - 其他,Miscellaneous - All others
+HKMDS,202010,T0908,other_info,note_G1,數字指所有認可機構。,Figures refer to all authorized institutions.
+HKMDS,202010,T0908,other_info,note_G2,貸款是按用途分類，但不包括貿易融資貸款。,A loan is classified according to its usage.  Loans for trade financing are excluded.
+HKMDS,202010,T0908,other_info,note_G3,部分貸款及墊款數字經過重新分類，因此數字不能直接和前數季的數字比較。,"Some loans have been reclassified.  As such, the figures are not strictly comparable with those of previous quarters."
+HKMDS,202010,T0908,other_info,note_G4,由2018年12月開始，在香港／在香港境外使用的貸款的數字已作出重列，以反映認可機構將營運資金貸款重新分類。由於並無2018年12月以前的重新分類貸款數據，因此，2018年第4季或以後的數字不能與較早前的數字作直接比較。,"Starting from December 2018, the figures for loans for use in/outside Hong Kong have been restated to reflect authorized institutions' reclassification of working capital loans. As reclassified loan data before December 2018 are not available, figures from the 4th quarter of 2018 onwards are not directly comparable to earlier figures."
+HKMDS,202010,T0908,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0909,table,T0909,表9.9：對其他認可機構的負債,Table 9.9 : Liabilities due to other authorized institutions
+HKMDS,202010,T0909,stat,M090901,對其他認可機構的負債 (期末數字) [百萬港元],Liabilities due to other authorized institutions (as at end of period) [HK$ million]
+HKMDS,202010,T0909,class1,ailia,對其他認可機構的負債類別,Type of liabilities due to other authorized institutions [HK$ million]
+HKMDS,202010,T0909,class1_code,ailia_01,即期及通知存款,Payable on demand and money at call
+HKMDS,202010,T0909,class1_code,ailia_02,3個月內償還或提取的存款,Repayable or callable within 3 months
+HKMDS,202010,T0909,class1_code,ailia_03,超過3個月償還或提取的存款,Repayable or callable later than 3 months
+HKMDS,202010,T0909,class1_code,ailia_tt,總計,Total liabilities
+HKMDS,202010,T0909,class2,curr,貨幣,Currency
+HKMDS,202010,T0909,class2_code,curr_01,港元,HK Dollar
+HKMDS,202010,T0909,class2_code,curr_02,外幣,Foreign currency
+HKMDS,202010,T0909,class2_code,curr_tt,總計,Total
+HKMDS,202010,T0909,other_info,note_G1,數字指所有認可機構。,Figures refer to all authorized institutions.
+HKMDS,202010,T0909,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0910,table,T0910,表9.10：外匯頭寸,Table 9.10 : Foreign currency positions
+HKMDS,202010,T0910,stat,M091001,現貨資產 (期末數字) [百萬港元],Spot assets (as at end of period) [HK$ million]
+HKMDS,202010,T0910,stat,M091002,遠期買入額 (期末數字) [百萬港元],Forward purchases (as at end of period) [HK$ million]
+HKMDS,202010,T0910,stat,M091003,現貨負債 (期末數字) [百萬港元],Spot liabilities (as at end of period) [HK$ million]
+HKMDS,202010,T0910,stat,M091004,遠期沽出額 (期末數字) [百萬港元],Forward sales (as at end of period) [HK$ million]
+HKMDS,202010,T0910,stat,M091005,現貨未平倉淨額 (期末數字) [百萬港元],Net spot position (as at end of period) [HK$ million]
+HKMDS,202010,T0910,stat,M091006,遠期未平倉淨額 (期末數字) [百萬港元],Net forward position (as at end of period) [HK$ million]
+HKMDS,202010,T0910,stat,M091007,未平倉淨額 (期末數字) [百萬港元],Open position (as at end of period) [HK$ million]
+HKMDS,202010,T0910,other_info,note_G1,數字指所有認可機構。,Figures refer to all authorized institutions.
+HKMDS,202010,T0910,other_info,note_G2,(+) 代表淨資產。,(+) Denotes net assets.
+HKMDS,202010,T0910,other_info,note_G3,(-) 代表淨負債。,(-) Denotes net liabilities.
+HKMDS,202010,T0910,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0911,table,T0911,表9.11：對外負債及債權,Table 9.11 : External liabilities and claims
+HKMDS,202010,T0911,stat,M091101,對香港境外銀行所負債務 (期末數字) [百萬港元],Liabilities to banks outside Hong Kong (as at end of period) [HK$ million]
+HKMDS,202010,T0911,stat,M091102,對香港境外銀行所持債權 (期末數字) [百萬港元],Claims on banks outside Hong Kong (as at end of period) [HK$ million]
+HKMDS,202010,T0911,stat,M091103,對香港境外非銀行客戶所負債務 (期末數字) [百萬港元],Liabilities to non-bank customers outside Hong Kong (as at end of period) [HK$ million]
+HKMDS,202010,T0911,stat,M091104,對香港境外非銀行客戶所持債權 (期末數字) [百萬港元],Claims on non-bank customers outside Hong Kong (as at end of period) [HK$ million]
+HKMDS,202010,T0911,class1,curr,貨幣,Currency
+HKMDS,202010,T0911,class1_code,curr_01,港元,HK Dollar
+HKMDS,202010,T0911,class1_code,curr_02,外幣,Foreign currency
+HKMDS,202010,T0911,other_info,note_G1,數字指所有認可機構。,Figures refer to all authorized institutions.
+HKMDS,202010,T0911,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0912,table,T0912,表9.12：港元利率,Table 9.12 : Hong Kong Dollar interest rates
+HKMDS,202010,T0912,stat,M091201,港元利率 (期內平均數字) [年率 (%)],Hong Kong Dollar interest rates (Period average figures) [Percent per annum (%)]
+HKMDS,202010,T0912,class1,intrate,利率,Interest rate
+HKMDS,202010,T0912,class1_code,intrate_01,少於10萬港元的定期存款利率 (註釋 1),"Time deposit rates on deposits of less than HK$100,000 (note 1)"
+HKMDS,202010,T0912,class1_code,intrate_02,少於10萬港元的儲蓄存款利率 (註釋 1),"Savings deposit rate on deposits of less than HK$100,000 (note 1)"
+HKMDS,202010,T0912,class1_code,intrate_03,最優惠貸款利率 (註釋 2),Best Lending Rate (note 2)
+HKMDS,202010,T0912,class2,period,時期,Period
+HKMDS,202010,T0912,class2_code,period_02,1星期,1 week
+HKMDS,202010,T0912,class2_code,period_03,1個月,1 month
+HKMDS,202010,T0912,class2_code,period_04,3個月,3 months
+HKMDS,202010,T0912,class2_code,period_05,6個月,6 months
+HKMDS,202010,T0912,class2_code,period_06,12個月,12 months
+HKMDS,202010,T0912,other_info,note_1,(註釋 1) 在取消《利率規則》後，定期存款及儲蓄存款的平均利率是根據主要持牌銀行所報的利率編製。在計算平均利率時，掉期存款利率同樣被視為港元定期存款利率。,(note 1) The average interest rates for time deposits and savings deposits are compiled based on the interest rates quoted by major licensed banks after the deregulation of the Interest Rate Rules.  Swap deposit rates are also regarded as Hong Kong Dollar time deposit rates in computing the average.
+HKMDS,202010,T0912,other_info,note_2,(註釋 2) 最優惠貸款利率是指香港上海滙豐銀行有限公司所報的利率。,(note 2) Best Lending Rate refers to the rate quoted by the Hongkong and Shanghai Banking Corporation Limited.
+HKMDS,202010,T0912,other_info,source,香港金融管理局,Hong Kong Monetary Authority
+HKMDS,202010,T0913,table,T0913,表9.13：港元利息結算率及票據交換,Table 9.13 : Hong Kong Dollar Interest Settlement Rates and clearing house transactions
+HKMDS,202010,T0913,stat,M091301,港元利息結算率 (期末息率) (註釋 1) [年率],Hong Kong Dollar Interest Settlement Rates (Rates at end of period) (note 1) [percent per annum]
+HKMDS,202010,T0913,stat,M091302,票據交換數目 (只包括港元結算成交數據) [以千張計],Articles cleared by clearing house (refers to Hong Kong Dollar clearing transaction only) - Items [thousand]
+HKMDS,202010,T0913,stat,M091303,票據交換數額 (只包括港元結算成交數據) [百萬港元],Articles cleared by clearing house (refers to Hong Kong Dollar clearing transaction only) - Value [HK$ million]
+HKMDS,202010,T0913,class1,period,時期,Period
+HKMDS,202010,T0913,class1_code,period_01,隔夜,Overnight
+HKMDS,202010,T0913,class1_code,period_02,1星期,1 week
+HKMDS,202010,T0913,class1_code,period_03,1個月,1 month
+HKMDS,202010,T0913,class1_code,period_04,3個月,3 months
+HKMDS,202010,T0913,class1_code,period_05,6個月,6 months
+HKMDS,202010,T0913,other_info,note_1,(註釋 1) 港元利息結算率由香港銀行公會提供及擁有。每日港元利息結算率是根據香港銀行公會港元利率套戥協議條款，按香港銀行同業市場港元存款的市場利率來釐定。香港銀行公會一般會在每個營業日（星期六除外）早上11時15分在其網站上發布該天港元利息結算率，並以香港銀行公會指定的12至20間參考銀行所提供的報價資料作為釐定基礎。計算方法是從參考銀行的報價中剔除最高與最低各三個報價，然後取其平均數。,"(note 1) The Hong Kong Association of Banks (HKAB) is the source and owner of the Hong Kong Dollar (HKD) Interest Settlement Rates.  As part of the HKAB forward rate agreement terms, daily HKD Interest Settlement Rates are fixed by reference to market rates for HKD deposits in the Hong Kong interbank market.  These fixings are usually released on the website of the HKAB each business day (excluding Saturdays) at 11:15 a.m., on the basis of quotations provided by 12 to 20 banks designated by the HKAB.  The HKD Interest Settlement Rates are calculated by averaging the middle quotes after excluding the highest three quotes and lowest three quotes received from the reference banks."
+HKMDS,202010,T0913,other_info,source,香港金融管理局；香港銀行同業結算有限公司,Hong Kong Monetary Authority; Hong Kong Interbank Clearing Limited
+HKMDS,202010,T0914,table,T0914,表9.14：外幣兌換率及港匯指數,Table 9.14 : Exchange rates and the Effective Exchange Rate Indices
+HKMDS,202010,T0914,stat,M091401,外幣兌換率 (每單位外幣兌換港元),Exchange rates (HK Dollar per unit of foreign currency)
+HKMDS,202010,T0914,stat,M091402,港匯指數 (2010年1月=100) - 貿易總值 (進口及整體出口) 加權,Effective Exchange Rate Indices for HK Dollar (January 2010 = 100) - Trade (import and export)-weighted
+HKMDS,202010,T0914,stat,M091403,港匯指數 (2010年1月=100) - 進口貨值加權,Effective Exchange Rate Indices for HK Dollar (January 2010 = 100) - Import-weighted
+HKMDS,202010,T0914,stat,M091404,港匯指數 (2010年1月=100) - 整體出口貨值加權,Effective Exchange Rate Indices for HK Dollar (January 2010 = 100) - Export-weighted
+HKMDS,202010,T0914,class1,forcur,外幣,Foreign currency
+HKMDS,202010,T0914,class1_code,forcur_01,澳元,Australian Dollar
+HKMDS,202010,T0914,class1_code,forcur_02,加拿大元,Canadian Dollar
+HKMDS,202010,T0914,class1_code,forcur_03,印度盧比,Indian Rupee
+HKMDS,202010,T0914,class1_code,forcur_04,日圓,Japanese Yen
+HKMDS,202010,T0914,class1_code,forcur_05,南韓圓,Korean Won
+HKMDS,202010,T0914,class1_code,forcur_06,馬來西亞元,Malaysia Ringgit
+HKMDS,202010,T0914,class1_code,forcur_07,新台幣,New Taiwan Dollar
+HKMDS,202010,T0914,class1_code,forcur_08,菲律賓披索,Philippine Peso
+HKMDS,202010,T0914,class1_code,forcur_09,英鎊,Pound Sterling
+HKMDS,202010,T0914,class1_code,forcur_10,新加坡元,Singapore Dollar
+HKMDS,202010,T0914,class1_code,forcur_11,瑞士法郎,Swiss Franc
+HKMDS,202010,T0914,class1_code,forcur_12,泰銖,Thai Baht
+HKMDS,202010,T0914,class1_code,forcur_13,美元,U.S. Dollar
+HKMDS,202010,T0914,class1_code,forcur_14,歐元,Euro
+HKMDS,202010,T0914,class1_code,forcur_15,人民幣,Chinese Renminbi
+HKMDS,202010,T0914,class1_code,forcur_16,特別提款權,Special Drawing Right
+HKMDS,202010,T0914,other_info,note_G1,數字是指期內每日收市中間價的平均值。除新台幣及菲律賓披索的數字是現鈔價外，其餘的均為電匯價。,Figures are the averages of the daily closing middle-market rates for the respective period.  They are telegraphic transfer rates except those for the New Taiwan Dollar and Philippine Peso which are notes rates.
+HKMDS,202010,T0914,other_info,source,香港金融管理局；政府統計處貿易資料分析組,"Hong Kong Monetary Authority; Trade Analysis Section, Census and Statistics Department"
+HKMDS,202010,T0915,table,T0915,表9.15：2020年9月份外幣兌換率及港匯指數,Table 9.15 : Exchange rates and the Effective Exchange Rate Indices in September 2020
+HKMDS,202010,T0915,stat,M091501,外幣兌換率 (每單位外幣兌換港元) (當日收市),Exchange rates (HK Dollar per unit of foreign currency) (as at end of day)
+HKMDS,202010,T0915,stat,M091502,港匯指數 (2010年1月=100) (當日收市) - 貿易總值 (進口及整體出口) 加權,Effective Exchange Rate Indices for HK Dollar (January 2010 = 100) (as at end of day) - Trade (import and export)-weighted
+HKMDS,202010,T0915,stat,M091503,港匯指數 (2010年1月=100) (當日收市) - 進口貨值加權,Effective Exchange Rate Indices for HK Dollar (January 2010 = 100) (as at end of day) - Import-weighted
+HKMDS,202010,T0915,stat,M091504,港匯指數 (2010年1月=100) (當日收市) - 整體出口貨值加權,Effective Exchange Rate Indices for HK Dollar (January 2010 = 100) (as at end of day) - Export-weighted
+HKMDS,202010,T0915,class1,forcur,外幣,Foreign currency
+HKMDS,202010,T0915,class1_code,forcur_01,澳元,Australian Dollar
+HKMDS,202010,T0915,class1_code,forcur_02,加拿大元,Canadian Dollar
+HKMDS,202010,T0915,class1_code,forcur_03,印度盧比,Indian Rupee
+HKMDS,202010,T0915,class1_code,forcur_04,日圓,Japanese Yen
+HKMDS,202010,T0915,class1_code,forcur_05,南韓圓,Korean Won
+HKMDS,202010,T0915,class1_code,forcur_06,馬來西亞元,Malaysia Ringgit
+HKMDS,202010,T0915,class1_code,forcur_07,新台幣,New Taiwan Dollar
+HKMDS,202010,T0915,class1_code,forcur_08,菲律賓披索,Philippine Peso
+HKMDS,202010,T0915,class1_code,forcur_09,英鎊,Pound Sterling
+HKMDS,202010,T0915,class1_code,forcur_10,新加坡元,Singapore Dollar
+HKMDS,202010,T0915,class1_code,forcur_11,瑞士法郎,Swiss Franc
+HKMDS,202010,T0915,class1_code,forcur_12,泰銖,Thai Baht
+HKMDS,202010,T0915,class1_code,forcur_13,美元,U.S. Dollar
+HKMDS,202010,T0915,class1_code,forcur_14,歐元,Euro
+HKMDS,202010,T0915,class1_code,forcur_15,人民幣,Chinese Renminbi
+HKMDS,202010,T0915,class1_code,forcur_16,特別提款權,Special Drawing Right
+HKMDS,202010,T0915,other_info,note_G1,數字是指當日收巿的中間價。除新台幣及菲律賓披索的數字是現鈔價外，其餘的都是電匯價。若某日為非交易日，例如公眾假期，則沒有數字列出。,"Figures are the closing middle-market rates for the respective day.  They are telegraphic transfer rates except those for the New Taiwan Dollar and Philippine Peso which are notes rates.  For non-trading days such as public holidays, no figures are quoted."
+HKMDS,202010,T0915,other_info,source,香港金融管理局；政府統計處貿易資料分析組,"Hong Kong Monetary Authority; Trade Analysis Section, Census and Statistics Department"
+HKMDS,202010,T0916A,table,T0916A,表9.16：由恒生指數有限公司編製的選定指數 - (甲) 香港上市,Table 9.16 : Selected indexes compiled by the Hang Seng Indexes Company Limited - (A) Hong Kong-listed
+HKMDS,202010,T0916A,stat,M091601,恒生指數 (31.7.1964=100),Hang Seng Index (31.7.1964=100)
+HKMDS,202010,T0916A,stat,M091602,恒生指數 - 分類指數 (13.1.1984=975.47),Hang Seng Index - sectoral sub-indexes (13.1.1984=975.47)
+HKMDS,202010,T0916A,stat,M091603,恒生綜合指數 (3.1.2000=2 000),Hang Seng Composite Index (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091604,恒生綜合行業指數 (3.1.2000=2 000),Hang Seng Composite Industry Indexes (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091605,恒生綜合市值指數 (3.1.2000=2 000) - 恒生綜合大型股指數,Hang Seng Composite Size Indexes (3.1.2000=2 000) - Hang Seng Composite LargeCap Index
+HKMDS,202010,T0916A,stat,M091606,恒生綜合市值指數 (3.1.2000=2 000) - 恒生綜合中型股指數,Hang Seng Composite Size Indexes (3.1.2000=2 000) - Hang Seng Composite MidCap Index
+HKMDS,202010,T0916A,stat,M091607,恒生綜合市值指數 (3.1.2000=2 000) - 恒生綜合小型股指數,Hang Seng Composite Size Indexes (3.1.2000=2 000) - Hang Seng Composite SmallCap Index
+HKMDS,202010,T0916A,stat,M091608,恒指波幅指數,HSI Volatility Index
+HKMDS,202010,T0916A,stat,M091609,恒生中國企業指數 (3.1.2000=2 000),Hang Seng China Enterprises Index (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091610,恒生香港中資企業指數 (3.1.2000=2 000),Hang Seng China-Affiliated Corporations Index (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091611,恒生中國H股金融行業指數 (5.3.2004=5 033.14),Hang Seng China H-Financials Index (5.3.2004=5 033.14)
+HKMDS,202010,T0916A,stat,M091612,恒生中國（香港上市）100指數 (註釋 1) (3.1.2000=2 000),Hang Seng China (Hong Kong-listed) 100 Index (note 1) (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091613,恒生中國（香港上市）25指數 (註釋 1) (3.1.2000=2 000),Hang Seng China (Hong Kong-listed) 25 Index (note 1) (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091614,恒生香港35 (3.1.2000=2 000) ,Hang Seng HK 35 (3.1.2000=2 000)
+HKMDS,202010,T0916A,stat,M091615,恒生房地產基金指數 (25.11.2005=3 000),Hang Seng REIT Index (25.11.2005=3 000)
+HKMDS,202010,T0916A,stat,M091616,恒生港股通指數 (註釋 2) (31.12.2014=3 000),Hang Seng Stock Connect Hong Kong Index (note 2) (31.12.2014=3 000)
+HKMDS,202010,T0916A,stat,M091617,恒生港股通中小型股指數 (註釋 2) (31.12.2014=3 000),Hang Seng Stock Connect Hong Kong MidCap & SmallCap Index (note 2) (31.12.2014=3 000)
+HKMDS,202010,T0916A,stat,M091618,恒生港股通小型股指數 (註釋 2) (31.12.2014=3 000),Hang Seng Stock Connect Hong Kong SmallCap Index (note 2) (31.12.2014=3 000)
+HKMDS,202010,T0916A,class1,stksect,行業類別,Sector
+HKMDS,202010,T0916A,class1_code,stksect_01,金融,Finance
+HKMDS,202010,T0916A,class1_code,stksect_02,公用事業,Utilities
+HKMDS,202010,T0916A,class1_code,stksect_03,地產,Properties
+HKMDS,202010,T0916A,class1_code,stksect_04,工商業,Commerce and Industry
+HKMDS,202010,T0916A,class1,stkind,綜合行業,industry
+HKMDS,202010,T0916A,class1_code,stkind_01,能源業,Energy
+HKMDS,202010,T0916A,class1_code,stkind_02,原材料業,Materials
+HKMDS,202010,T0916A,class1_code,stkind_03,工業,Industrials
+HKMDS,202010,T0916A,class1_code,stkind_04,消費品製造業（於2019年9月9日終止發布）,Consumer Goods (discontinued on 9 September 2019)
+HKMDS,202010,T0916A,class1_code,stkind_05,消費者服務業（於2019年9月9日終止發布）,Consumer Services (discontinued on 9 September 2019)
+HKMDS,202010,T0916A,class1_code,stkind_06,電訊業,Telecommunications
+HKMDS,202010,T0916A,class1_code,stkind_07,公用事業,Utilities
+HKMDS,202010,T0916A,class1_code,stkind_08,金融業,Financials
+HKMDS,202010,T0916A,class1_code,stkind_09,地產建築業,Properties & Construction
+HKMDS,202010,T0916A,class1_code,stkind_10,資訊科技業,Information Technology
+HKMDS,202010,T0916A,class1_code,stkind_11,綜合企業,Conglomerates
+HKMDS,202010,T0916A,class1_code,stkind_12,非必需性消費,Consumer Discretionary
+HKMDS,202010,T0916A,class1_code,stkind_13,必需性消費,Consumer Staples
+HKMDS,202010,T0916A,class1_code,stkind_14,醫療保健業,Healthcare
+HKMDS,202010,T0916A,other_info,note_G1,按日指數代表當日的收市指數，而按年及按月指數代表期內最後一個交易日的收市指數。,Daily indexes refer to the closing indexes of that day while annual and monthly indexes refer to the last trading day closing indexes as at end of the period.
+HKMDS,202010,T0916A,other_info,source,恒生指數有限公司,Hang Seng Indexes Company Limited
+HKMDS,202010,T0916B,table,T0916B,表9.16：由恒生指數有限公司編製的選定指數 - (乙) 跨市場及內地上市,Table 9.16 : Selected indexes compiled by the Hang Seng Indexes Company Limited - (B) Cross-market and Mainland-listed
+HKMDS,202010,T0916B,stat,M091619,恒生神州50指數（美元） (3.1.2000=2 000),Hang Seng China 50 Index (USD) (3.1.2000=2 000)
+HKMDS,202010,T0916B,stat,M091620,恒生滬深港通AH股溢價指數 (註釋 1),Hang Seng Stock Connect China AH Premium Index (note 1)
+HKMDS,202010,T0916B,stat,M091621,恒生滬深港通AH股A+H指數 (註釋 1)（美元）(3.1.2006=1 000),Hang Seng Stock Connect China AH (A+H) Index (note 1) (USD) (3.1.2006=1 000)
+HKMDS,202010,T0916B,stat,M091622,恒生滬深港通AH股A指數 (註釋 1)（人民幣）(3.1.2006=1 000) ,Hang Seng Stock Connect China AH (A) Index (note 1) (CNY) (3.1.2006=1 000) 
+HKMDS,202010,T0916B,stat,M091623,恒生滬深港通AH股H指數 (註釋 1)（港幣）(3.1.2006=1 000),Hang Seng Stock Connect China AH (H) Index (note 1) (HKD) (3.1.2006=1 000) 
+HKMDS,202010,T0916B,stat,M091624,恒生A股行業龍頭指數（人民幣）(1.7.2005=1 000),Hang Seng China A Industry Top Index (CNY) (1.7.2005=1 000)
+HKMDS,202010,T0916B,stat,M091625,恒生內地及香港可持續發展企業指數（美元）(2.1.2008=3 000),Hang Seng (Mainland and HK) Corporate Sustainability Index (USD) (2.1.2008=3 000)
+HKMDS,202010,T0916B,other_info,note_G1,按日指數代表當日的收市指數，而按年及按月指數代表期內最後一個交易日的收市指數。,Daily indexes refer to the closing indexes of that day while annual and monthly indexes refer to the last trading day closing indexes as at end of the period.
+HKMDS,202010,T0916B,other_info,note_1,(註釋 1) 由2017年9月4日起，「恒生AH股溢價指數」、「恒生AH股A+H指數」、「恒生AH股A指數」和「恒生AH股H指數」分別重新命名為「恒生滬深港通AH股溢價指數」、「恒生滬深港通AH股A+H指數」、「恒生滬深港通AH股A指數」和「恒生滬深港通AH股H指數」。,"(note 1) As from 4 September 2017, ""Hang Seng China AH Premium Index"", ""Hang Seng China AH (A+H) Index"", ""Hang Seng China AH (A) Index"" and ""Hang Seng China AH (H) Index"" were renamed as ""Hang Seng Stock Connect China AH Premium Index"", ""Hang Seng Stock Connect China AH (A+H) Index"", ""Hang Seng Stock Connect China AH (A) Index"" and ""Hang Seng Stock Connect China AH (H) Index"" respectively."
+HKMDS,202010,T0916B,other_info,source,恒生指數有限公司,Hang Seng Indexes Company Limited
+HKMDS,202010,T0917,table,T0917,表9.17：標準普爾／香港交易所大型股指數、標準普爾／香港交易所GEM指數、成交金額及市場總值,"Table 9.17 : S&P/HKEX LargeCap Index, S&P/HKEX GEM Index, turnover and market capitalisation"
+HKMDS,202010,T0917,stat,M091701,主板 - 標準普爾／香港交易所大型股指數 (28.2.2003=10 000),Main Board - S&P/HKEX LargeCap Index (28.2.2003=10 000)
+HKMDS,202010,T0917,stat,M091702,主板 - 成交金額 [百萬港元],Main Board - Turnover [HK$ million]
+HKMDS,202010,T0917,stat,M091703,主板 - 巿價總值 (期末數字) [百萬港元],Main Board - Market capitalisation (end period figures) [HK$ million]
+HKMDS,202010,T0917,stat,M091704,GEM - 標準普爾／香港交易所GEM指數 (28.2.2003=1 000),GEM - S&P/HKEX GEM Index (28.2.2003=1 000)
+HKMDS,202010,T0917,stat,M091705,GEM - 成交金額 [百萬港元],GEM - Turnover [HK$ million]
+HKMDS,202010,T0917,stat,M091706,GEM - 巿價總值 (期末數字) [百萬港元],GEM - Market capitalisation (end period figures) [HK$ million]
+HKMDS,202010,T0917,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202010,T0917,other_info,note_G1,按日指數代表當日的收市指數，而按年及按月指數代表期內最後一個交易日的收市指數。,Daily indexes refer to the closing indexes of that day while annual and monthly indexes refer to the last trading day closing indexes as at end of the period.
+HKMDS,202010,T0917,other_info,source,香港交易及結算所有限公司,Hong Kong Exchanges and Clearing Limited
+HKMDS,202010,T0918,table,T0918,表9.18：2020年9月份恒生指數成分股每日收市價,Table 9.18 : Daily closing prices of the Hang Seng Index constituent stocks in September 2020
+HKMDS,202010,T0918,stat,M091801,恒生指數成分股每日收市價 (當日收市) [元],Daily closing prices of the Hang Seng Index constituent stocks (as at end of day) [$]
+HKMDS,202010,T0918,class1,hsics,行業類別,Type of industry
+HKMDS,202010,T0918,class1_code,hsics_0101,金融 - 友邦保險,Finance - AIA
+HKMDS,202010,T0918,class1_code,hsics_0102,金融 - 中國銀行,Finance - Bank of China
+HKMDS,202010,T0918,class1_code,hsics_0103,金融 - 交通銀行,Finance - Bankcomm
+HKMDS,202010,T0918,class1_code,hsics_0104,金融 - 中銀香港,Finance - BOC Hong Kong
+HKMDS,202010,T0918,class1_code,hsics_0105,金融 - 建設銀行,Finance - CCB
+HKMDS,202010,T0918,class1_code,hsics_0106,金融 - 中國人壽,Finance - China Life
+HKMDS,202010,T0918,class1_code,hsics_0107,金融 - 恒生銀行,Finance - Hang Seng Bank
+HKMDS,202010,T0918,class1_code,hsics_0108,金融 - 香港交易所,Finance - HKEX
+HKMDS,202010,T0918,class1_code,hsics_0109,金融 - 滙豐控股,Finance - HSBC Holdings
+HKMDS,202010,T0918,class1_code,hsics_0110,金融 - 工商銀行,Finance - ICBC
+HKMDS,202010,T0918,class1_code,hsics_0111,金融 - 中國平安,Finance - Ping An
+HKMDS,202010,T0918,class1_code,hsics_0201,公用事業 - 長江基建集團,Utilities - CKI Holdings
+HKMDS,202010,T0918,class1_code,hsics_0202,公用事業 - 中電控股,Utilities - CLP Holdings
+HKMDS,202010,T0918,class1_code,hsics_0203,公用事業 - 香港中華煤氣,Utilities - HK & China Gas
+HKMDS,202010,T0918,class1_code,hsics_0204,公用事業 - 電能實業,Utilities - Power Assets
+HKMDS,202010,T0918,class1_code,hsics_0301,地產 - 中國海外發展,Properties - China Overseas
+HKMDS,202010,T0918,class1_code,hsics_0302,地產 - 華潤置地,Properties - China Res Land
+HKMDS,202010,T0918,class1_code,hsics_0303,地產 - 長實集團,Properties - CK Asset
+HKMDS,202010,T0918,class1_code,hsics_0304,地產 - 碧桂園,Properties - Country Garden
+HKMDS,202010,T0918,class1_code,hsics_0305,地產 - 恒隆地產,Properties - Hang Lung Ppt
+HKMDS,202010,T0918,class1_code,hsics_0306,地產 - 恒基地產,Properties - Henderson Land
+HKMDS,202010,T0918,class1_code,hsics_0307,地產 - 領展房產基金,Properties - Link REIT
+HKMDS,202010,T0918,class1_code,hsics_0308,地產 - 新世界發展,Properties - New World Dev
+HKMDS,202010,T0918,class1_code,hsics_0309,地產 - 新鴻基地產,Properties - SHK Ppt
+HKMDS,202010,T0918,class1_code,hsics_0310,地產 - 信和置業,Properties - Sino Land
+HKMDS,202010,T0918,class1_code,hsics_0311,地產 - 九龍倉置業,Properties - Wharf REIC
+HKMDS,202010,T0918,class1_code,hsics_0401,工商業 - 瑞聲科技,Commerce and Industry - AAC Tech
+HKMDS,202010,T0918,class1_code,hsics_0402,工商業 - 中國移動,Commerce and Industry - China Mobile
+HKMDS,202010,T0918,class1_code,hsics_0403,工商業 - 中國神華,Commerce and Industry - China Shenhua
+HKMDS,202010,T0918,class1_code,hsics_0404,工商業 - 中國聯通,Commerce and Industry - China Unicom
+HKMDS,202010,T0918,class1_code,hsics_0405,工商業 - 中信股份,Commerce and Industry - CITIC
+HKMDS,202010,T0918,class1_code,hsics_0406,工商業 - 長和,Commerce and Industry - CKH Holdings
+HKMDS,202010,T0918,class1_code,hsics_0407,工商業 - 中國海洋石油,Commerce and Industry - CNOOC
+HKMDS,202010,T0918,class1_code,hsics_0408,工商業 - 石藥集團,Commerce and Industry - CSPC Pharma
+HKMDS,202010,T0918,class1_code,hsics_0409,工商業 - 銀河娛樂,Commerce and Industry - Galaxy Ent
+HKMDS,202010,T0918,class1_code,hsics_0410,工商業 - 吉利汽車,Commerce and Industry - Geely Auto
+HKMDS,202010,T0918,class1_code,hsics_0411,工商業 - 恒安國際,Commerce and Industry - Hengan Int'l
+HKMDS,202010,T0918,class1_code,hsics_0412,工商業 - 蒙牛乳業,Commerce and Industry - Mengniu Dairy
+HKMDS,202010,T0918,class1_code,hsics_0413,工商業 - 港鐵公司,Commerce and Industry - MTR Corporation
+HKMDS,202010,T0918,class1_code,hsics_0414,工商業 - 中國石油股份,Commerce and Industry - Petrochina
+HKMDS,202010,T0918,class1_code,hsics_0415,工商業 - 金沙中國有限公司,Commerce and Industry - Sands China Ltd
+HKMDS,202010,T0918,class1_code,hsics_0416,工商業 - 申洲國際,Commerce and Industry - Shenzhou Int'l
+HKMDS,202010,T0918,class1_code,hsics_0417,工商業 - 中國生物製藥,Commerce and Industry - Sino Biopharm
+HKMDS,202010,T0918,class1_code,hsics_0418,工商業 - 中國石油化工股份,Commerce and Industry - Sinopec Corp
+HKMDS,202010,T0918,class1_code,hsics_0419,工商業 - 舜宇光學科技,Commerce and Industry - Sunny Optical
+HKMDS,202010,T0918,class1_code,hsics_0420,工商業 - 太古股份公司A,Commerce and Industry - Swire Pacific A
+HKMDS,202010,T0918,class1_code,hsics_0421,工商業 - 創科實業,Commerce and Industry - Techtronic Ind
+HKMDS,202010,T0918,class1_code,hsics_0422,工商業 - 騰訊控股,Commerce and Industry - Tencent
+HKMDS,202010,T0918,class1_code,hsics_0423,工商業 - 中國旺旺,Commerce and Industry - Want Want China
+HKMDS,202010,T0918,class1_code,hsics_0424,工商業 - 萬洲國際,Commerce and Industry - WH Group
+HKMDS,202010,T0918,class1_code,hsics_0425,工商業 - 阿里巴巴-SW (註釋 1),Commerce and Industry - Alibaba Group-SW (note 1)
+HKMDS,202010,T0918,class1_code,hsics_0426,工商業 - 小米集團-W (註釋 1),Commerce and Industry - Xiaomi Corp-W (note 1)
+HKMDS,202010,T0918,class1_code,hsics_0427,工商業 - 藥明生物 (註釋 1),Commerce and Industry - Wuxi Biologics Inc (note 1)
+HKMDS,202010,T0918,other_info,note_1,(註釋 1) 恆生指數成份股於2020年9月7日有以下變動，阿里巴巴-SW、小米集團-W及藥明生物加入恆生指數，並剔除信和置業、中國旺旺及中國神華。,"(note 1) The following constituent changes will be made to the Hang Seng Index starting from 7 September 2020: Alibaba Group-SW, Xiaomi Corp-W and WuXi Biologics Inc. are included while Sino Land, Want Want China and China Shenhua Energy are removed from the Hang Seng Index."
+HKMDS,202010,T0918,other_info,source,香港交易及結算所有限公司,Hong Kong Exchanges and Clearing Limited
+HKMDS,202010,T0919,table,T0919,表9.19：2020年9月份恒生指數期貨及期權,Table 9.19 : Hang Seng Index Futures and Options in September 2020
+HKMDS,202010,T0919,stat,M091901,恒生指數期貨總成交量 (當日收市) [張數],Total volume of Hang Seng Index Futures (as at end of day) [no. of contracts]
+HKMDS,202010,T0919,stat,M091902,小型恒生指數期貨總成交量 (當日收市) [張數],Total volume of Mini-Hang Seng Index Futures (as at end of day) [no. of contracts]
+HKMDS,202010,T0919,stat,M091903,恒生指數期貨未平倉合約 (當日收市) [張數],Open interest of Hang Seng Index Futures (as at end of day) [no. of contracts]
+HKMDS,202010,T0919,stat,M091904,小型恒生指數期貨未平倉合約 (當日收市) [張數],Open interest of Mini-Hang Seng Index Futures (as at end of day) [no. of contracts]
+HKMDS,202010,T0919,stat,M091905,恒生指數期貨結算價 - 2020年9月 (當日收市),Settlement prices of Hang Seng Index Futures - September 2020 (as at end of day)
+HKMDS,202010,T0919,stat,M091906,恒生指數期貨結算價 - 2020年10月 (當日收市),Settlement prices of Hang Seng Index Futures - October 2020 (as at end of day)
+HKMDS,202010,T0919,stat,M091907,恒生指數期權總成交量 (當日收市) [張數],Total volume of Hang Seng Index Options (as at end of day) [no. of contracts]
+HKMDS,202010,T0919,stat,M091908,恒生指數期權未平倉合約 (當日收市) [張數],Open interest of Hang Seng Index Options (as at end of day) [no. of contracts]
+HKMDS,202010,T0919,other_info,source,香港交易及結算所有限公司,Hong Kong Exchanges and Clearing Limited
+HKMDS,202010,T0920,table,T0920,表9.20：在香港交易所 (註釋 1) 上市的公司數目、總市值、收益率及市盈率,"Table 9.20 : Number of listed companies, market capitalisation, yield and price earning ratio of stocks listed on HKEX (note 1)"
+HKMDS,202010,T0920,stat,M092001,上市公司數目 (期末數字),Number of listed companies (as at end of period)
+HKMDS,202010,T0920,stat,M092002,主板所有股份的平均股息收益率 (期末數字) [%],Average dividend yield of all stocks on Main Board (as at end of period) [%]
+HKMDS,202010,T0920,stat,M092003,主板所有股份的平均市盈率 (期末數字),Average price earning ratio of all stocks on Main Board (as at end of period)
+HKMDS,202010,T0920,stat,M092004,上市公司總市值 (期末數字) [十億港元],Total market capitalisation of listed companies (as at end of period) [HK$ billion]
+HKMDS,202010,T0920,class1,market,股票市場類別,Type of stock market
+HKMDS,202010,T0920,class1_code,market_01,主板,Main Board
+HKMDS,202010,T0920,class1_code,market_02,GEM,GEM
+HKMDS,202010,T0920,class1_code,market_tt,總計,Total
+HKMDS,202010,T0920,class2,stock,股票類別,Type of stock
+HKMDS,202010,T0920,class2_code,stock_01,H 股,H Shares
+HKMDS,202010,T0920,class2_code,stock_02,其他,Others
+HKMDS,202010,T0920,class2_code,stock_tt,總計,Total
+HKMDS,202010,T0920,note_figure,(*),經修訂的數字,Revised figures
+HKMDS,202010,T0920,other_info,note_1,(註釋 1) 指香港交易及結算所有限公司。,(note 1) Denotes Hong Kong Exchanges and Clearing Limited.
+HKMDS,202010,T0920,other_info,source,香港交易及結算所有限公司,Hong Kong Exchanges and Clearing Limited
+HKMDS,202010,T0921,table,T0921,表9.21：金銀買賣報價,Table 9.21 : Gold and silver trading prices
+HKMDS,202010,T0921,stat,M092101,金銀買賣報價,Gold and silver trading prices
+HKMDS,202010,T0921,class1,gstype,金銀類別,Type of gold/silver
+HKMDS,202010,T0921,class1_code,gstype_01,99黃金 (以每兩港元計) (註釋 1),Tael gold bar (HK$/tael) (note 1)
+HKMDS,202010,T0921,class1_code,gstype_02,公斤條黃金 (以每克港元計) (註釋 2) ,Kilo gold bar (HK$/gram) (note 2)
+HKMDS,202010,T0921,class1_code,gstype_03,銀 (以每10安士港元計),Silver (HK$/10 oz.)
+HKMDS,202010,T0921,class2,tradp,報價,Trading prices
+HKMDS,202010,T0921,class2_code,tradp_01,開市,Opening
+HKMDS,202010,T0921,class2_code,tradp_02,收市,Closing
+HKMDS,202010,T0921,class2_code,tradp_03,最高,High
+HKMDS,202010,T0921,class2_code,tradp_04,最低,Low
+HKMDS,202010,T0921,other_info,note_1,(註釋 1)「 99 黃金」是成色 99 黃金（重量5兩）。,"(note 1) ""Tael gold bar"" refers to 99 fineness gold (5 taels in weight)."
+HKMDS,202010,T0921,other_info,note_2,(註釋 2) 「公斤條黃金」是成色999.9黃金（重量1千克），於2002年4月19日起開始買賣。,"(note 2) ""Kilo gold bar"" refers to 999.9 fineness gold (1 kilogram in weight) which started trading on 19 April 2002."
+HKMDS,202010,T0921,other_info,source,金銀業貿易場,The Chinese Gold and Silver Exchange Society
+HKMDS,202010,T0922,table,T0922,表9.22：2020年9月份金銀買賣報價,Table 9.22 : Gold and silver trading prices in September 2020
+HKMDS,202010,T0922,stat,M092201,金銀買賣報價,Gold and silver trading prices
+HKMDS,202010,T0922,class1,gstype,金銀類別,Type of gold/silver
+HKMDS,202010,T0922,class1_code,gstype_01,99黃金 (以每兩港元計) (註釋 1),Tael gold bar (HK$/tael) (note 1)
+HKMDS,202010,T0922,class1_code,gstype_02,公斤條黃金 (以每克港元計) (註釋 2) ,Kilo gold bar (HK$/gram) (note 2)
+HKMDS,202010,T0922,class1_code,gstype_03,銀 (以每10安士港元計),Silver (HK$/10 oz.)
+HKMDS,202010,T0922,class2,tradp,報價,Trading prices
+HKMDS,202010,T0922,class2_code,tradp_01,開市,Opening
+HKMDS,202010,T0922,class2_code,tradp_02,收市,Closing
+HKMDS,202010,T0922,class2_code,tradp_03,最高,High
+HKMDS,202010,T0922,class2_code,tradp_04,最低,Low
+HKMDS,202010,T0922,other_info,note_1,(註釋 1)「 99 黃金」是成色 99 黃金（重量5兩）。,"(note 1) ""Tael gold bar"" refers to 99 fineness gold (5 taels in weight)."
+HKMDS,202010,T0922,other_info,note_2,(註釋 2) 「公斤條黃金」是成色999.9黃金（重量1千克），於2002年4月19日起開始買賣。,"(note 2) ""Kilo gold bar"" refers to 999.9 fineness gold (1 kilogram in weight) which started trading on 19 April 2002."
+HKMDS,202010,T0922,other_info,source,金銀業貿易場,The Chinese Gold and Silver Exchange Society
+HKMDS,202010,T0923,table,T0923,表9.23：獲授權保險人、持牌保險經紀及持牌保險代理人數目,"Table 9.23 : Number of authorized insurers, licensed insurance brokers and licensed insurance agents"
+HKMDS,202010,T0923,stat,M092301,獲授權保險人數目 (期末數字),Number of authorized insurers (as at end of period)
+HKMDS,202010,T0923,stat,M092302,獲授權只經營再保險業務的保險人數目 (期末數字),Number of insurers authorized to carry on reinsurance business only (as at end of period)
+HKMDS,202010,T0923,stat,M092303,持牌保險經紀數目 (期末數字),Number of licensed insurance brokers (as at end of period)
+HKMDS,202010,T0923,stat,M092304,持牌保險代理人數目 (期末數字),Number of licensed insurance agents (as at end of period)
+HKMDS,202010,T0923,class1,bus,業務,Business
+HKMDS,202010,T0923,class1_code,bus_01,長期業務,Long term business only
+HKMDS,202010,T0923,class1_code,bus_02,一般業務,General business only
+HKMDS,202010,T0923,class1_code,bus_03,綜合業務,Composite business
+HKMDS,202010,T0923,class1_code,bus_tt,總計,Total
+HKMDS,202010,T0923,class1,licbroker,持牌保險經紀,Licensed insurance brokers
+HKMDS,202010,T0923,class1_code,licbroker_01,持牌保險經紀公司,Licensed insurance broker companies
+HKMDS,202010,T0923,class1_code,licbroker_02,持牌業務代表(經紀),Licensed technical representatives (Broker)
+HKMDS,202010,T0923,class1_code,licbroker_tt,總計,Total
+HKMDS,202010,T0923,class1,licagent,持牌保險代理人,Licensed insurance agents
+HKMDS,202010,T0923,class1_code,licagent_01,持牌個人保險代理,Licensed individual insurance agents
+HKMDS,202010,T0923,class1_code,licagent_02,持牌保險代理機構,Licensed insurance agencies
+HKMDS,202010,T0923,class1_code,licagent_03,持牌業務代表(代理人),Licensed technical representatives (Agent)
+HKMDS,202010,T0923,class1_code,licagent_tt,總計,Total
+HKMDS,202010,T0923,other_info,note_G1,保險業監管局於2019年9月23日接手三個自律規管機構的保險中介人規管工作。「獲授權保險經紀」、「業務代表／行政總裁」、「個人代理人」、「保險代理商」和「業務代表／負責人」分別重新命名為「持牌保險經紀公司」、「持牌業務代表(經紀)」、「持牌個人保險代理」、「持牌保險代理機構」和「持牌業務代表(代理人)」。,"Insurance Authority has taken over the regulation of insurance intermediaries from the three Self-Regulatory Organisations (SROs) with effect from 23 September 2019.  “Authorized insurance brokers”, “Technical representatives/Chief executives”, “Individual agents”, “Insurance agencies” and “Technical representatives/Responsible officers” were renamed as “Licensed insurance broker companies”, “Licensed technical representatives (Broker)”, “Licensed individual insurance agents”, “Licensed insurance agencies” and “Licensed technical representatives (Agent)” respectively."
+HKMDS,202010,T0923,other_info,source,保險業監管局,Insurance Authority
+HKMDS,202010,T0924A,table,T0924A,表9.24：強制性公積金（強積金）計劃業務 - (甲) 受託人、計劃及基金數目,"Table 9.24 : Business of Mandatory Provident Fund (MPF) Schemes - (A) Number of trustees, schemes and funds"
+HKMDS,202010,T0924A,stat,M092401,核准受託人數目 (註釋 1) (期末數字),Number of approved trustees (note 1) (as at end of period)
+HKMDS,202010,T0924A,stat,M092402,註冊計劃數目 (註釋 1) (期末數字),Number of registered schemes (note 1) (as at end of period)
+HKMDS,202010,T0924A,stat,M092403,核准成分基金數目 (註釋 1) (期末數字),Number of approved constituent funds (note 1) (as at end of period)
+HKMDS,202010,T0924A,stat,M092404,核准匯集投資基金數目 (期末數字),Number of approved pooled investment funds (as at end of period)
+HKMDS,202010,T0924A,stat,M092405,核准緊貼指數集體投資計劃數目 (期末數字),Number of approved index-tracking collective investment schemes (as at end of period)
+HKMDS,202010,T0924A,other_info,note_1,(註釋 1) 由 2020 年 4 月開始，核准受託人、註冊計劃及核准成分基金的數字已作出重列，不再包括只營運核准匯集投資基金而沒有營運任何強積金計劃的受託人及即將終止的計劃或基金。因此，2020 年 4 月或以後的數字不能與較早前的數字作直接比較。,"(note 1) Starting from April 2020, the figures for approved trustees, registered schemes and approved constituent funds have been restated to exclude the trustee which operates only approved pool investment funds and does not operate any MPF schemes and schemes or funds that are to be terminated.  Therefore, figures from April 2020 onwards are not directly comparable to earlier figures."
+HKMDS,202010,T0924A,other_info,source,強制性公積金計劃管理局,Mandatory Provident Fund Schemes Authority
+HKMDS,202010,T0924B,table,T0924B,表9.24：強制性公積金（強積金）計劃業務 - (乙) 強積金計劃的核准成分基金資產淨值 (註釋 2),Table 9.24 : Business of Mandatory Provident Fund (MPF) Schemes - (B) Net asset values (note 2) of approved constituent funds of MPF Schemes
+HKMDS,202010,T0924B,stat,M092406,強積金計劃的核准成分基金資產淨值 (註釋 2) (期末數字)  [百萬港元],Net asset values (note 2) of approved constituent funds of MPF Schemes (as at end of period) [HK$ million]
+HKMDS,202010,T0924B,class1,fund,基金類別,Type of funds
+HKMDS,202010,T0924B,class1_code,fund_01,股票基金,Equity fund
+HKMDS,202010,T0924B,class1_code,fund_02,混合資產基金,Mixed assets fund
+HKMDS,202010,T0924B,class1_code,fund_03,貨幣市場基金 - 強積金保守基金,Money market fund - MPF conservative fund
+HKMDS,202010,T0924B,class1_code,fund_04,保證基金,Guaranteed fund
+HKMDS,202010,T0924B,class1_code,fund_05,債券基金,Bond fund
+HKMDS,202010,T0924B,class1_code,fund_06,貨幣市場基金 - 不包括強積金保守基金,Money market fund - other than MPF conservative fund
+HKMDS,202010,T0924B,class1_code,fund_tt,總計,Total
+HKMDS,202010,T0924B,other_info,note_2,(註釋 2) 數字包括從職業退休計劃轉移過來的資產。,(note 2) Figures include assets transferred from the Occupational Retirement Schemes.
+HKMDS,202010,T0924B,other_info,source,強制性公積金計劃管理局,Mandatory Provident Fund Schemes Authority

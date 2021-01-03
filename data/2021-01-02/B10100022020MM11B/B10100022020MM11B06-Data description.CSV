@@ -1,0 +1,151 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,202011,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,202011,,issue,202011,期號：2020年11月,Issue : November 2020
+HKMDS,202011,T0601,table,T0601,表6.1：工業生產指數,Table 6.1 : Index of industrial production
+HKMDS,202011,T0601,stat,M060101,工業生產指數 (2015年=100),Index of industrial production (Year 2015=100)
+HKMDS,202011,T0601,stat,M060102,污水處理、廢棄物管理及污染防治活動工業生產指數,"Index of sewerage, waste management and remediation activities"
+HKMDS,202011,T0601,class1,ipind,行業,Industries
+HKMDS,202011,T0601,class1_code,ipind_0101,製造 - 食品、飲品及煙草製品,"Manufacturing - Food, beverages and tobacco"
+HKMDS,202011,T0601,class1_code,ipind_0102,製造 - 紡織製品及成衣,Manufacturing - Textiles and wearing apparel
+HKMDS,202011,T0601,class1_code,ipind_0103,製造 - 紙製品、印刷及已儲錄資料媒體的複製,"Manufacturing - Paper products, printing and reproduction of recorded media"
+HKMDS,202011,T0601,class1_code,ipind_0104,製造 - 金屬、電腦、電子及光學產品、機械及設備,"Manufacturing - Metal, computer, electronic and optical products, machinery and equipment"
+HKMDS,202011,T0601,class1_code,ipind_0105,製造 - 其他製造行業,Manufacturing - Miscellaneous manufacturing industries
+HKMDS,202011,T0601,class1_code,ipind_01tt,製造 - 所有製造行業,Manufacturing - All manufacturing industries
+HKMDS,202011,T0601,class1_code,ipind_02,污水處理、廢棄物管理及污染防治活動,"Sewerage, waste management and remediation activities"
+HKMDS,202011,T0601,other_info,note_G1,工業生產指數以環比連接法編製。由2019年第2季度開始，按選定行業組別劃分的工業生產指數已重訂參照年，以2015年作為新的參照年，取代過去2008年的參照年。重訂參照年不會影響統計表內的按年變動率。,"The indices of industrial production are compiled based on the chain-linking approach.  Starting from Q2 2019, indices of industrial production by selected industry grouping have been re-referenced, taking year 2015 as the new reference period in place of the previous reference year of 2008.  The re-referencing does not affect their year-on-year rates of change contained in this statistical table."
+HKMDS,202011,T0601,other_info,source,政府統計處工業生產統計組,"Industrial Production Statistics Section, Census and Statistics Department"
+HKMDS,202011,T0602,table,T0602,表6.2：經季節性調整的製造業工業生產指數的變動百分率,Table 6.2 : Rate of change in the seasonally adjusted index of industrial production for manufacturing industries
+HKMDS,202011,T0602,stat,M060201,經季節性調整的指數與上季比較的變動率 [%],Rate of change in the seasonally adjusted index over the preceding quarter [%]
+HKMDS,202011,T0602,other_info,note_G1,經季節性調整數列是由「X-12 自迴歸 ─ 求和 ─ 移動平均」(X-12 ARIMA) 方法編製，該方法是用作編製經季節性調整的統計數列的標準方法。,"The seasonally adjusted series is compiled using the ""X-12 ARIMA"" method, which is a standard method applied in compiling seasonally adjusted statistical data series."
+HKMDS,202011,T0603,figure,§,變動在±0.05%之內。,Change within ±0.05%.
+HKMDS,202011,T0602,other_info,source,政府統計處工業生產統計組,"Industrial Production Statistics Section, Census and Statistics Department"
+HKMDS,202011,T0603,table,T0603,表6.3：石礦生產,Table 6.3 : Quarry production
+HKMDS,202011,T0603,stat,M060301,石礦產量 [公噸],Quarry production [Tonnes]
+HKMDS,202011,T0603,other_info,source,土木工程拓展署,Civil Engineering and Development Department
+HKMDS,202011,T0604,table,T0604,表6.4：屋宇建造及土木工程機構單位所完成工程名義總值,"Table 6.4 : Gross value of construction works, in nominal terms, performed by building and civil engineering establishments"
+HKMDS,202011,T0604,stat,M060401,主要承建商所完成工程名義總值 [百萬元],"Gross value of construction works, in nominal terms, performed by main contractors [$ million]"
+HKMDS,202011,T0604,stat,M060402,主要承建商所完成工程名義總值 - 經季節性調整的總計 (註釋 1) [百萬元],"Gross value of construction works, in nominal terms, performed by main contractors - Seasonally adjusted overall total (note 1) [$ million]"
+HKMDS,202011,T0604,class1,cwloc,是否於建築地盤,At construction sites or not
+HKMDS,202011,T0604,class2,site,建築地盤,Construction sites
+HKMDS,202011,T0604,class1_code,cwloc_01,於建築地盤,At construction sites
+HKMDS,202011,T0604,class1_code,cwloc_02,於非地盤,At locations other than sites
+HKMDS,202011,T0604,class1_code,cwloc_tt,總計,Overall total
+HKMDS,202011,T0604,class2_code,site_01,樓宇,Buildings
+HKMDS,202011,T0604,class2_code,site_02,其他建築物及設施,Structure & facilities
+HKMDS,202011,T0604,class2_code,site_tt,總計,Total
+HKMDS,202011,T0604,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0604,other_info,note_G1,主要承建商所完成工程名義總值是指該等建造業機構作為主要承建商時所完成的工程總值，而不包括其作為分判承建商時所完成的工程總值。,"The gross value of construction works, in nominal terms, performed by main contractors refers to the construction output of projects in which they take the role of main contractors, and does not include the construction output of projects in which they take the role of subcontractors."
+HKMDS,202011,T0604,other_info,note_1,(註釋 1) 只適用於按季統計數字。,(note 1) Applicable to quarterly statistics only.
+HKMDS,202011,T0604,other_info,source,政府統計處建造及雜項服務統計組,"Construction and Miscellaneous Services Statistics Section, Census and Statistics Department"
+HKMDS,202011,T0605,table,T0605,表6.5：零售業銷貨額,Table 6.5 : Retail sales
+HKMDS,202011,T0605,stat,M060501,零售業總銷貨價值 [百萬元],Value of total retail sales [$ million]
+HKMDS,202011,T0605,stat,M060502,零售業銷貨價值指數 (2014年10月至2015年9月期內的平均每月指數=100),Value index of retail sales (Average monthly index from October 2014 to September 2015=100)
+HKMDS,202011,T0605,stat,M060503,零售業銷貨數量指數(2014年10月至2015年9月期內的平均每月指數=100),Volume index of retail sales (Average monthly index from October 2014 to September 2015=100)
+HKMDS,202011,T0605,class1,retail,零售商類別,Retail outlets
+HKMDS,202011,T0605,class1_code,retail_tt,所有零售商類別,All retail outlets
+HKMDS,202011,T0605,class1_code,retail_01,食品、酒類飲品及煙草 (超級市場除外),"Food, alcoholic drinks and tobacco (other than supermarkets)"
+HKMDS,202011,T0605,class1_code,retail_0101,食品、酒類飲品及煙草 (超級市場除外) - 新鮮或急凍魚類及禽畜肉類,"Food, alcoholic drinks and tobacco (other than supermarkets) - Fish, livestock and poultry, fresh or frozen"
+HKMDS,202011,T0605,class1_code,retail_0102,食品、酒類飲品及煙草 (超級市場除外) - 新鮮蔬果,"Food, alcoholic drinks and tobacco (other than supermarkets) - Fruits and vegetables, fresh"
+HKMDS,202011,T0605,class1_code,retail_0103,食品、酒類飲品及煙草 (超級市場除外) - 麵包、糕餅、糖果及餅乾,"Food, alcoholic drinks and tobacco (other than supermarkets) - Bread, pastry, confectionery and biscuits"
+HKMDS,202011,T0605,class1_code,retail_0104,食品、酒類飲品及煙草 (超級市場除外) - 其他未分類食品,"Food, alcoholic drinks and tobacco (other than supermarkets) - Other food, not elsewhere classified"
+HKMDS,202011,T0605,class1_code,retail_0105,食品、酒類飲品及煙草 (超級市場除外) - 酒類飲品及煙草,"Food, alcoholic drinks and tobacco (other than supermarkets) - Alcoholic drinks and tobacco"
+HKMDS,202011,T0605,class1_code,retail_02,超級市場 (註釋 1),Supermarkets (note 1)
+HKMDS,202011,T0605,class1_code,retail_03,燃料,Fuels
+HKMDS,202011,T0605,class1_code,retail_04,衣物、鞋類及有關製品,"Clothing, footwear and allied products"
+HKMDS,202011,T0605,class1_code,retail_0401,衣物、鞋類及有關製品 - 服裝,"Clothing, footwear and allied products - Wearing apparel"
+HKMDS,202011,T0605,class1_code,retail_0402,衣物、鞋類及有關製品 - 鞋類、有關製品及其他衣物配件,"Clothing, footwear and allied products - Footwear, allied products and other clothing accessories"
+HKMDS,202011,T0605,class1_code,retail_05,耐用消費品,Consumer durable goods
+HKMDS,202011,T0605,class1_code,retail_0501,耐用消費品 - 汽車及汽車零件,Consumer durable goods - Motor vehicles and parts
+HKMDS,202011,T0605,class1_code,retail_0502,耐用消費品 - 傢具及固定裝置,Consumer durable goods - Furniture and fixtures
+HKMDS,202011,T0605,class1_code,retail_0503,耐用消費品 - 電器及其他未分類耐用消費品 ,Consumer durable goods - Electrical goods and other consumer durable goods not elsewhere classified
+HKMDS,202011,T0605,class1_code,retail_06,百貨公司 (註釋 1),Department stores (note 1)
+HKMDS,202011,T0605,class1_code,retail_07,珠寶首飾、鐘錶及名貴禮物,"Jewellery, watches and clocks, and valuable gifts"
+HKMDS,202011,T0605,class1_code,retail_08,其他消費品,Other consumer goods
+HKMDS,202011,T0605,class1_code,retail_0801,其他消費品 - 書報、文具及禮品,"Other consumer goods - Books, newspapers, stationery and gifts"
+HKMDS,202011,T0605,class1_code,retail_0802,其他消費品 - 中藥,Other consumer goods - Chinese drugs and herbs
+HKMDS,202011,T0605,class1_code,retail_0803,其他消費品 - 眼鏡店,Other consumer goods - Optical shops
+HKMDS,202011,T0605,class1_code,retail_0804,其他消費品 - 藥物及化妝品,Other consumer goods - Medicines and cosmetics
+HKMDS,202011,T0605,class1_code,retail_0805,其他消費品 - 其他未分類消費品,"Other consumer goods - Other consumer goods, not elsewhere classified"
+HKMDS,202011,T0605,class1_code,retail_09,超級市場及百貨公司內的超級市場部門,Supermarkets and supermarket sections of department stores
+HKMDS,202011,T0605,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0605,other_info,note_G1,某一年的零售業銷貨價值／數量指數是該年的按月零售業銷貨價值／數量指數的平均數。零售業銷貨數量指數是採用環比連接法編製，把價值指數內的物價變動因素扣除後所得。,The annual value/volume index of retail sales in a certain year is the average monthly value/volume index of retail sales in that year.  The volume index of retail sales is derived from the value index by adjusting for price changes and is compiled based on the chain-linking approach.
+HKMDS,202011,T0605,other_info,note_1,(註釋 1) 百貨公司內的超級市場部門的零售銷售，納入「百貨公司」類別計算。,"(note 1) Retail sales in supermarket sections of department stores are covered under ""Department stores""."
+HKMDS,202011,T0605,other_info,source,政府統計處經銷服務統計組,"Distribution Services Statistics Section, Census and Statistics Department"
+HKMDS,202011,T0606,table,T0606,表6.6：食肆的收益,Table 6.6 : Restaurant receipts
+HKMDS,202011,T0606,stat,M060601,食肆總收益價值 [百萬元],Value of total restaurant receipts [$ million]
+HKMDS,202011,T0606,stat,M060602,食肆收益價值指數 (2014年10月至2015年9月期內的平均指數=100),Value index of restaurant receipts (Average index from October 2014 to September 2015=100)
+HKMDS,202011,T0606,stat,M060603,食肆收益數量指數 (2014年10月至2015年9月期內的平均指數=100),Volume index of restaurant receipts (Average index from October 2014 to September 2015=100)
+HKMDS,202011,T0606,class1,rest,食肆類別,Type of restaurants
+HKMDS,202011,T0606,class1_code,rest_tt,所有食肆,All restaurants
+HKMDS,202011,T0606,class1_code,rest_01,中式餐館,Chinese restaurants
+HKMDS,202011,T0606,class1_code,rest_02,非中式餐館,Non-Chinese restaurants
+HKMDS,202011,T0606,class1_code,rest_03,快餐店,Fast food shops
+HKMDS,202011,T0606,class1_code,rest_04,酒吧,Bars
+HKMDS,202011,T0606,class1_code,rest_05,雜類飲食場所,Miscellaneous eating and drinking places
+HKMDS,202011,T0606,class2,perd,頻次,Frequency
+HKMDS,202011,T0606,class2_code,perd_01,按年及按季數字,Annual and quarterly figures
+HKMDS,202011,T0606,class2_code,perd_02,按月數字,Monthly figures
+HKMDS,202011,T0606,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0606,other_info,note_G1,某一年的食肆收益價值／數量指數是該年的季度食肆收益價值／數量指數的平均數。食肆收益數量指數是採用環比連接法編製，把價值指數內的物價變動因素扣除後所得。,The annual value/volume index of restaurant receipts in a certain year is the average of the quarterly value/volume indices of restaurant receipts in that year.  The volume index of restaurant receipts is derived from the value index by adjusting for price changes and is compiled based on the chain-linking approach.
+HKMDS,202011,T0606,other_info,source,"政府統計處經銷服務統計組
+","Distribution Services Statistics Section, Census and Statistics Department"
+HKMDS,202011,T0607,table,T0607,表6.7：業務收益指數,Table 6.7 : Business Receipts Indices
+HKMDS,202011,T0607,stat,M060701,業務收益指數 (2015年按季平均指數=100),Business Receipts Indices (Quarterly average of 2015=100)
+HKMDS,202011,T0607,class1,part,部分,Part
+HKMDS,202011,T0607,class1_code,part_01,甲部：服務行業統計數字,Part A : Statistics for service industries
+HKMDS,202011,T0607,class1_code,part_02,乙部：服務界別統計數字,Part B : Statistics for service domains
+HKMDS,202011,T0607,class2,brind,行業,Industry
+HKMDS,202011,T0607,class2_code,brind_01,進出口貿易,Import/export trade
+HKMDS,202011,T0607,class2_code,brind_02,批發,Wholesale
+HKMDS,202011,T0607,class2_code,brind_03,零售,Retail
+HKMDS,202011,T0607,class2_code,brind_04,運輸,Transportation
+HKMDS,202011,T0607,class2_code,brind_0401,運輸 - 陸路運輸,Transportation - Land transport
+HKMDS,202011,T0607,class2_code,brind_0402,運輸 - 水上運輸,Transportation - Water transport
+HKMDS,202011,T0607,class2_code,brind_0403,運輸 - 航空運輸,Transportation - Air transport
+HKMDS,202011,T0607,class2_code,brind_05,貨倉及倉庫,Warehousing and storage
+HKMDS,202011,T0607,class2_code,brind_06,速遞,Courier
+HKMDS,202011,T0607,class2_code,brind_07,住宿服務 (註釋 1),Accommodation services (note 1) 
+HKMDS,202011,T0607,class2_code,brind_08,膳食服務,Food services
+HKMDS,202011,T0607,class2_code,brind_09,資訊及通訊,Information and communications
+HKMDS,202011,T0607,class2_code,brind_0901,資訊及通訊 - 電訊,Information and communications - Telecommunications
+HKMDS,202011,T0607,class2_code,brind_0902,資訊及通訊 - 電影,Information and communications - Film entertainment
+HKMDS,202011,T0607,class2_code,brind_10,銀行,Banking
+HKMDS,202011,T0607,class2_code,brind_11,金融 (銀行除外),Financing (except banking)
+HKMDS,202011,T0607,class2_code,brind_1101,金融 (銀行除外) - 金融市場及資產管理,Financing (except banking) - Financial markets and asset management 
+HKMDS,202011,T0607,class2_code,brind_110101,金融 (銀行除外) - 金融市場及資產管理 - 資產管理,Financing (except banking) - Financial markets and asset management - Asset management 
+HKMDS,202011,T0607,class2_code,brind_12,保險,Insurance
+HKMDS,202011,T0607,class2_code,brind_13,地產 (註釋 2),Real estate (note 2)
+HKMDS,202011,T0607,class2_code,brind_14,專業、科學及技術服務,"Professional, scientific and technical services"
+HKMDS,202011,T0607,class2_code,brind_15,行政及支援服務,Administrative and support services
+HKMDS,202011,T0607,class2,domain,服務界別,Service domains
+HKMDS,202011,T0607,class2_code,domain_01,旅遊、會議及展覽服務,"Tourism, convention and exhibition services"
+HKMDS,202011,T0607,class2_code,domain_02,電腦及資訊科技服務,Computer and information technology services
+HKMDS,202011,T0607,note_figure,(#),臨時數字,Provisional figures
+HKMDS,202011,T0607,other_info,note_G2,由2019年第1季度開始，服務行業及服務界別的業務收益指數已重訂參照年，以2015年作為新的參照年，取代過去的2008年參照年。重訂參照年不會影響統計表內的按年變動百分率。,"Starting from Q1 2019, business receipts indices of service industries and service domains have been re-referenced, taking year 2015 as the new reference period in place of the previous reference year of 2008.  The re-referencing does not affect their year-on-year percentage changes contained in this statistical table."
+HKMDS,202011,T0607,other_info,note_1,(註釋 1) 住宿服務包括酒店、賓館、旅舍及其他提供短期住宿服務的機構單位。,"(note 1) Accommodation services cover hotels, guesthouses, boarding houses and other establishments providing short term accommodation."
+HKMDS,202011,T0607,other_info,note_2,(註釋 2) 自2019年第1季的統計季度開始，地產行業的涵蓋範圍已有所增加，新的數列已作出後向估計至2012年第1季。如有需要，用戶可索取以2008年作參考年度編製至2019年第4季的相關舊數列。,"(note 2) The coverage of the real estate industry has been enhanced since the reference quarter of Q1 2019 and the new series has been backcasted to Q1 2012.  The old series with 2008 as the reference year with the relevant figures compiled up till Q4 2019 can be provided to users upon request, if needed."
+HKMDS,202011,T0607,other_info,source,"政府統計處商業服務統計組
+","Business Services Statistics Section, Census and Statistics Department"
+HKMDS,202011,T0608,table,T0608,表6.8：本地公司及在本港以外成立為法團的公司：登記、清盤及解散數目,"Table 6.8 : Local companies and companies incorporated outside Hong Kong : number registered, wound-up and dissolved"
+HKMDS,202011,T0608,stat,M060801,註冊成立的本地公司 (在期內的數目),Local companies incorporated (number during the period)
+HKMDS,202011,T0608,stat,M060802,解散的本地公司總數 (在期內的數目),Total number of local companies dissolved (number during the period)
+HKMDS,202011,T0608,stat,M060803,仍在公司登記冊上註冊的本地公司 (在期末的數目),Local companies remained registered in the Companies Register (number at end of the period)
+HKMDS,202011,T0608,stat,M060804,本地公司的清盤 (在期內的數目) - 自動清盤 - 清盤開始 - 股東自動清盤,Liquidation of local companies (number during the period) - Voluntary winding-up - Commencement - Members' voluntary winding-up
+HKMDS,202011,T0608,stat,M060805,本地公司的清盤 (在期內的數目) - 自動清盤 - 清盤開始 - 債權人自動清盤,Liquidation of local companies (number during the period) - Voluntary winding-up - Commencement - Creditors' voluntary winding-up
+HKMDS,202011,T0608,stat,M060806,本地公司的清盤 (在期內的數目) - 自動清盤 - 公司解散 - 股東自動清盤,Liquidation of local companies  (number during the period) - Voluntary winding-up - Dissolution - Members' voluntary winding-up
+HKMDS,202011,T0608,stat,M060807,本地公司的清盤 (在期內的數目) - 自動清盤 - 公司解散 - 債權人自動清盤,Liquidation of local companies (number during the period) - Voluntary winding-up - Dissolution - Creditors' voluntary winding-up
+HKMDS,202011,T0608,stat,M060808,本地公司的清盤 (在期內的數目) - 強制清盤 - 提交的呈請書 (註釋 2) (註釋 3),Liquidation of local companies (number during the period) - Compulsory winding-up - Petitions presented (note 2) (note 3)
+HKMDS,202011,T0608,stat,M060809,本地公司的清盤 (在期內的數目) - 強制清盤 - 發出的清盤令 (註釋 2) (註釋 3),Liquidation of local companies (number during the period) - Compulsory winding-up - Winding-up Orders made (note 2) (note 3)
+HKMDS,202011,T0608,stat,M060810,在本港以外成立為法團並在本港設有營業地點的公司 - 新註冊在本港設有營業地點的公司數目 (在期內的數目),Companies incorporated outside Hong Kong having a place of business in Hong Kong - No. of companies newly registered as having a place of business in Hong Kong (number during the period)
+HKMDS,202011,T0608,stat,M060811,在本港以外成立為法團並在本港設有營業地點的公司 - 不再在本港設有營業地點╱已解散的公司數目 (在期內的數目),Companies incorporated outside Hong Kong having a place of business in Hong Kong - No. of companies ceased to have a place of business in Hong Kong/dissolved (number during the period)
+HKMDS,202011,T0608,stat,M060812,在本港以外成立為法團並在本港設有營業地點的公司 - 仍在公司登記冊上註冊的公司數目 (在期末的數目),Companies incorporated outside Hong Kong having a place of business in Hong Kong - Total number of companies remained registered in the Companies Register (number at end of the period)
+HKMDS,202011,T0608,class1,lcomp,本地公司類別,Type of local companies
+HKMDS,202011,T0608,class2_code,lcomp_01,公眾公司,Public companies
+HKMDS,202011,T0608,class2_code,lcomp_02,私人公司,Private companies
+HKMDS,202011,T0608,class2_code,lcomp_03,擔保有限公司 (註釋 1),Companies limited by guarantee (note 1)
+HKMDS,202011,T0608,class2_code,lcomp_tt,總數,Total
+HKMDS,202011,T0608,other_info,note_1,(註釋 1) 新《公司條例》(第622章) 於2014年3月3日生效。在新《公司條例》下，擔保有限公司成為獨立的公司類別。,"(note 1) The new Companies Ordinance (Cap. 622) has commenced operation on 3 March 2014.  Under the new Companies Ordinance, companies limited by guarantee become a separate category of companies."
+HKMDS,202011,T0608,other_info,note_2,(註釋 2) 由於法院的特別上班安排，因而導致於2020年1月29日至2020年2月28日期間沒有呈請書提交及沒有破產令／清盤令頒布。,"(note 2) Due to the special work arrangement of the Court, no petition was presented and no order was made during the period from 29 January 2020 to 28 February 2020."
+HKMDS,202011,T0608,other_info,note_3,(註釋 3) 司法機構在2020年3月及4月實施特別上班安排，除法院指定的緊急和必要的事務外，高等法院登記處一般保持關閉而所有在法院進行的聆訊亦一般被延期有關安排導致該期間提交的呈請書數目以及頒布的破產令和清盤令數目有所波動。2020年3月及4月的相關數據亦因而受到影響。司法機構由2020年5月起恢復正常服務。,"(note 3) The statistics for March and April 2020 have been affected by the special work arrangements of the Judiciary that have been put in place during the period, including general closure of the High Court Registry and adjournment of all court hearing unless for those urgent and essential businesses as directed by the court, which result in fluctuation in the number of petitions presented and orders made for both bankruptcy and winding-up in the relevant period.  Since May 2020, the Judiciary has resumed normal services."
+HKMDS,202011,T0608,other_info,source,"公司註冊處；破產管理署
+",Companies Registry; Official Receiver's Office

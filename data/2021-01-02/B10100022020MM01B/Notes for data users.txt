@@ -1,0 +1,35 @@
+﻿Notes for data users
+
+This dataset comprises data of statistical tables in the January 2020 issue of Hong Kong Monthly Digest of Statistics(https://www.censtatd.gov.hk/hkstat/sub/sp460.jsp?productCode=B1010002), which was released on 15 January 2020.
+
+For each of the 11 sections of the Digest, data of all statistical tables of the section are kept in two comma-separated values (CSV) files, with filename containing "Data master" or "Data description".
+
+The CSV files of "Data master" contain the codes of statistical and classification variables, the reference year and period, the corresponding value and symbols of related notes.
+
+The CSV files of "Data description" contain the detailed descriptions in both Chinese and English for the codes together with other information of the statistical tables, such as footnotes and data sources.
+
+List of CSV files:
+B10100022020MM01B01-Data master.CSV
+B10100022020MM01B01-Data description.CSV
+B10100022020MM01B02-Data master.CSV
+B10100022020MM01B02-Data description.CSV
+B10100022020MM01B03-Data master.CSV
+B10100022020MM01B03-Data description.CSV
+B10100022020MM01B04-Data master.CSV
+B10100022020MM01B04-Data description.CSV
+B10100022020MM01B05-Data master.CSV
+B10100022020MM01B05-Data description.CSV
+B10100022020MM01B06-Data master.CSV
+B10100022020MM01B06-Data description.CSV
+B10100022020MM01B07-Data master.CSV
+B10100022020MM01B07-Data description.CSV
+B10100022020MM01B08-Data master.CSV
+B10100022020MM01B08-Data description.CSV
+B10100022020MM01B09-Data master.CSV
+B10100022020MM01B09-Data description.CSV
+B10100022020MM01B10-Data master.CSV
+B10100022020MM01B10-Data description.CSV
+B10100022020MM01B11-Data master.CSV
+B10100022020MM01B11-Data description.CSV
+
+Last revision date : 17 January 2019

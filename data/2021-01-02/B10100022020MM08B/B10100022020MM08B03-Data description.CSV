@@ -1,0 +1,135 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,202008,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,202008,,issue,202008,期號：2020年8月,Issue : August 2020
+HKMDS,202008,T0301,table,T0301,表3.1：對外商品貿易統計數字,Table 3.1 : External merchandise trade statistics
+HKMDS,202008,T0301,stat,M030101,進口 [百萬元],Imports [$ million]
+HKMDS,202008,T0301,stat,M030102,整體出口 [百萬元],Total exports [$ million]
+HKMDS,202008,T0301,stat,M030103,貿易總額 [百萬元],Total trade [$ million]
+HKMDS,202008,T0301,stat,M030104,商品貿易差額 [百萬元],Merchandise trade balance [$ million]
+HKMDS,202008,T0301,stat,M030105,同年累積進口總額 [百萬元],Year to date imports [$ million]
+HKMDS,202008,T0301,stat,M030106,與上年同期比較的同年累積進口總額變動 [%],Change of year to date imports over same period in preceding year [%]
+HKMDS,202008,T0301,stat,M030107,最近12個月累積進口總額 [百萬元],12 months to date imports [$ million]
+HKMDS,202008,T0301,stat,M030108,與上年同期比較的最近12個月累積進口總額變動 [%],Change of 12 months to date imports over same period in preceding year [%]
+HKMDS,202008,T0301,stat,M030109,同年累積整體出口總額 [百萬元],Year to date total exports [$ million]
+HKMDS,202008,T0301,stat,M030110,與上年同期比較的同年累積整體出口總額變動 [%],Change of year to date total exports over same period in preceding year [%]
+HKMDS,202008,T0301,stat,M030111,最近12個月累積整體出口總額 [百萬元],12 months to date total exports [$ million]
+HKMDS,202008,T0301,stat,M030112,與上年同期比較的最近12個月累積整體出口總額變動 [%],Change of 12 months to date total exports over same period in preceding year [%]
+HKMDS,202008,T0301,stat,M030113,同年累積貿易總額 [百萬元],Year to date total trade [$ million]
+HKMDS,202008,T0301,stat,M030114,與上年同期比較的同年累積貿易總額變動 [%],Change of year to date total trade over same period in preceding year [%]
+HKMDS,202008,T0301,stat,M030115,最近12個月累積貿易總額 [百萬元],12 months to date total trade [$ million]
+HKMDS,202008,T0301,stat,M030116,與上年同期比較的最近12個月累積貿易總額變動 [%],Change of 12 months to date total trade over same period in preceding year [%]
+HKMDS,202008,T0301,other_info,note_G1,由於較早月份的有關調整只會納入累積總數，因此，個別月份數字的總和與累積總數未必相同。,The sums of the monthly figures may differ from the cumulative totals because adjustments relating to earlier months are incorporated in the cumulative totals only.
+HKMDS,202008,T0301,other_info,source,"政府統計處貿易資料分析組
+","Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0302,table,T0302,表3.2：按主要供應地劃分的商品進口,Table 3.2 : Imports of goods by main supplier
+HKMDS,202008,T0302,stat,M030201,商品進口 [百萬元],Imports of goods [$ million]
+HKMDS,202008,T0302,class1,mainSupp,主要供應地,Main supplier
+HKMDS,202008,T0302,class1_code,mainSupp_01,中國內地,The mainland of China
+HKMDS,202008,T0302,class1_code,mainSupp_02,台灣,Taiwan
+HKMDS,202008,T0302,class1_code,mainSupp_03,新加坡,Singapore
+HKMDS,202008,T0302,class1_code,mainSupp_04,韓國,Korea
+HKMDS,202008,T0302,class1_code,mainSupp_05,日本,Japan
+HKMDS,202008,T0302,class1_code,mainSupp_06,美國,United States of America
+HKMDS,202008,T0302,class1_code,mainSupp_07,馬來西亞,Malaysia
+HKMDS,202008,T0302,class1_code,mainSupp_08,印度,India
+HKMDS,202008,T0302,class1_code,mainSupp_09,泰國,Thailand
+HKMDS,202008,T0302,class1_code,mainSupp_10,菲律賓,Philippines
+HKMDS,202008,T0302,class1_code,mainSupp_11,越南,Vietnam
+HKMDS,202008,T0302,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0303,table,T0303,表3.3：按主要目的地劃分的商品整體出口,Table 3.3 : Total exports of goods by main destination
+HKMDS,202008,T0303,stat,M030301,商品整體出口 [百萬元],Total exports of goods [$ million]
+HKMDS,202008,T0303,class1,mainDest,主要目的地,Main destination
+HKMDS,202008,T0303,class1_code,mainDest_01,中國內地,The mainland of China
+HKMDS,202008,T0303,class1_code,mainDest_02,美國,United States of America
+HKMDS,202008,T0303,class1_code,mainDest_03,印度,India
+HKMDS,202008,T0303,class1_code,mainDest_04,日本,Japan
+HKMDS,202008,T0303,class1_code,mainDest_05,台灣,Taiwan
+HKMDS,202008,T0303,class1_code,mainDest_06,越南,Vietnam
+HKMDS,202008,T0303,class1_code,mainDest_07,德國,Germany
+HKMDS,202008,T0303,class1_code,mainDest_08,荷蘭,Netherlands
+HKMDS,202008,T0303,class1_code,mainDest_09,新加坡,Singapore
+HKMDS,202008,T0303,class1_code,mainDest_10,泰國,Thailand
+HKMDS,202008,T0303,class1_code,mainDest_11,韓國,Korea
+HKMDS,202008,T0303,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0304,table,T0304,表3.4：按貨品類別劃分的進口,Table 3.4 : Imports by commodity section
+HKMDS,202008,T0304,stat,M030401,進口 [百萬元],Imports [$ million]
+HKMDS,202008,T0304,class1,SITC,標準國際貿易分類（第4次修訂版）中的貨品類別,SITC Rev. 4 commodity section
+HKMDS,202008,T0304,class1_code,SITC_00,食物及活動物,Food and live animals
+HKMDS,202008,T0304,class1_code,SITC_01,飲料及煙草,Beverages and tobacco
+HKMDS,202008,T0304,class1_code,SITC_02,除燃料外的非食用未加工材料,"Crude materials, inedible, except fuels"
+HKMDS,202008,T0304,class1_code,SITC_03,礦物燃料、滑潤劑及有關物質,"Mineral fuels, lubricants and related materials"
+HKMDS,202008,T0304,class1_code,SITC_04,動物及植物油、脂肪及蠟,"Animal and vegetable oils, fats and waxes"
+HKMDS,202008,T0304,class1_code,SITC_05,未列明在其他編號的化學品及有關產品,"Chemicals and related products, not elsewhere specified"
+HKMDS,202008,T0304,class1_code,SITC_06,主要以材料分類的製成品,Manufactured goods classified chiefly by material
+HKMDS,202008,T0304,class1_code,SITC_07,機械及運輸設備,Machinery and transport equipment
+HKMDS,202008,T0304,class1_code,SITC_08,雜項製成品,Miscellaneous manufactured articles
+HKMDS,202008,T0304,class1_code,SITC_09,未列入其他分類的貨物及交易,Commodities and transactions not classified elsewhere
+HKMDS,202008,T0304,class1_code,SITC_tt,貨物合計,Total merchandise
+HKMDS,202008,T0304,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0305,table,T0305,表3.5：按貨品類別劃分的整體出口,Table 3.5 : Total exports by commodity section
+HKMDS,202008,T0305,stat,M030501,整體出口 [百萬元],Total exports [$ million]
+HKMDS,202008,T0305,class1,SITC,標準國際貿易分類（第4次修訂版）中的貨品類別,SITC Rev. 4 commodity section
+HKMDS,202008,T0305,class1_code,SITC_00,食物及活動物,Food and live animals
+HKMDS,202008,T0305,class1_code,SITC_01,飲料及煙草,Beverages and tobacco
+HKMDS,202008,T0305,class1_code,SITC_02,除燃料外的非食用未加工材料,"Crude materials, inedible, except fuels"
+HKMDS,202008,T0305,class1_code,SITC_03,礦物燃料、滑潤劑及有關物質,"Mineral fuels, lubricants and related materials"
+HKMDS,202008,T0305,class1_code,SITC_04,動物及植物油、脂肪及蠟,"Animal and vegetable oils, fats and waxes"
+HKMDS,202008,T0305,class1_code,SITC_05,未列明在其他編號的化學品及有關產品,"Chemicals and related products, not elsewhere specified"
+HKMDS,202008,T0305,class1_code,SITC_06,主要以材料分類的製成品,Manufactured goods classified chiefly by material
+HKMDS,202008,T0305,class1_code,SITC_07,機械及運輸設備,Machinery and transport equipment
+HKMDS,202008,T0305,class1_code,SITC_08,雜項製成品,Miscellaneous manufactured articles
+HKMDS,202008,T0305,class1_code,SITC_09,未列入其他分類的貨物及交易,Commodities and transactions not classified elsewhere
+HKMDS,202008,T0305,class1_code,SITC_tt,貨物合計,Total merchandise
+HKMDS,202008,T0305,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0306,table,T0306,表3.6：對外商品貿易貨值變動情況,Table 3.6 : Movement of external merchandise trade values
+HKMDS,202008,T0306,stat,M030601,原來數列的進口貨值按年變動 [%],Year-on-year change of original series of imports [%]
+HKMDS,202008,T0306,stat,M030602,經季節性調整數列的最近3個月與對上3個月比較的進口貨值變動 [%],Imports change of the latest 3-month period over the preceding 3-month period of the seasonally adjusted series [%]
+HKMDS,202008,T0306,stat,M030603,原來數列的整體出口貨值按年變動 [%],Year-on-year change of original series of total exports [%]
+HKMDS,202008,T0306,stat,M030604,經季節性調整數列的最近3個月與對上3個月比較的整體出口貨值變動 [%],Total exports change of the latest 3-month period over the preceding 3-month period of the seasonally adjusted series [%]
+HKMDS,202008,T0306,other_info,note_G1,經季節性調整的數列可隨着資料更新而作出修訂。在對外貿易數字方面，當每年1月份的數字發表時，會一併修訂對上3年的經季節性調整數列。,"Seasonally adjusted series may be revised as more data become available.  For external trade figures, the seasonally adjusted series for the preceding 3 years are revised each year when the figures for January become available."
+HKMDS,202008,T0306,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0307,table,T0307,表3.7：商品貿易指數,Table 3.7 : Merchandise trade index numbers
+HKMDS,202008,T0307,stat,M030701,進口貨值指數 (2018年=100),Value index of imports (Year 2018=100)
+HKMDS,202008,T0307,stat,M030702,進口單位價格指數 (2018年=100),Unit value index of imports (Year 2018=100)
+HKMDS,202008,T0307,stat,M030703,進口貨量指數 (2018年=100),Quantum index of imports (Year 2018=100)
+HKMDS,202008,T0307,stat,M030704,整體出口貨值指數 (2018年=100),Value index of total exports (Year 2018=100)
+HKMDS,202008,T0307,stat,M030705,整體出口單位價格指數 (2018年=100),Unit value index of total exports (Year 2018=100)
+HKMDS,202008,T0307,stat,M030706,整體出口貨量指數 (2018年=100),Quantum index of total exports (Year 2018=100)
+HKMDS,202008,T0307,stat,M030707,貿易價格比率 (2018年=100),Terms of trade (Year 2018=100)
+HKMDS,202008,T0307,other_info,note_G1,貿易價格比率指數是根據整體出口的單位價格指數與進口單位價格指數的比率計算出來。,The terms of trade index is derived from the ratio of the unit value index for total exports to that for imports.
+HKMDS,202008,T0307,other_info,note_G2,貿易指數的參照年已由2017年重訂為2018年。,The reference year for the trade indices has been revised from 2017 to 2018.
+HKMDS,202008,T0307,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0308,table,T0308,表3.8：經季節性調整的商品貿易指數,Table 3.8 : Seasonally adjusted merchandise trade index numbers
+HKMDS,202008,T0308,stat,M030801,經季節性調整的進口貨值指數 (2018年=100),Seasonally adjusted value index of imports (Year 2018=100)
+HKMDS,202008,T0308,stat,M030802,經季節性調整的進口貨量指數 (2018年=100),Seasonally adjusted quantum index of imports (Year 2018=100)
+HKMDS,202008,T0308,stat,M030803,經季節性調整的整體出口貨值指數 (2018年=100),Seasonally adjusted value index of total exports (Year 2018=100)
+HKMDS,202008,T0308,stat,M030804,經季節性調整的整體出口貨量指數 (2018年=100),Seasonally adjusted quantum index of total exports (Year 2018=100)
+HKMDS,202008,T0308,stat,M030805,經季節性調整的最近3個月與對上3個月比較的進口貨值變動 [%],Change of seasonally adjusted value of imports of the latest 3-month period over the preceding 3-month period [%]
+HKMDS,202008,T0308,stat,M030806,經季節性調整的最近3個月與對上3個月比較的進口貨量變動 [%],Change of seasonally adjusted quantum of imports of the latest 3-month period over the preceding 3-month period [%]
+HKMDS,202008,T0308,stat,M030807,經季節性調整的最近3個月與對上3個月比較的整體出口貨值變動 [%],Change of seasonally adjusted value of total exports of the latest 3-month period over the preceding 3-month period [%]
+HKMDS,202008,T0308,stat,M030808,經季節性調整的最近3個月與對上3個月比較的整體出口貨量變動 [%],Change of seasonally adjusted quantum of total exports of the latest 3-month period over the preceding 3-month period [%]
+HKMDS,202008,T0308,other_info,note_G1,經季節性調整的單位價格指數並沒有製備。,No seasonally adjusted unit value index is compiled.
+HKMDS,202008,T0308,other_info,note_G2,經季節性調整的數列可隨着資料更新而作出修訂。在貿易指數方面，當每年12月份的數字發表時，會一併修訂對上3年的經季節性調整數列。,"Seasonally adjusted series may be revised as more data become available.  For trade index numbers, the seasonally adjusted series for the preceding 3 years are revised each year when the figures for December become available."
+HKMDS,202008,T0308,other_info,note_G3,貿易指數的參照年已由2017年重訂為2018年。,The reference year for the trade indices has been revised from 2017 to 2018.
+HKMDS,202008,T0308,other_info,source,政府統計處貿易資料分析組,"Trade Analysis Section, Census and Statistics Department"
+HKMDS,202008,T0309,table,T0309,表3.9：涉及外發中國內地加工的貿易,Table 3.9 : Trade involving outward processing in the mainland of China
+HKMDS,202008,T0309,stat,M030901,涉及外發加工貿易的估計貨值 [百萬元] - 輸往中國內地的整體出口貨品,Estimated value of outward processing trade [$ million] - Total exports to the mainland of China
+HKMDS,202008,T0309,stat,M030902,涉及外發加工貿易的估計貨值 [百萬元] - 從中國內地進口的貨品,Estimated value of outward processing trade [$ million] - Imports from the mainland of China
+HKMDS,202008,T0309,stat,M030903,涉及外發加工貿易的估計貨值 [百萬元] - 原產地為中國內地經本港輸往其他地方的轉口貨品,Estimated value of outward processing trade [$ million] - Re-exports of the mainland of China origin to other places
+HKMDS,202008,T0309,stat,M030904,涉及外發加工貿易的估計比重 [%] - 輸往中國內地的整體出口貨品,Estimated proportion of outward processing trade [%] - Total exports to the mainland of China
+HKMDS,202008,T0309,stat,M030905,涉及外發加工貿易的估計比重 [%] - 從中國內地進口的貨品,Estimated proportion of outward processing trade [%] - Imports from the mainland of China
+HKMDS,202008,T0309,stat,M030906,涉及外發加工貿易的估計比重 [%] - 原產地為中國內地經本港輸往其他地方的轉口貨品,Estimated proportion of outward processing trade [%] - Re-exports of the mainland of China origin to other places
+HKMDS,202008,T0309,other_info,source,政府統計處外發加工貿易及船務統計組,"Outward Processing and Shipping Statistics Section, Census and Statistics Department"
+HKMDS,202008,T0310,table,T0310,表3.10：按服務組成部分劃分的服務輸出及輸入,Table 3.10 : Exports and imports of services by service component
+HKMDS,202008,T0310,stat,M031001,服務輸出 [百萬元],Exports of services [$ million]
+HKMDS,202008,T0310,stat,M031002,服務輸入 [百萬元],Imports of services [$ million]
+HKMDS,202008,T0310,class1,ser_com,服務組成部分,Service component
+HKMDS,202008,T0310,class1_code,ser_com_01,運輸,Transport
+HKMDS,202008,T0310,class1_code,ser_com_02,旅遊,Travel
+HKMDS,202008,T0310,class1_code,ser_com_03,保險及退休金服務,Insurance and pension services
+HKMDS,202008,T0310,class1_code,ser_com_04,金融服務,Financial services
+HKMDS,202008,T0310,class1_code,ser_com_05,其他服務,Other services
+HKMDS,202008,T0310,class1_code,ser_com_06,製造服務,Manufacturing services
+HKMDS,202008,T0310,class1_code,ser_com_tt,合計,Total
+HKMDS,202008,T0310,note_figure,(@),數字將於日後修訂,Figures are subject to revision later on
+HKMDS,202008,T0310,other_info,source,政府統計處國民收入統計科〈一）及服務貿易統計組,"National Income Branch (1) and Trade in Services Statistics Section, Census and Statistics Department"

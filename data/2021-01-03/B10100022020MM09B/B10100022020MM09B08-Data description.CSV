@@ -1,0 +1,347 @@
+﻿product,issue,table,category,code,desc_c,desc_e
+HKMDS,#REF!,,product,HKMDS,香港統計月刊,Hong Kong Monthly Digest of Statistics
+HKMDS,#REF!,,issue,#REF!,期號：2020年9月,Issue : September 2020
+HKMDS,#REF!,T0801,table,T0801,表8.1：按區議會分區劃分的永久性居住屋宇單位總數,Table 8.1 : Stock of permanent living quarters by District Council district
+HKMDS,#REF!,T0801,stat,M080101,永久性居住屋宇單位總數 (期末數字),Stock of permanent living quarters (as at end of period)
+HKMDS,#REF!,T0801,class1,district,區議會分區,District Council district
+HKMDS,#REF!,T0801,class1_code,district_01,中西區,Central & Western
+HKMDS,#REF!,T0801,class1_code,district_02,灣仔,Wan Chai
+HKMDS,#REF!,T0801,class1_code,district_03,東區,Eastern
+HKMDS,#REF!,T0801,class1_code,district_04,南區,Southern
+HKMDS,#REF!,T0801,class1_code,district_05,油尖旺,Yau Tsim Mong
+HKMDS,#REF!,T0801,class1_code,district_06,深水埗,Sham Shui Po
+HKMDS,#REF!,T0801,class1_code,district_07,九龍城,Kowloon City
+HKMDS,#REF!,T0801,class1_code,district_08,黃大仙,Wong Tai Sin
+HKMDS,#REF!,T0801,class1_code,district_09,觀塘,Kwun Tong
+HKMDS,#REF!,T0801,class1_code,district_10,葵青,Kwai Tsing
+HKMDS,#REF!,T0801,class1_code,district_11,荃灣,Tsuen Wan
+HKMDS,#REF!,T0801,class1_code,district_12,屯門,Tuen Mun
+HKMDS,#REF!,T0801,class1_code,district_13,元朗,Yuen Long
+HKMDS,#REF!,T0801,class1_code,district_14,北區,North
+HKMDS,#REF!,T0801,class1_code,district_15,大埔,Tai Po
+HKMDS,#REF!,T0801,class1_code,district_16,沙田,Sha Tin
+HKMDS,#REF!,T0801,class1_code,district_17,西貢,Sai Kung
+HKMDS,#REF!,T0801,class1_code,district_18,離島,Islands
+HKMDS,#REF!,T0801,class1_code,district_tt,總計,Total
+HKMDS,#REF!,T0801,other_info,note_G1,地區分類是根據選舉事務處所界定的區議會分區而劃分，表內所有統計數字均是根據這地區分類編製而成的。,The geographical classification is by District Council districts as defined by the Registration and Electoral Office.  All the statistics in the table are compiled based on this geographical classification.
+HKMDS,#REF!,T0801,other_info,note_G2,數字進位至最接近的百位數。,Figures are rounded to the nearest hundred.
+HKMDS,#REF!,T0801,other_info,source,政府統計處普查策劃組﹙一﹚,"Census Planning Section (1), Census and Statistics Department"
+HKMDS,#REF!,T0802,table,T0802,表8.2：按區議會分區劃分的公共租住房屋單位總數,Table 8.2 : Stock of public rental housing flats by District Council district
+HKMDS,#REF!,T0802,stat,M080201,公共租住房屋單位總數 (期末數字),Stock of public rental housing flats (as at end of period)
+HKMDS,#REF!,T0802,class1,district,區議會分區,District Council district
+HKMDS,#REF!,T0802,class1_code,district_01,中西區,Central & Western
+HKMDS,#REF!,T0802,class1_code,district_02,灣仔,Wan Chai
+HKMDS,#REF!,T0802,class1_code,district_03,東區,Eastern
+HKMDS,#REF!,T0802,class1_code,district_04,南區,Southern
+HKMDS,#REF!,T0802,class1_code,district_05,油尖旺,Yau Tsim Mong
+HKMDS,#REF!,T0802,class1_code,district_06,深水埗,Sham Shui Po
+HKMDS,#REF!,T0802,class1_code,district_07,九龍城,Kowloon City
+HKMDS,#REF!,T0802,class1_code,district_08,黃大仙,Wong Tai Sin
+HKMDS,#REF!,T0802,class1_code,district_09,觀塘,Kwun Tong
+HKMDS,#REF!,T0802,class1_code,district_10,葵青,Kwai Tsing
+HKMDS,#REF!,T0802,class1_code,district_11,荃灣,Tsuen Wan
+HKMDS,#REF!,T0802,class1_code,district_12,屯門,Tuen Mun
+HKMDS,#REF!,T0802,class1_code,district_13,元朗,Yuen Long
+HKMDS,#REF!,T0802,class1_code,district_14,北區,North
+HKMDS,#REF!,T0802,class1_code,district_15,大埔,Tai Po
+HKMDS,#REF!,T0802,class1_code,district_16,沙田,Sha Tin
+HKMDS,#REF!,T0802,class1_code,district_17,西貢,Sai Kung
+HKMDS,#REF!,T0802,class1_code,district_18,離島,Islands
+HKMDS,#REF!,T0802,class1_code,district_tt,總計,Total
+HKMDS,#REF!,T0802,class2,hinst,提供公共租住房屋單位的機構,Institutions providing public rental housing flats
+HKMDS,#REF!,T0802,class2_code,hinst_01,香港房屋委員會 (註釋 1),Hong Kong Housing Authority (note 1)
+HKMDS,#REF!,T0802,class2_code,hinst_02,香港房屋協會 (註釋 2),Hong Kong Housing Society (note 2)
+HKMDS,#REF!,T0802,class2_code,hinst_tt,總數 (註釋 1) (註釋 2),Total (note 1) (note 2)
+HKMDS,#REF!,T0802,other_info,note_G1,地區分類是根據選舉事務處所界定的區議會分區而劃分，表內所有統計數字均是根據這地區分類編製而成的。,The geographical classification is by District Council (DC) districts as defined by the Registration and Electoral Office.  All the statistics in the table are compiled based on this geographical classification.
+HKMDS,#REF!,T0802,other_info,note_1,(註釋 1) 數字不包括中轉房屋單位及租者置其屋計劃的已售單位。,(note 1) Figures exclude Interim Housing units and Tenants Purchase Scheme sold flats.
+HKMDS,#REF!,T0802,other_info,note_2,(註釋 2) 不包括長者安居樂住屋計劃。,(note 2) Projects under Senior Citizen Residences Scheme are excluded.
+HKMDS,#REF!,T0802,other_info,source,房屋署；香港房屋協會,Housing Department; Hong Kong Housing Society
+HKMDS,#REF!,T0803,table,T0803,表8.3：按區議會分區劃分的公共租住房屋單位認可居民人數,Table 8.3 : Authorised population of public rental housing flats by District Council district
+HKMDS,#REF!,T0803,stat,M080301,公共租住房屋單位認可居民人數 (期末數字),Authorised population of public rental housing flats (as at end of period)
+HKMDS,#REF!,T0803,class1,district,區議會分區,District Council district
+HKMDS,#REF!,T0803,class1_code,district_01,中西區,Central & Western
+HKMDS,#REF!,T0803,class1_code,district_02,灣仔,Wan Chai
+HKMDS,#REF!,T0803,class1_code,district_03,東區,Eastern
+HKMDS,#REF!,T0803,class1_code,district_04,南區,Southern
+HKMDS,#REF!,T0803,class1_code,district_05,油尖旺,Yau Tsim Mong
+HKMDS,#REF!,T0803,class1_code,district_06,深水埗,Sham Shui Po
+HKMDS,#REF!,T0803,class1_code,district_07,九龍城,Kowloon City
+HKMDS,#REF!,T0803,class1_code,district_08,黃大仙,Wong Tai Sin
+HKMDS,#REF!,T0803,class1_code,district_09,觀塘,Kwun Tong
+HKMDS,#REF!,T0803,class1_code,district_10,葵青,Kwai Tsing
+HKMDS,#REF!,T0803,class1_code,district_11,荃灣,Tsuen Wan
+HKMDS,#REF!,T0803,class1_code,district_12,屯門,Tuen Mun
+HKMDS,#REF!,T0803,class1_code,district_13,元朗,Yuen Long
+HKMDS,#REF!,T0803,class1_code,district_14,北區,North
+HKMDS,#REF!,T0803,class1_code,district_15,大埔,Tai Po
+HKMDS,#REF!,T0803,class1_code,district_16,沙田,Sha Tin
+HKMDS,#REF!,T0803,class1_code,district_17,西貢,Sai Kung
+HKMDS,#REF!,T0803,class1_code,district_18,離島,Islands
+HKMDS,#REF!,T0803,class1_code,district_tt,總計,Total
+HKMDS,#REF!,T0803,class2,hinst,提供公共租住房屋單位的機構,Institutions providing public rental housing flats
+HKMDS,#REF!,T0803,class2_code,hinst_01,香港房屋委員會 (註釋 1),Hong Kong Housing Authority (note 1)
+HKMDS,#REF!,T0803,class2_code,hinst_02,香港房屋協會 (註釋 2),Hong Kong Housing Society (note 2)
+HKMDS,#REF!,T0803,class2_code,hinst_tt,總數 (註釋 1) (註釋 2),Total (note 1) (note 2)
+HKMDS,#REF!,T0803,other_info,note_G1,地區分類是根據選舉事務處所界定的區議會分區而劃分，表內所有統計數字均是根據這地區分類編製而成的。,The geographical classification is by District Council (DC) districts as defined by the Registration and Electoral Office.  All the statistics in the table are compiled based on this geographical classification.
+HKMDS,#REF!,T0803,other_info,note_1,(註釋 1) 數字不包括中轉房屋單位及租者置其屋計劃已售單位內的人口。,(note 1) Figures exclude Interim Housing units and Tenants Purchase Scheme sold flats.
+HKMDS,#REF!,T0803,other_info,note_2,(註釋 2) 不包括長者安居樂住屋計劃。,(note 2) Projects under Senior Citizen Residences Scheme are excluded.
+HKMDS,#REF!,T0803,other_info,source,房屋署；香港房屋協會,Housing Department; Hong Kong Housing Society
+HKMDS,#REF!,T0804,table,T0804,表8.4：按樓宇種類劃分的新落成私人樓宇,Table 8.4 : Newly completed private buildings by type of building
+HKMDS,#REF!,T0804,stat,M080401,新落成私人樓宇的數目,No. of blocks of newly completed private buildings
+HKMDS,#REF!,T0804,stat,M080402,新落成私人樓宇的實用樓面面積 [千平方米],Usable floor area of newly completed private buildings [thousand sq. m.]
+HKMDS,#REF!,T0804,class1,typeb,樓宇種類,Type of building
+HKMDS,#REF!,T0804,class1_code,typeb_01,住宅,Residential
+HKMDS,#REF!,T0804,class1_code,typeb_02,商住兩用,Residential/commercial
+HKMDS,#REF!,T0804,class1_code,typeb_03,商業,Commercial
+HKMDS,#REF!,T0804,class1_code,typeb_04,工業,Industrial
+HKMDS,#REF!,T0804,class1_code,typeb_05,其他用途,Others
+HKMDS,#REF!,T0804,class1_code,typeb_06,所有種類,All types
+HKMDS,#REF!,T0804,class2,usage,用途種類,Type of usage
+HKMDS,#REF!,T0804,class2_code,usage_01,住宅,Residential
+HKMDS,#REF!,T0804,class2_code,usage_02,非住宅,Non-residential
+HKMDS,#REF!,T0804,class2_code,usage_tt,總計,Total
+HKMDS,#REF!,T0804,other_info,note_G1,住宅的實用樓面面積包括住宅樓宇內用作非住宅用途的實用樓面面積，例如：會所／康樂設施、管理員辦事處／宿舍、電機房等。,"Usable floor area of residential buildings includes usable floor area in residential buildings for non-domestic use, such as club house/recreational facilities, caretakers' office/quarters, transformer room, etc."
+HKMDS,#REF!,T0804,other_info,§,少於0.05。,Less than 0.05.
+HKMDS,#REF!,T0804,other_info,source,屋宇署；房屋署,Buildings Department; Housing Department
+HKMDS,#REF!,T0805,table,T0805,表8.5：按樓宇種類劃分的獲批准可動工興建私人樓宇,Table 8.5 : Private buildings with consent to commence work by type of building
+HKMDS,#REF!,T0805,stat,M080501,獲批准可動工興建私人樓宇的數目 - 初次呈交圖則,No. of blocks of private buildings with consent to commence work - First submission
+HKMDS,#REF!,T0805,stat,M080502,獲批准可動工興建私人樓宇的數目 - 重大修改,No. of blocks of private buildings with consent to commence work - Major revision
+HKMDS,#REF!,T0805,stat,M080503,獲批准可動工興建私人樓宇的實用樓面面積 [千平方米] - 初次呈交圖則,Usable floor area of private buildings with consent to commence work [thousand sq. m.] - First submission
+HKMDS,#REF!,T0805,stat,M080504,獲批准可動工興建私人樓宇的實用樓面面積 [千平方米] - 重大修改,Usable floor area of private buildings with consent to commence work [thousand sq. m.] - Major revision
+HKMDS,#REF!,T0805,class1,typeb,樓宇種類,Type of building
+HKMDS,#REF!,T0805,class1_code,typeb_01,住宅,Residential
+HKMDS,#REF!,T0805,class1_code,typeb_02,商住兩用,Residential/commercial
+HKMDS,#REF!,T0805,class1_code,typeb_03,商業,Commercial
+HKMDS,#REF!,T0805,class1_code,typeb_04,工業,Industrial
+HKMDS,#REF!,T0805,class1_code,typeb_05,其他用途,Others
+HKMDS,#REF!,T0805,class1_code,typeb_06,所有種類,All types
+HKMDS,#REF!,T0805,class2,usage,用途種類,Type of usage
+HKMDS,#REF!,T0805,class2_code,usage_01,住宅,Residential
+HKMDS,#REF!,T0805,class2_code,usage_02,非住宅,Non-residential
+HKMDS,#REF!,T0805,class2_code,usage_tt,總計,Total
+HKMDS,#REF!,T0805,other_info,note_G1,住宅的實用樓面面積包括住宅樓宇內用作非住宅用途的實用樓面面積，例如：會所／康樂設施、管理員辦事處／宿舍、電機房等。,"Usable floor area of residential buildings includes usable floor area in residential buildings for non-domestic use, such as club house/recreational facilities, caretakers' office/quarters, transformer room, etc."
+HKMDS,#REF!,T0805,other_info,source,屋宇署,Buildings Department
+HKMDS,#REF!,T0806,table,T0806,表8.6：按區議會分區及房屋類型劃分的新落成居住單位,Table 8.6 : Newly completed residential flats by District Council district and type of housing
+HKMDS,#REF!,T0806,stat,M080601,新落成居住單位,Newly completed residential flats
+HKMDS,#REF!,T0806,class1,district,區議會分區,District Council district
+HKMDS,#REF!,T0806,class1_code,district_01,中西區,Central & Western
+HKMDS,#REF!,T0806,class1_code,district_02,灣仔,Wan Chai
+HKMDS,#REF!,T0806,class1_code,district_03,東區,Eastern
+HKMDS,#REF!,T0806,class1_code,district_04,南區,Southern
+HKMDS,#REF!,T0806,class1_code,district_05,油尖旺,Yau Tsim Mong
+HKMDS,#REF!,T0806,class1_code,district_06,深水埗,Sham Shui Po
+HKMDS,#REF!,T0806,class1_code,district_07,九龍城,Kowloon City
+HKMDS,#REF!,T0806,class1_code,district_08,黃大仙,Wong Tai Sin
+HKMDS,#REF!,T0806,class1_code,district_09,觀塘,Kwun Tong
+HKMDS,#REF!,T0806,class1_code,district_10,葵青,Kwai Tsing
+HKMDS,#REF!,T0806,class1_code,district_11,荃灣,Tsuen Wan
+HKMDS,#REF!,T0806,class1_code,district_12,屯門,Tuen Mun
+HKMDS,#REF!,T0806,class1_code,district_13,元朗,Yuen Long
+HKMDS,#REF!,T0806,class1_code,district_14,北區,North
+HKMDS,#REF!,T0806,class1_code,district_15,大埔,Tai Po
+HKMDS,#REF!,T0806,class1_code,district_16,沙田,Sha Tin
+HKMDS,#REF!,T0806,class1_code,district_17,西貢,Sai Kung
+HKMDS,#REF!,T0806,class1_code,district_18,離島,Islands
+HKMDS,#REF!,T0806,class1_code,district_tt,總計,Total
+HKMDS,#REF!,T0806,class2,typeh,房屋類型,Type of housing
+HKMDS,#REF!,T0806,class2_code,typeh_01,公共租住單位 (註釋 1),Public rental flats (note 1)
+HKMDS,#REF!,T0806,class2_code,typeh_02,資助出售單位 (註釋 1),Subsidised sale flats (note 1)
+HKMDS,#REF!,T0806,class2_code,typeh_03,私人樓宇單位,Private flats
+HKMDS,#REF!,T0806,class2_code,typeh_tt,所有房屋類型單位,All types of flats
+HKMDS,#REF!,T0806,other_info,note_G1,地區分類是根據選舉事務處所界定的區議會分區而劃分，表內所有統計數字均是根據這地區分類編製而成的。,The geographical classification is by District Council districts as defined by the Registration and Electoral Office.  All the statistics in the table are compiled based on this geographical classification.
+HKMDS,#REF!,T0806,other_info,note_1,(註釋 1)  有關公共租住單位及資助出售單位的類別分類，請參閱《香港統計月刊》第136及137頁的「概念及方法」。,"(note 1) For details on the housing type classification of public rental flats and subsidised sale flats, please refer to the ""Concepts and methods"" on pages 136 and 137 of the Hong Kong Monthly Digest of Statistics."
+HKMDS,#REF!,T0806,other_info,source,屋宇署；房屋署；香港房屋協會；市區重建局,Buildings Department; Housing Department; Hong Kong Housing Society; Urban Renewal Authority
+HKMDS,#REF!,T0807,table,T0807,表8.7：按區議會分區及房屋類型劃分的獲批准可動工興建居住單位,Table 8.7 : Residential flats with consent to commence work by District Council district and type of housing
+HKMDS,#REF!,T0807,stat,M080701,獲批准可動工興建居住單位的數目,No. of residential flats with consent to commence work
+HKMDS,#REF!,T0807,class1,district,區議會分區,District Council district
+HKMDS,#REF!,T0807,class1_code,district_01,中西區,Central & Western
+HKMDS,#REF!,T0807,class1_code,district_02,灣仔,Wan Chai
+HKMDS,#REF!,T0807,class1_code,district_03,東區,Eastern
+HKMDS,#REF!,T0807,class1_code,district_04,南區,Southern
+HKMDS,#REF!,T0807,class1_code,district_05,油尖旺,Yau Tsim Mong
+HKMDS,#REF!,T0807,class1_code,district_06,深水埗,Sham Shui Po
+HKMDS,#REF!,T0807,class1_code,district_07,九龍城,Kowloon City
+HKMDS,#REF!,T0807,class1_code,district_08,黃大仙,Wong Tai Sin
+HKMDS,#REF!,T0807,class1_code,district_09,觀塘,Kwun Tong
+HKMDS,#REF!,T0807,class1_code,district_10,葵青,Kwai Tsing
+HKMDS,#REF!,T0807,class1_code,district_11,荃灣,Tsuen Wan
+HKMDS,#REF!,T0807,class1_code,district_12,屯門,Tuen Mun
+HKMDS,#REF!,T0807,class1_code,district_13,元朗,Yuen Long
+HKMDS,#REF!,T0807,class1_code,district_14,北區,North
+HKMDS,#REF!,T0807,class1_code,district_15,大埔,Tai Po
+HKMDS,#REF!,T0807,class1_code,district_16,沙田,Sha Tin
+HKMDS,#REF!,T0807,class1_code,district_17,西貢,Sai Kung
+HKMDS,#REF!,T0807,class1_code,district_18,離島,Islands
+HKMDS,#REF!,T0807,class1_code,district_tt,總計,Total
+HKMDS,#REF!,T0807,class2,typehs,房屋類型,Type of housing
+HKMDS,#REF!,T0807,class2_code,typehs_01,公共租住單位,Public rental flats
+HKMDS,#REF!,T0807,class2_code,typehs_02,資助出售單位,Subsidised sale flats
+HKMDS,#REF!,T0807,class2_code,typehs_03,私人樓宇單位 - 初次呈交圖則,Private flats - first submission
+HKMDS,#REF!,T0807,class2_code,typehs_04,私人樓宇單位 - 重大修改,Private flats - major revision
+HKMDS,#REF!,T0807,other_info,note_G1,地區分類是根據選舉事務處所界定的區議會分區而劃分，表內所有統計數字均是根據這地區分類編製而成的。,The geographical classification is by District Council districts as defined by the Registration and Electoral Office.  All the statistics in the table are compiled based on this geographical classification.
+HKMDS,#REF!,T0807,other_info,source,屋宇署；房屋署；香港房屋協會；市區重建局,Buildings Department; Housing Department; Hong Kong Housing Society; Urban Renewal Authority
+HKMDS,#REF!,T0808,table,T0808,表8.8：按樓面面積 (註釋 1) 劃分的新落成公共租住及資助出售居住單位,Table 8.8 : Public rental and subsidised sale flats newly completed by floor area (note 1)
+HKMDS,#REF!,T0808,stat,M080801,新落成公共租住單位的數目 (註釋 2),No. of public rental flats newly completed (note 2)
+HKMDS,#REF!,T0808,stat,M080802,新落成資助出售居住單位的數目 (註釋 2),No. of subsidised sale flats newly completed (note 2)
+HKMDS,#REF!,T0808,class1,farea,樓面面積,Floor area
+HKMDS,#REF!,T0808,class1_code,farea_01,少於40平方米,Less than 40 sq. m.
+HKMDS,#REF!,T0808,class1_code,farea_02,40至69.9平方米,40-69.9 sq. m.
+HKMDS,#REF!,T0808,other_info,note_1,(註釋 1) 公共租住單位及資助出售單位的樓面面積分別以「室內樓面面積」及「實用面積」計算。詳情請參閱《香港統計月刊》第137頁的「概念及方法」。,"(note 1) Floor areas for public rental flats and subsidised sale flats are measured based on ""internal floor area"" and ""saleable area"" respectively.  Please refer to the ""Concepts and methods"" on page 137 of the Hong Kong Monthly Digest of Statistics for details."
+HKMDS,#REF!,T0808,other_info,note_2,(註釋 2) 有關公共租住單位及資助出售單位的類別分類，請參閱《香港統計月刊》第136及137頁的「概念及方法」。,"(note 2) For details on the housing type classification of public rental flats and subsidised sale flats, please refer to the ""Concepts and methods"" on pages 136 and 137 of the Hong Kong Monthly Digest of Statistics."
+HKMDS,#REF!,T0808,other_info,source,屋宇署；房屋署；香港房屋協會；市區重建局,Buildings Department; Housing Department; Hong Kong Housing Society; Urban Renewal Authority
+HKMDS,#REF!,T0809,table,T0809,表8.9：按樓面面積劃分的新落成或獲批准可動工興建私人居住單位,Table 8.9 : Private residential flats newly completed or with consent to commence work by floor area
+HKMDS,#REF!,T0809,stat,M080901,新落成私人居住單位的數目 (註釋 1),No. of private residential flats newly completed (note 1)
+HKMDS,#REF!,T0809,stat,M080902,獲批准可動工興建私人居住單位的數目 (註釋 2) - 初次呈交圖則,No. of private residential flats with consent to commence work (note 2) - First submission
+HKMDS,#REF!,T0809,stat,M080903,獲批准可動工興建私人居住單位的數目 (註釋 2) - 重大修改,No. of private residential flats with consent to commence work (note 2) - Major revision
+HKMDS,#REF!,T0809,class1,farea,樓面面積,Floor area
+HKMDS,#REF!,T0809,class1_code,farea_01,少於40平方米,Less than 40 sq. m.
+HKMDS,#REF!,T0809,class1_code,farea_02,40至69.9平方米,40-69.9 sq. m.
+HKMDS,#REF!,T0809,class1_code,farea_03,70至99.9平方米,70-99.9 sq. m.
+HKMDS,#REF!,T0809,class1_code,farea_04,100至159.9平方米,100-159.9 sq. m.
+HKMDS,#REF!,T0809,class1_code,farea_05,160平方米或以上,160 sq. m. or above
+HKMDS,#REF!,T0809,other_info,note_1,(註釋 1) 樓面面積以「實用面積」計算。,"(note 1) Floor areas are measured based on ""saleable area""."
+HKMDS,#REF!,T0809,other_info,note_2,(註釋 2) 樓面面積以「實用樓面面積」計算。,"(note 2) Floor areas are measured based on ""usable floor area""."
+HKMDS,#REF!,T0809,other_info,source,屋宇署；差餉物業估價署,Buildings Department; Rating and Valuation Department
+HKMDS,#REF!,T0810,table,T0810,表8.10：私人住宅樓宇平均售價及售價指數 ,Table 8.10 : Average prices and price indices of private domestic premises
+HKMDS,#REF!,T0810,stat,M081001,私人住宅樓宇平均售價 [元(每平方米計)],Average prices of private domestic premises [$/sq. m.]
+HKMDS,#REF!,T0810,stat,M081002,私人住宅樓宇售價指數 (1999年=100),Price indices of private domestic premises (Year 1999=100)
+HKMDS,#REF!,T0810,class1,farea,樓面面積,Floor area
+HKMDS,#REF!,T0810,class1_code,farea_01,少於40平方米,Less than 40 sq. m.
+HKMDS,#REF!,T0810,class1_code,farea_02,40至69.9平方米,40-69.9 sq. m.
+HKMDS,#REF!,T0810,class1_code,farea_03,70至99.9平方米,70-99.9 sq. m.
+HKMDS,#REF!,T0810,class1_code,farea_04,100至159.9平方米,100-159.9 sq.m.
+HKMDS,#REF!,T0810,class1_code,farea_05,160平方米或以上,160 sq. m. or above
+HKMDS,#REF!,T0810,class1_code,farea_oa,所有類別,Overall
+HKMDS,#REF!,T0810,class2,typearea,區域,Area
+HKMDS,#REF!,T0810,class2_code,typearea_01,香港,Hong Kong
+HKMDS,#REF!,T0810,class2_code,typearea_02,九龍,Kowloon
+HKMDS,#REF!,T0810,class2_code,typearea_03,新界,New Territories
+HKMDS,#REF!,T0810,other_info,note_G1,每月分析的交易數目及樓宇地點各有不同。因此，樓宇平均售價及樓宇售價指數只可視為一個概略的售價趨勢。,"The number and location of transactions analysed may vary from month to month, consequently the average prices and price indices should be regarded as broad indicators of price trends only."
+HKMDS,#REF!,T0810,other_info,note_G2,住宅樓宇的首次買賣並不會用作分析。,Primary sales of domestic premises are excluded from the analysis.
+HKMDS,#REF!,T0810,other_info,note_G3,數字按實用面積分類。,Figures are classified by saleable area.
+HKMDS,#REF!,T0810,note_figure,(#),臨時數字,Provisional figures
+HKMDS,#REF!,T0810,note_figure,(++),表示少於20宗交易。,Indicates fewer than 20 transactions.
+HKMDS,#REF!,T0810,figure,〜,差餉物業估價署沒有收到成交個案。,No transaction record received by the Rating and Valuation Department.
+HKMDS,#REF!,T0810,other_info,source,差餉物業估價署,Rating and Valuation Department
+HKMDS,#REF!,T0811,table,T0811,表8.11：按私人非住宅樓宇類別劃分的平均售價及售價指數,Table 8.11 : Average prices and price indices by type of private non-domestic premises
+HKMDS,#REF!,T0811,stat,M081101,私人非住宅樓宇平均售價 [元(每平方米計)],Average prices of private non-domestic premises [$/sq. m.]
+HKMDS,#REF!,T0811,stat,M081102,私人非住宅樓宇售價指數 (1999年=100),Price indices of private non-domestic premises (Year 1999=100)
+HKMDS,#REF!,T0811,class1,typepndp,私人非住宅樓宇類別,Type of private non-domestic premises
+HKMDS,#REF!,T0811,class1_code,typepndp_01,私人寫字樓 (甲級、乙級及丙級) (註釋 3),"Private offices (Grades A, B and C) (note 3)"
+HKMDS,#REF!,T0811,class1_code,typepndp_02,私人寫字樓 (甲級),Private offices (Grades A)
+HKMDS,#REF!,T0811,class1_code,typepndp_03,私人寫字樓 (乙級),Private offices (Grades B)
+HKMDS,#REF!,T0811,class1_code,typepndp_04,私人寫字樓 (丙級),Private offices (Grades C)
+HKMDS,#REF!,T0811,class1_code,typepndp_05,私人零售業樓宇,Private retail
+HKMDS,#REF!,T0811,class1_code,typepndp_06,私人分層工廠大廈 (註釋 2),Private flatted factories (note 2)
+HKMDS,#REF!,T0811,class2,sldist,選定地區,Selected district
+HKMDS,#REF!,T0811,class2_code,sldist_01,上環,Sheung Wan
+HKMDS,#REF!,T0811,class2_code,sldist_02,中區,Central
+HKMDS,#REF!,T0811,class2_code,sldist_03,灣仔／銅鑼灣,Wan Chai/Causeway Bay
+HKMDS,#REF!,T0811,class2_code,sldist_04,北角／鰂魚涌,North Point/Quarry Bay
+HKMDS,#REF!,T0811,class2_code,sldist_05,尖沙咀,Tsim Sha Tsui
+HKMDS,#REF!,T0811,class2_code,sldist_06,油麻地／旺角,Yau Ma Tei/Mong Kok
+HKMDS,#REF!,T0811,class2_code,sldist_07,九龍灣／觀塘 (註釋 1),Kowloon Bay/Kwun Tong (note 1)
+HKMDS,#REF!,T0811,class2,typearea,區域,Area
+HKMDS,#REF!,T0811,class2_code,typearea_01,香港,Hong Kong
+HKMDS,#REF!,T0811,class2_code,typearea_02,九龍,Kowloon
+HKMDS,#REF!,T0811,class2_code,typearea_03,新界,New Territories
+HKMDS,#REF!,T0811,other_info,note_G1,每月分析的交易數目及樓宇地點各有不同。因此，樓宇平均售價及樓宇售價指數只可視為一個概略的售價趨勢。,"The number and location of transactions analysed may vary from month to month, consequently the average prices and price indices should be regarded as broad indicators of price trends only."
+HKMDS,#REF!,T0811,other_info,note_1,(註釋 1) 九龍灣／觀塘的分界與18區區議會選區中的觀塘區相同。,(note 1) The boundary of Kowloon Bay/Kwun Tong follows Kwun Tong District of the 18 District Council districts.
+HKMDS,#REF!,T0811,other_info,note_2,(註釋 2) 數字只計算樓上單位。,(note 2) Figures are in respect of upper floor units only.
+HKMDS,#REF!,T0811,other_info,note_3,(註釋 3) 指數並非限於主要寫字樓地區。,(note 3) Indices are not restricted to the main office districts.
+HKMDS,#REF!,T0811,note_figure,(#),臨時數字,Provisional figures
+HKMDS,#REF!,T0811,note_figure,(+),表示少於5宗交易。,Indicates fewer than 5 transactions.
+HKMDS,#REF!,T0811,note_figure,(++),表示少於20宗交易。,Indicates fewer than 20 transactions.
+HKMDS,#REF!,T0811,figure,〜,差餉物業估價署沒有收到成交個案。,No transaction record received by the Rating and Valuation Department.
+HKMDS,#REF!,T0811,other_info,source,差餉物業估價署,Rating and Valuation Department
+HKMDS,#REF!,T0812,table,T0812,表8.12：私人住宅樓宇新訂租約平均租金及租金指數,Table 8.12 : Average rents and rental indices of fresh lettings of private domestic premises
+HKMDS,#REF!,T0812,stat,M081201,私人住宅樓宇新訂租約平均租金 [元(每平方米每月計)],Average rents of fresh lettings of private domestic premises [$/sq. m. per month]
+HKMDS,#REF!,T0812,stat,M081202,私人住宅樓宇新訂租約租金指數 (1999年=100),Rental indices of fresh lettings of private domestic premises (Year 1999=100)
+HKMDS,#REF!,T0812,class1,farea,樓面面積,Floor area
+HKMDS,#REF!,T0812,class1_code,farea_01,少於40平方米,Less than 40 sq. m.
+HKMDS,#REF!,T0812,class1_code,farea_02,40至69.9平方米,40-69.9 sq. m.
+HKMDS,#REF!,T0812,class1_code,farea_03,70至99.9平方米,70-99.9 sq. m.
+HKMDS,#REF!,T0812,class1_code,farea_04,100至159.9平方米,100-159.9 sq.m.
+HKMDS,#REF!,T0812,class1_code,farea_05,160平方米或以上,160 sq. m. or above
+HKMDS,#REF!,T0812,class1_code,farea_oa,所有類別,Overall
+HKMDS,#REF!,T0812,class2,typearea,區域,Area
+HKMDS,#REF!,T0812,class2_code,typearea_01,香港,Hong Kong
+HKMDS,#REF!,T0812,class2_code,typearea_02,九龍,Kowloon
+HKMDS,#REF!,T0812,class2_code,typearea_03,新界,New Territories
+HKMDS,#REF!,T0812,other_info,note_G1,每月租出樓宇數目及地點各有不同。因此，平均租金統計數字只可視為概略的租金趨勢。,"The number and location of lettings may vary from month to month, consequently the average rental statistics should be regarded as broad indicators of rental trends only."
+HKMDS,#REF!,T0812,other_info,note_G2,數字按實用面積分類。,Figures are classified by saleable area.
+HKMDS,#REF!,T0812,note_figure,(#),臨時數字,Provisional figures
+HKMDS,#REF!,T0812,note_figure,(++),表示少於20宗交易。,Indicates fewer than 20 transactions.
+HKMDS,#REF!,T0812,figure,〜,差餉物業估價署沒有收到成交個案。,No transaction record received by the Rating and Valuation Department.
+HKMDS,#REF!,T0812,other_info,source,差餉物業估價署,Rating and Valuation Department
+HKMDS,#REF!,T0813,table,T0813,表8.13：按私人非住宅樓宇類別劃分的新訂及續租租約平均租金及租金指數,Table 8.13 : Average rents and rental indices of fresh and renewal lettings by type of private non-domestic premises
+HKMDS,#REF!,T0813,stat,M081301,新訂及續租租約平均租金 [元(每平方米每月計)],Average rents of fresh and renewal lettings [$/sq. m. per month]
+HKMDS,#REF!,T0813,stat,M081302,新訂及續租租約租金指數 (1999年=100),Rental indices of fresh and renewal lettings (Year 1999=100)
+HKMDS,#REF!,T0813,class1,typepndp,私人非住宅樓宇類別,Type of private non-domestic premises
+HKMDS,#REF!,T0813,class1_code,typepndp_01,私人寫字樓 (甲級、乙級及丙級) (註釋 3),"Private offices (Grades A, B and C) (note 3)"
+HKMDS,#REF!,T0813,class1_code,typepndp_02,私人寫字樓 (甲級),Private offices (Grades A)
+HKMDS,#REF!,T0813,class1_code,typepndp_03,私人寫字樓 (乙級),Private offices (Grades B)
+HKMDS,#REF!,T0813,class1_code,typepndp_04,私人寫字樓 (丙級),Private offices (Grades C)
+HKMDS,#REF!,T0813,class1_code,typepndp_05,私人零售業樓宇,Private retail
+HKMDS,#REF!,T0813,class1_code,typepndp_06,私人分層工廠大廈 (註釋 2),Private flatted factories (note 2)
+HKMDS,#REF!,T0813,class2,sldist,選定地區,Selected district
+HKMDS,#REF!,T0813,class2_code,sldist_01,上環,Sheung Wan
+HKMDS,#REF!,T0813,class2_code,sldist_02,中區,Central
+HKMDS,#REF!,T0813,class2_code,sldist_03,灣仔／銅鑼灣,Wan Chai/Causeway Bay
+HKMDS,#REF!,T0813,class2_code,sldist_04,北角／鰂魚涌,North Point/Quarry Bay
+HKMDS,#REF!,T0813,class2_code,sldist_05,尖沙咀,Tsim Sha Tsui
+HKMDS,#REF!,T0813,class2_code,sldist_06,油麻地／旺角,Yau Ma Tei/Mong Kok
+HKMDS,#REF!,T0813,class2_code,sldist_07,九龍灣／觀塘 (註釋 1),Kowloon Bay/Kwun Tong (note 1)
+HKMDS,#REF!,T0813,class2,typearea,區域,Area
+HKMDS,#REF!,T0813,class2_code,typearea_01,香港,Hong Kong
+HKMDS,#REF!,T0813,class2_code,typearea_02,九龍,Kowloon
+HKMDS,#REF!,T0813,class2_code,typearea_03,新界,New Territories
+HKMDS,#REF!,T0813,other_info,note_G1,每月租出樓宇數目及地點各有不同。因此，平均租金統計數字只可視為概略的租金趨勢。,"The number and location of lettings may vary from month to month, consequently the average rental statistics should be regarded as broad indicators of rental trends only."
+HKMDS,#REF!,T0813,other_info,note_1,(註釋 1) 九龍灣／觀塘的分界與18區區議會選區中的觀塘區相同。,(note 1) The boundary of Kowloon Bay/Kwun Tong follows Kwun Tong District of the 18 District Council districts.
+HKMDS,#REF!,T0813,other_info,note_2,(註釋 2) 數字只計算樓上單位。,(note 2) Figures are in respect of upper floor units only.
+HKMDS,#REF!,T0813,other_info,note_3,(註釋 3) 指數並非限於主要寫字樓地區。,(note 3) Indices are not restricted to the main office districts.
+HKMDS,#REF!,T0813,note_figure,(#),臨時數字,Provisional figures
+HKMDS,#REF!,T0813,note_figure,(+),表示少於5宗交易。,Indicates fewer than 5 transactions.
+HKMDS,#REF!,T0813,figure,〜,"差餉物業估價署沒有收到成交個案。
+",No transaction record received by the Rating and Valuation Department.
+HKMDS,#REF!,T0813,other_info,source,差餉物業估價署,Rating and Valuation Department
+HKMDS,#REF!,T0814,table,T0814,表8.14：送達土地註冊處登記的文件數目和涉及的價值,Table 8.14 : Number and considerations of documents received for registration in the Land Registry
+HKMDS,#REF!,T0814,stat,M081401,送達土地註冊處登記的契約數目,No. of deeds received for registration in the Land Registry
+HKMDS,#REF!,T0814,stat,M081402,送達土地註冊處登記的文件所涉及的價值 [百萬元],Considerations of documents received for registration in the Land Registry [$ million]
+HKMDS,#REF!,T0814,class1,typedoc,送達土地註冊處登記的文件類別,Type of documents received for registration in the Land Registry
+HKMDS,#REF!,T0814,class1_code,typedoc_01,樓宇買賣合約,Agreements for Sale and Purchase of building units
+HKMDS,#REF!,T0814,class1_code,typedoc_02,地段買賣合約,Agreements for Sale and Purchase of land
+HKMDS,#REF!,T0814,class1_code,typedoc_03,樓宇轉讓契約,Assignments of building units
+HKMDS,#REF!,T0814,class1_code,typedoc_04,地段轉讓契約,Assignments of land
+HKMDS,#REF!,T0814,class1_code,typedoc_05,建築按揭／抵押,Building mortgages/building legal charges
+HKMDS,#REF!,T0814,class1_code,typedoc_06,樓宇按揭／抵押,Other mortgages/legal charges
+HKMDS,#REF!,T0814,class1_code,typedoc_07,撤銷按揭／抵押,Receipts/discharges/releases
+HKMDS,#REF!,T0814,class1_code,typedoc_08,租約,Leases/tenancy agreements
+HKMDS,#REF!,T0814,class1_code,typedoc_09,戰前樓宇重建豁免管制令,Exclusion orders
+HKMDS,#REF!,T0814,class1_code,typedoc_10,其他,Others
+HKMDS,#REF!,T0814,class1_code,typedoc_tt,總計,Total
+HKMDS,#REF!,T0814,class2,typebu,樓宇類別,Type of building units
+HKMDS,#REF!,T0814,class2_code,typebu_01,住宅,Residential
+HKMDS,#REF!,T0814,class2_code,typebu_02,非住宅,Non-residential
+HKMDS,#REF!,T0814,class2_code,typebu_tt,總計,Total
+HKMDS,#REF!,T0814,other_info,source,土地註冊處,Land Registry
+HKMDS,#REF!,T0815,table,T0815,表8.15：政府土地拍賣及批租,Table 8.15 : Disposals of government land
+HKMDS,#REF!,T0815,stat,M081501,土地面積 [平方米],Area of land [sq. m.]
+HKMDS,#REF!,T0815,stat,M081502,已徵收的地價 [百萬元],Realised premium [$ million]
+HKMDS,#REF!,T0815,class1,landdisp,政府土地批地方式,Mode of land disposals of government land
+HKMDS,#REF!,T0815,class1_code,landdisp_01,公開拍賣／投標,Public auction/tender
+HKMDS,#REF!,T0815,class1_code,landdisp_02,私人協約方式批地,Private treaty grant
+HKMDS,#REF!,T0815,class2,tarea,地區,Area
+HKMDS,#REF!,T0815,class2_code,tarea_01,市區,Urban area
+HKMDS,#REF!,T0815,class2_code,tarea_02,新界,New Territories
+HKMDS,#REF!,T0815,class3,typeu,用途,Type of uses
+HKMDS,#REF!,T0815,class3_code,typeu_01,工業／貨倉,Industrial/godown
+HKMDS,#REF!,T0815,class3_code,typeu_02,商業,Commercial
+HKMDS,#REF!,T0815,class3_code,typeu_03,商業／住宅,Commercial/residential
+HKMDS,#REF!,T0815,class3_code,typeu_04,住宅,Residential
+HKMDS,#REF!,T0815,class3_code,typeu_05,其他用途,Other uses
+HKMDS,#REF!,T0815,class3_code,typeu_06,公用事業／團體用途,Public utilities/institutional uses
+HKMDS,#REF!,T0815,class3_code,typeu_tt,總計,Total
+HKMDS,#REF!,T0815,other_info,note_G1,以上資料乃根據在該時期達成協議的個案而定。,Information above is based on transactions agreed during the period.
+HKMDS,#REF!,T0815,note_figure,(#),臨時數字,Provisional figures
+HKMDS,#REF!,T0815,other_info,source,地政總署,Lands Department
